@@ -113,3 +113,7 @@ h1,h2,.card h3,.controls label{font-family:Georgia,serif}h1{font-size:clamp(32px
 .card h3{font-size:24px;line-height:1.25;letter-spacing:-.5px;margin:16px 0 10px;color:#10244a}.card.night-card h3,.card.day-card h3{margin-top:16px}
 .card:not(.rainbow-card):not(.trans-card) .description,.card:not(.rainbow-card):not(.trans-card) .metadata p{color:#435573}.card p{font-size:14px}.card .actions a{background:#ffffffb5;border:1px solid #ccd6e8;color:#132d53}.card .actions a:first-child{background:#092853;border:1px solid #092853;color:white}.card details{border-color:#acbed34d}.card.night-card .provenance{color:#63708a}.card.night-card details{border-color:#acbed34d}.card.night-card .actions a:first-child,.card.day-card .actions a:first-child{background:#092853;color:white}
 @media(max-width:600px){.card h3{font-size:23px}}
+
+/* Approved museum photo banner. */
+.hero{background:linear-gradient(90deg,rgba(7,22,46,.86),rgba(7,22,46,.56) 48%,rgba(7,22,46,.08)),url('denver-museum.png') center/cover}
+@media(max-width:600px){.hero{background:linear-gradient(90deg,#061a3cd9,#061a3c66),url('denver-museum.png') 60% center/cover}}
