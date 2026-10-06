@@ -62,7 +62,7 @@ function render() {
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=9'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=10'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => ({...r, displayCategory: r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
     options(ui.category, resources.map(r => r.displayCategory)); render();
