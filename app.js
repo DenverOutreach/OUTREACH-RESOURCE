@@ -1,8 +1,12 @@
 'use strict';
-const ui = Object.fromEntries(['search', 'category', 'city', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
+const ui = Object.fromEntries(['search', 'category', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
 let resources = [];
-const colors = [['#258475','#e0f1e8'],['#c98138','#fff0d8'],['#7e6ba6','#eee8f7'],['#467aa2','#e5f0fa'],['#aa637a','#f9e8ed']];
-const categoryCorrections = {'Food Recources':'Food Resources','Furntiure Assistance':'Furniture Assistance','Veteran Servcies':'Veteran Services'};
+const colors = [['#526b61','#e7eee9'],['#a08060','#f1eade'],['#737c8a','#e9ecf1'],['#52778b','#e5edf1'],['#8b756e','#f1e8e3']];
+let quickCategory = '';
+function matchesCategory(r) {
+  if (quickCategory === 'Food Resources') return ['Food', 'Food Resources'].includes(r.category);
+  return !ui.category.value || r.displayCategory === ui.category.value;
+}
 function node(tag, text, className) { const el = document.createElement(tag); if (text) el.textContent = text; if (className) el.className = className; return el; }
 function websiteUrl(value) {
   if (!value || /\s/.test(value)) return null;
@@ -36,7 +40,8 @@ function card(r) {
 }
 function render() {
   const query = ui.search.value.trim().toLowerCase();
-  const matches = resources.filter(r => (!ui.category.value || r.displayCategory === ui.category.value) && (!ui.city.value || r.city === ui.city.value) && (!query || r.searchText.includes(query)));
+  const matches = resources.filter(r => matchesCategory(r) && (!query || r.searchText.includes(query)));
+  document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === quickCategory)));
   ui.resources.replaceChildren(...matches.map(card)); ui.count.textContent = `${matches.length} of ${resources.length} resource entries`; ui.empty.hidden = matches.length !== 0;
 }
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
@@ -44,10 +49,15 @@ async function start() {
   try {
     const response = await fetch('./data/resources.json'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
-    resources = data.resources.map(r => ({...r, displayCategory: categoryCorrections[r.category] || r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
-    options(ui.category, resources.map(r => r.displayCategory)); options(ui.city, resources.map(r => r.city)); render();
+    resources = data.resources.map(r => ({...r, displayCategory: r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
+    options(ui.category, resources.map(r => r.displayCategory)); render();
   } catch { ui.count.textContent = 'The resource guide could not load.'; ui.empty.textContent = 'Please reload the page. If opening the downloaded files, use a local web server or GitHub Pages.'; ui.empty.hidden = false; }
 }
-ui.search.addEventListener('input', render); ui.category.addEventListener('change', render); ui.city.addEventListener('change', render);
-ui.reset.addEventListener('click', () => { ui.search.value = ''; ui.category.value = ''; ui.city.value = ''; render(); ui.search.focus(); });
+ui.search.addEventListener('input', render);
+ui.category.addEventListener('change', () => { quickCategory = ''; render(); });
+ui.reset.addEventListener('click', () => { ui.search.value = ''; ui.category.value = ''; quickCategory = ''; render(); ui.search.focus(); });
+document.querySelectorAll('[data-category]').forEach(button => button.addEventListener('click', () => {
+  ui.search.value = ''; quickCategory = button.dataset.category; ui.category.value = quickCategory; render();
+  document.getElementById('directory').scrollIntoView({behavior: 'smooth', block: 'start'});
+}));
 start();

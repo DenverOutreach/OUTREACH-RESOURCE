@@ -16,7 +16,7 @@
       "notes": "Text 'TALK' to 38255 for support; confidential and free of charge",
       "id": "resource-001",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 2
       }
@@ -29,7 +29,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "303-602-7221",
-      "website": "",
+      "website": "https://www.denverhealth.org/services/emergency-medicine/psychiatric",
       "hours": "24/7",
       "intake": "Walk-in emergency services",
       "eligibility": "Individuals experiencing psychiatric emergencies",
@@ -37,7 +37,7 @@
       "notes": "Accepts psychiatric and substance-related emergencies",
       "id": "resource-002",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 3
       }
@@ -58,7 +58,7 @@
       "notes": "Alternative response to police for non-violent crises.",
       "id": "resource-003",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 4
       }
@@ -71,7 +71,7 @@
       "state": "CO",
       "zipCode": "80220",
       "phone": "303-504-7700",
-      "website": "",
+      "website": "https://www.wellpower.org/",
       "hours": "Mon-Fri 8 AM - 5 PM",
       "intake": "Call to schedule appointment",
       "eligibility": "Individuals seeking mental health care",
@@ -79,7 +79,7 @@
       "notes": "Formerly known as Mental Health Center of Denver",
       "id": "resource-004",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 5
       }
@@ -92,7 +92,7 @@
       "state": "CO",
       "zipCode": "80206",
       "phone": "720-788-0062",
-      "website": "",
+      "website": "https://youthseen.org/",
       "hours": "Mon-Fri 9 AM - 5:30 PM",
       "intake": "Call or text",
       "eligibility": "LGBTQI+ youth and families",
@@ -100,7 +100,7 @@
       "notes": "Provides training for organizations working with LGBTQ+ youth",
       "id": "resource-005",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 6
       }
@@ -121,7 +121,7 @@
       "notes": "Program transitioned from Colorado Fund for People with Disabilities to RMHS in 2020",
       "id": "resource-006",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 7
       }
@@ -142,7 +142,7 @@
       "notes": "Offers a broad range of support services with a focus on individualized care and community stability",
       "id": "resource-007",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 8
       }
@@ -163,7 +163,7 @@
       "notes": "Provides work clothing, tools, and transportation assistance",
       "id": "resource-008",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 9
       }
@@ -176,7 +176,7 @@
       "state": "CO",
       "zipCode": "80020",
       "phone": "303-466-4272 (Option 2)",
-      "website": "",
+      "website": "https://apreciouschild.org/",
       "hours": "Mon-Fri 9 AM - 5 PM",
       "intake": "Referral required",
       "eligibility": "Must meet federal poverty line or qualify for government assistance",
@@ -184,7 +184,7 @@
       "notes": "Only one parent allowed during shopping appointments",
       "id": "resource-009",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 10
       }
@@ -197,7 +197,7 @@
       "state": "CO",
       "zipCode": "80218",
       "phone": "303-321-4198",
-      "website": "",
+      "website": "https://tgpdenver.org/what-we-do/bridgets-boutique-old.html",
       "hours": "Wed-Fri 1 PM - 3 PM (By appointment)",
       "intake": "Appointment required",
       "eligibility": "Women, transgender individuals, children experiencing homelessness or poverty",
@@ -205,7 +205,7 @@
       "notes": "Part of The Gathering Place program",
       "id": "resource-010",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 11
       }
@@ -218,7 +218,7 @@
       "state": "CO",
       "zipCode": "80222",
       "phone": "720-379-4630",
-      "website": "",
+      "website": "https://clothestokidsdenver.org/",
       "hours": "Tue-Fri 9 AM - 4 PM, Sat 9 AM - 1 PM",
       "intake": "Walk-in or curbside service",
       "eligibility": "Children ages 3-21 enrolled in school or working towards a GED",
@@ -226,7 +226,7 @@
       "notes": "Wardrobe includes 5 tops, 4 bottoms, 1 jacket, shoes, underwear, socks",
       "id": "resource-011",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 12
       }
@@ -239,7 +239,7 @@
       "state": "CO",
       "zipCode": "80222",
       "phone": "303-832-1889",
-      "website": "",
+      "website": "https://denver.dressforsuccess.org/",
       "hours": "Tue-Fri 9:30 AM - 5 PM",
       "intake": "Referral required",
       "eligibility": "Women seeking employment",
@@ -247,7 +247,7 @@
       "notes": "Offers employment and interview clothing bags",
       "id": "resource-012",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 13
       }
@@ -260,7 +260,7 @@
       "state": "CO",
       "zipCode": "80215",
       "phone": "303-237-7704",
-      "website": "",
+      "website": "https://www.theactioncenter.org/",
       "hours": "Mon, Tue, Thu, Fri 9:30 AM - 11:30 AM, 1 PM - 3 PM",
       "intake": "Walk-in, once per month per household",
       "eligibility": "No appointment or referral necessary",
@@ -268,7 +268,7 @@
       "notes": "Only one person per household can shop",
       "id": "resource-013",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 14
       }
@@ -289,7 +289,7 @@
       "notes": "Provides support without discrimination",
       "id": "resource-014",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 15
       }
@@ -307,10 +307,10 @@
       "intake": "Walk-ins welcome during operational hours",
       "eligibility": "Open to all community members",
       "services": "Free healthy food distribution, art and music classes, athletic and recreational activities, cultural and educational programs, community events and meetings",
-      "notes": "Prioritizes residents of the 80216 area; offers various community-focused programs and events",
+      "notes": "Prioritizes residents of the 80216 area; offers various community-focused programs and events\nCONTACT UNRESOLVED: No reliable public phone found on the provider contact page. Use https://www.birdseedcollective.org/contact.",
       "id": "resource-015",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 16
       }
@@ -331,7 +331,7 @@
       "notes": "Offers a wide range of wraparound services to individuals experiencing poverty or housing instability",
       "id": "resource-016",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 17
       }
@@ -352,7 +352,7 @@
       "notes": "Focused on community engagement and long-term support",
       "id": "resource-017",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 18
       }
@@ -373,7 +373,7 @@
       "notes": "Participants earn stipends by creating sustainable goods and tending gardens; promotes environmental and personal healing",
       "id": "resource-018",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 19
       }
@@ -386,7 +386,7 @@
       "state": "CO",
       "zipCode": "80202",
       "phone": "303-292-1556",
-      "website": "",
+      "website": "https://holyghostchurch.org/contact-us/",
       "hours": "Mon-Fri 8:30 AM - 3:30 PM",
       "intake": "Walk-in",
       "eligibility": "No restrictions",
@@ -394,7 +394,7 @@
       "notes": "Limited supply, call for availability",
       "id": "resource-019",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 20
       }
@@ -415,7 +415,7 @@
       "notes": "Focuses on empowerment and quality of life for low-income families",
       "id": "resource-020",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 21
       }
@@ -436,28 +436,28 @@
       "notes": "Coordinated entry required for housing resources.",
       "id": "resource-021",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 22
       }
     },
     {
       "name": "The Center for Trauma and Resilience",
-      "category": "Crisis Support, Trauma Counseling",
-      "streetAddress": "",
+      "category": "Domestic Violence Support",
+      "streetAddress": "PO Box 18975 (mailing only; call for service location)",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "80218 (mailing)",
       "phone": "303-894-8000 (ENG) / 303-718-8289 (SPA)",
-      "website": "",
+      "website": "https://www.traumahealth.org/",
       "hours": "24/7",
       "intake": "Call Hotline",
       "eligibility": "Victims of crime and trauma",
       "services": "Counseling, crisis intervention, referrals",
-      "notes": "Available in English, Spanish, and 711 for hearing-impaired",
+      "notes": "Available in English, Spanish, and 711 for hearing-impaired\nLOCATION REVIEW: Published address is a mailing PO box, not a walk-in site. Website lists office hours Monday-Friday 9 am-5 pm; confirm availability before using the existing 24/7 hours. Source: https://www.traumahealth.org/",
       "id": "resource-022",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 23
       }
@@ -478,7 +478,7 @@
       "notes": "Day center with access to multiple service providers.",
       "id": "resource-023",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 24
       }
@@ -491,7 +491,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "303-607-0855",
-      "website": "",
+      "website": "https://www.thoh.org/",
       "hours": "Mon-Fri 7 AM - 1 PM",
       "intake": "Walk-in",
       "eligibility": "No restrictions",
@@ -499,7 +499,7 @@
       "notes": "Provides additional daytime shelter services",
       "id": "resource-024",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 25
       }
@@ -520,7 +520,7 @@
       "notes": "Operated by Denver Rescue Mission; central hub for daytime support and services",
       "id": "resource-025",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 26
       }
@@ -541,7 +541,7 @@
       "notes": "Focuses on affirming dignity and fostering kinship among unhoused neighbors",
       "id": "resource-026",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 27
       }
@@ -554,7 +554,7 @@
       "state": "CO",
       "zipCode": "80205",
       "phone": "303-297-1576",
-      "website": "",
+      "website": "https://www.sfcdenver.org/",
       "hours": "7 AM - 3:45 PM (Wed: 7 AM - 2 PM)",
       "intake": "Walk-in",
       "eligibility": "No restrictions",
@@ -562,7 +562,7 @@
       "notes": "Closed 12 PM - 3:15 PM on the third Wednesday of each month",
       "id": "resource-027",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 28
       }
@@ -583,7 +583,7 @@
       "notes": "Daytime drop-in center focused on women and transgender individuals experiencing poverty or homelessness",
       "id": "resource-028",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 29
       }
@@ -596,7 +596,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "303-825-2294",
-      "website": "",
+      "website": "https://denveryouthdentistry.com/",
       "hours": "Mon 8 AM - 6 PM; Tue-Thu 9 AM - 6 PM; Fri 9 AM - 5 PM",
       "intake": "Walk-ins & same-day appointments accepted",
       "eligibility": "Accepts Medicaid, CHP+, and major insurance",
@@ -604,7 +604,7 @@
       "notes": "Bilingual staff available (English/Spanish)",
       "id": "resource-029",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 30
       }
@@ -617,7 +617,7 @@
       "state": "CO",
       "zipCode": "80210",
       "phone": "720-619-5333",
-      "website": "",
+      "website": "https://kindsmiles.org/",
       "hours": "Varies by location",
       "intake": "Call to schedule",
       "eligibility": "Children up to 18; must meet federal low-income guidelines",
@@ -625,7 +625,7 @@
       "notes": "Accepts Medicaid & CHP+",
       "id": "resource-030",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 31
       }
@@ -638,7 +638,7 @@
       "state": "CO",
       "zipCode": "80205",
       "phone": "303-293-2220",
-      "website": "",
+      "website": "https://www.coloradocoalition.org/healthservices",
       "hours": "Mon, Tue, Thu, Fri 7 AM - 4 PM; Wed 9 AM - 6 PM",
       "intake": "Walk-in or call for appointment",
       "eligibility": "Individuals experiencing homelessness",
@@ -646,7 +646,7 @@
       "notes": "Offers monthly pediatric dental night for families",
       "id": "resource-031",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 32
       }
@@ -659,7 +659,7 @@
       "state": "CO",
       "zipCode": "80045",
       "phone": "303-724-6900",
-      "website": "",
+      "website": "https://dental.cuanschutz.edu/patient-care",
       "hours": "Mon-Fri 8 AM - 5 PM",
       "intake": "Call to schedule an appointment",
       "eligibility": "Open to the public",
@@ -667,7 +667,7 @@
       "notes": "No payment plans available; low-cost services",
       "id": "resource-032",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 33
       }
@@ -680,7 +680,7 @@
       "state": "CO",
       "zipCode": "80222",
       "phone": "303-831-7392 / 24-hr Crisis Line: 303-831-7874",
-      "website": "",
+      "website": "https://deafdove.org/",
       "hours": "24/7",
       "intake": "Call hotline or email for support",
       "eligibility": "Survivors of domestic violence or sexual assault who are deaf, hard of hearing, or deaf-blind",
@@ -688,7 +688,7 @@
       "notes": "Offers ASL interpretation; email for VP meetings",
       "id": "resource-033",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 34
       }
@@ -701,7 +701,7 @@
       "state": "CO",
       "zipCode": "80033",
       "phone": "303-271-6100 / 24-hr Crisis Line: 303-420-6752",
-      "website": "",
+      "website": "https://thefamilytree.org/roots-of-courage/",
       "hours": "24/7",
       "intake": "Call crisis line for assistance",
       "eligibility": "Survivors of domestic violence and homelessness",
@@ -709,7 +709,7 @@
       "notes": "Services available in English and Spanish",
       "id": "resource-034",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 35
       }
@@ -722,7 +722,7 @@
       "state": "CO",
       "zipCode": "80040",
       "phone": "24-hr Crisis Line: 303-343-1851 / Office: 303-343-1856",
-      "website": "",
+      "website": "https://threebirdsalliance.org/",
       "hours": "24/7",
       "intake": "Call crisis line for assistance",
       "eligibility": "Survivors of domestic violence",
@@ -730,7 +730,7 @@
       "notes": "Operates two shelter facilities; bilingual services available",
       "id": "resource-035",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 36
       }
@@ -743,7 +743,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "720-337-4400",
-      "website": "",
+      "website": "https://roseandomcenter.org/",
       "hours": "Mon-Fri 9 AM - 5 PM",
       "intake": "Call for assistance",
       "eligibility": "Victims of domestic violence",
@@ -751,7 +751,7 @@
       "notes": "No walk-in services available",
       "id": "resource-036",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 37
       }
@@ -759,12 +759,12 @@
     {
       "name": "Safehouse Denver",
       "category": "Domestic Violence Support",
-      "streetAddress": "",
+      "streetAddress": "Confidential shelter location; call crisis line",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Confidential - not published",
       "phone": "303-318-9989",
-      "website": "",
+      "website": "https://www.safehouse-denver.org/",
       "hours": "24/7",
       "intake": "Call crisis line",
       "eligibility": "Survivors of domestic violence",
@@ -772,7 +772,7 @@
       "notes": "Confidential shelter location; bilingual services available",
       "id": "resource-037",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 38
       }
@@ -793,7 +793,7 @@
       "notes": "Some scholarships available; hybrid and in-person classes offered",
       "id": "resource-038",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 39
       }
@@ -814,7 +814,7 @@
       "notes": "Provides entrepreneurship support and financial planning assistance",
       "id": "resource-039",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 40
       }
@@ -835,7 +835,7 @@
       "notes": "Hybrid and in-person classes available",
       "id": "resource-040",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 41
       }
@@ -848,7 +848,7 @@
       "state": "CO",
       "zipCode": "80210",
       "phone": "303-974-2946",
-      "website": "",
+      "website": "https://www.urbanpeak.org/services",
       "hours": "Varies, call for details",
       "intake": "Call for appointment",
       "eligibility": "GED prep: 17-24; High school enrollment: 15-20; College/trade school enrollment: 17-24",
@@ -856,7 +856,7 @@
       "notes": "Covers full cost of official GED test",
       "id": "resource-041",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 42
       }
@@ -877,7 +877,7 @@
       "notes": "Faith-based organization, supports long-term recovery.",
       "id": "resource-042",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 43
       }
@@ -898,7 +898,7 @@
       "notes": "Focused on providing safe, dignified, and community-oriented shelter and housing solutions",
       "id": "resource-043",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 44
       }
@@ -919,14 +919,14 @@
       "notes": "Client-centered and trauma-informed care for men experiencing homelessness in Denver",
       "id": "resource-044",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 45
       }
     },
     {
       "name": "Salvation Army Connection Center",
-      "category": "Emergency Shelter for Families",
+      "category": "Emergency Shelter",
       "streetAddress": "1901 29th St",
       "city": "Denver",
       "state": "CO",
@@ -940,14 +940,14 @@
       "notes": "Provides case management for shelter residents.",
       "id": "resource-045",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 46
       }
     },
     {
       "name": "Sinton's Sanctuary",
-      "category": "Emergency Shelter for Senior Women",
+      "category": "Emergency Shelter",
       "streetAddress": "1247 Santa Fe Drive",
       "city": "Denver",
       "state": "CO",
@@ -961,7 +961,7 @@
       "notes": "Expands services during extreme weather to include women of all ages",
       "id": "resource-046",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 47
       }
@@ -982,7 +982,7 @@
       "notes": "Offers employment and interview clothing bags",
       "id": "resource-047",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 48
       }
@@ -1003,7 +1003,7 @@
       "notes": "Covers full GED test cost after program completion",
       "id": "resource-048",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 49
       }
@@ -1017,14 +1017,14 @@
       "zipCode": "80231",
       "phone": "303-318-8964",
       "website": "https://dvr.colorado.gov/",
-      "hours": "",
-      "intake": "",
-      "eligibility": "",
-      "services": "",
-      "notes": "",
+      "hours": "Monday-Friday, 8 am-5 pm (general office hours; confirm local office)",
+      "intake": "Request services online or through a local DVR office; eligibility assessment follows application.",
+      "eligibility": "Disability that creates a barrier to employment; vocational rehabilitation services needed to prepare for, obtain or retain work. DVR determines eligibility.",
+      "services": "Individualized employment planning and support to prepare for, obtain and retain employment.",
+      "notes": "REVIEW: The supplied Hampden address/phone could not be matched to the current office directory; confirm before a walk-in referral. A January 2026 state notice reports a waitlist for eligible people without an employment plan; ask DVR about current status. Source: https://content.govdelivery.com/accounts/CODLE/bulletins/4065f78",
       "id": "resource-049",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 50
       }
@@ -1039,13 +1039,13 @@
       "phone": "719-635-4483",
       "website": "https://goodwillcolorado.org/goodwill-jobs/career-development-services/",
       "hours": "",
-      "intake": "",
-      "eligibility": "",
-      "services": "",
-      "notes": "",
+      "intake": "Contact Career Development Services via website. CW STEP requires referral from a TANF caseworker.",
+      "eligibility": "People facing barriers to employment; program-specific screening. CW STEP requires active Colorado Works/TANF benefits and caseworker referral.",
+      "services": "Career matching, skills training, resume/interview preparation, job readiness support and mentoring.",
+      "notes": "HOURS UNRESOLVED: Career services hours are not published on the program page; contact staff. Eligibility and intake differ by program. Source: https://goodwillcolorado.org/goodwill-jobs/career-development-services/",
       "id": "resource-050",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 51
       }
@@ -1060,13 +1060,13 @@
       "phone": "303-866-5700",
       "website": "https://cdhs.colorado.gov/rehire-colorado",
       "hours": "",
-      "intake": "",
-      "eligibility": "",
-      "services": "",
-      "notes": "",
+      "intake": "Contact the local ReHire contractor for assessment and enrollment; provider application/interest form available online.",
+      "eligibility": "Colorado resident age 18+; lawfully present and eligible to work; available for employment and not incarcerated; family income below 150% of federal poverty level; unemployed or working no more than 20 hours/week for four consecutive weeks; active public workforce job search. Confirm current contractor screening.",
+      "services": "Transitional paid employment, job skills assessment/training, coaching, job placement and ongoing support.",
+      "notes": "HOURS UNRESOLVED: Enrollment/site hours depend on the local contractor and were not verified. The supplied Sherman address is a state administrative address; confirm the service site. Denver-area contractor availability must be checked. Source: https://cdhs.colorado.gov/rehire-colorado",
       "id": "resource-051",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 52
       }
@@ -1080,14 +1080,14 @@
       "zipCode": "80202",
       "phone": "(720) 913-19999",
       "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Economic-Development-Opportunity/Jobseekers-Employers",
-      "hours": "",
-      "intake": "",
-      "eligibility": "",
-      "services": "",
-      "notes": "",
+      "hours": "Monday-Thursday, 9 am-4 pm; closed holidays",
+      "intake": "Walk in or arrange an appointment; call 720-337-9675 or email workforce@denvergov.org.",
+      "eligibility": "Jobseekers, including youth, older adults, veterans, newcomers and people with disabilities; ask about specific training eligibility.",
+      "services": "No-cost career coaching, job search and resume help, training connections, computer/internet access and employment support.",
+      "notes": "PHONE REVIEW: Existing phone has an extra digit. Current city workforce contact is 720-337-9675; original phone retained for review. Source: https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Economic-Development-Opportunity/Jobseekers-Employers/For-Jobseekers",
       "id": "resource-052",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 53
       }
@@ -1101,14 +1101,14 @@
       "zipCode": "80205",
       "phone": "(303) 293-2217",
       "website": "https://www.coloradocoalition.org/jobhelp",
-      "hours": "",
-      "intake": "",
-      "eligibility": "",
-      "services": "",
-      "notes": "",
+      "hours": "Monday-Friday, 9 am-4 pm (Vocational Services)",
+      "intake": "Call 303-312-9835 for appointment and eligibility assessment, or submit the online job-help form.",
+      "eligibility": "Employment help for jobseekers; specialized services for veterans, women and people experiencing homelessness. Call for program eligibility assessment.",
+      "services": "Individual employment plans, career counseling, resume/interview help, readiness training, job search/placement and ongoing support.",
+      "notes": "LOCATION REVIEW: Supplied Champa address/phone are the main office. Vocational Services lists 563 East Colfax Avenue, Denver CO 80203 and 303-312-9835. Source: https://www.coloradocoalition.org/jobhelp",
       "id": "resource-053",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 54
       }
@@ -1129,7 +1129,7 @@
       "notes": "Employment support provided through Bayaud Enterprises in partnership with the City of Denver",
       "id": "resource-054",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 55
       }
@@ -1150,7 +1150,7 @@
       "notes": "Offers financial assistance for work-related expenses like tools, training, and transportation",
       "id": "resource-055",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 56
       }
@@ -1171,14 +1171,14 @@
       "notes": "Offers rent or deposit assistance for program participants",
       "id": "resource-056",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 57
       }
     },
     {
       "name": "We Don't Waste",
-      "category": "Food Recources",
+      "category": "Food Resources",
       "streetAddress": "6090 E 39th Avenue",
       "city": "Denver",
       "state": "CO",
@@ -1192,7 +1192,7 @@
       "notes": "Major food waste reduction nonprofit in Colorado",
       "id": "resource-057",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 58
       }
@@ -1213,7 +1213,7 @@
       "notes": "Food justice nonprofit empowering residents through food and leadership",
       "id": "resource-058",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 59
       }
@@ -1226,7 +1226,7 @@
       "state": "CO",
       "zipCode": "80215",
       "phone": "303-237-7703",
-      "website": "",
+      "website": "https://www.theactioncenter.org/",
       "hours": "Mon, Tue, Thu, Fri 9:30 AM - 11:30 AM, 1 PM - 3 PM",
       "intake": "Walk-in, once per month per household",
       "eligibility": "No appointment or referral necessary",
@@ -1234,7 +1234,7 @@
       "notes": "Only one person per household can shop",
       "id": "resource-059",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 60
       }
@@ -1248,14 +1248,14 @@
       "zipCode": "80211",
       "phone": "(303) 433-6328",
       "website": "https://bienvenidosfoodbank.org/",
-      "hours": "Not specified",
-      "intake": "Not specified",
-      "eligibility": "Not specified",
-      "services": "Not specified",
+      "hours": "Jan-Oct: 1st, 2nd and 4th Thursdays, 10 am-noon and 3:30-5:30 pm. Nov-Dec: 1st, 2nd and 3rd Thursdays, same hours. Check closure notices.",
+      "intake": "Drop-in registration; arrive at least 10 minutes before closing. Bring reusable bags/box, name/phone and ID or address proof if available.",
+      "eligibility": "Anyone needing food is welcome; primarily serves North Denver. Assistance is per household; no appointment required.",
+      "services": "Healthy food and groceries through the Pecos Street pantry; separate mobile market and SNAP application information.",
       "notes": "Serving NW Denver for over 47 years",
       "id": "resource-060",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 61
       }
@@ -1276,7 +1276,7 @@
       "notes": "Operates out of Calvary Baptist Church",
       "id": "resource-061",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 62
       }
@@ -1288,7 +1288,7 @@
       "city": "Denver",
       "state": "CO",
       "zipCode": "80205",
-      "phone": "",
+      "phone": "303-847-8239 (CHCS main office)",
       "website": "https://www.coloradogives.org/organization/CHCS",
       "hours": "Saturday 11:30 AM - 12:15 PM",
       "intake": "Walk-in",
@@ -1297,7 +1297,7 @@
       "notes": "Meals served at Agape Christian Church",
       "id": "resource-062",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 63
       }
@@ -1309,7 +1309,7 @@
       "city": "Denver",
       "state": "CO",
       "zipCode": "80202",
-      "phone": "",
+      "phone": "303-847-8239 (CHCS main office)",
       "website": "https://www.coloradogives.org/organization/CHCS",
       "hours": "Mon, Tue, Thu, Fri 11:45 AM - 12:15 PM",
       "intake": "Walk-in",
@@ -1318,7 +1318,7 @@
       "notes": "Meals served at Trinity United Methodist Church",
       "id": "resource-063",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 64
       }
@@ -1331,7 +1331,7 @@
       "state": "CO",
       "zipCode": "80203",
       "phone": "303-831-7010",
-      "website": "",
+      "website": "https://www.denvercathedral.org/",
       "hours": "Mon-Fri 1 PM - 1:30 PM",
       "intake": "Walk-in",
       "eligibility": "No restrictions",
@@ -1339,7 +1339,7 @@
       "notes": "One bag of food per visit",
       "id": "resource-064",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 65
       }
@@ -1360,7 +1360,7 @@
       "notes": "Held weekly at Benedict Fountain Park",
       "id": "resource-065",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 66
       }
@@ -1381,7 +1381,7 @@
       "notes": "Free parking at York & 16th",
       "id": "resource-066",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 67
       }
@@ -1399,10 +1399,10 @@
       "intake": "Walk-in",
       "eligibility": "Open to all",
       "services": "Free vegan meals, community support",
-      "notes": "Volunteer-driven collective focused on food justice and mutual aid",
+      "notes": "Volunteer-driven collective focused on food justice and mutual aid\nCONTACT UNRESOLVED: No reliable Denver chapter phone found. The national chapter directory lists email/social media only. https://foodnotbombs.net/new_site/map/colorado.html",
       "id": "resource-067",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 68
       }
@@ -1413,7 +1413,7 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "303-371-9250 / Toll-Free: 877-460-8504",
       "website": "https://www.foodbankrockies.org/emergency-assistance/",
       "hours": "Varies",
@@ -1423,7 +1423,7 @@
       "notes": "Online emergency food locator available",
       "id": "resource-068",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 69
       }
@@ -1434,7 +1434,7 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "(720) 328-1284",
       "website": "https://hungerfreecolorado.org/",
       "hours": "Mon - Thu, 8:30 AM - 4:30 PM",
@@ -1444,7 +1444,7 @@
       "notes": "Hotline provides support in 150+ languages",
       "id": "resource-069",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 70
       }
@@ -1465,7 +1465,7 @@
       "notes": "First-time users must create an account",
       "id": "resource-070",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 71
       }
@@ -1486,7 +1486,7 @@
       "notes": "Inclusive environment, welcoming all backgrounds including LGBTQ+",
       "id": "resource-071",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 72
       }
@@ -1507,7 +1507,7 @@
       "notes": "Pay-what-you-can model, accepts volunteer work in exchange for meals",
       "id": "resource-072",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 73
       }
@@ -1528,7 +1528,7 @@
       "notes": "Serves 6,500 client families annually",
       "id": "resource-073",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 74
       }
@@ -1541,7 +1541,7 @@
       "state": "CO",
       "zipCode": "80205",
       "phone": "303-295-2165",
-      "website": "",
+      "website": "https://www.voacolorado.org/services/mission-denver-metro/",
       "hours": "Mon-Thu: Breakfast 8 AM - 8:30 AM, Lunch 11:30 AM - 12 PM, Dinner 5 PM - 5:30 PM; Fri 12 PM - 12:30 PM; Sun 1 PM - 1:30 PM",
       "intake": "Walk-in",
       "eligibility": "No restrictions",
@@ -1549,7 +1549,7 @@
       "notes": "Food provided daily",
       "id": "resource-074",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 75
       }
@@ -1560,17 +1560,17 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "Varies by location",
-      "website": "",
+      "website": "https://arcthrift.com/",
       "hours": "Mon-Fri 9 AM - 9 PM; Sat 8 AM - 9 PM; Sun 10 AM - 6 PM",
       "intake": "Walk-in",
       "eligibility": "Open to all",
       "services": "Clothing, household goods, support for individuals with disabilities",
-      "notes": "Donation drop-offs accepted at multiple locations",
+      "notes": "Donation drop-offs accepted at multiple locations\nCONTACT UNRESOLVED: Store phone varies by branch; no branch specified. Use the official website to select the location.",
       "id": "resource-075",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 76
       }
@@ -1581,17 +1581,17 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "Varies by location",
-      "website": "",
+      "website": "https://goodwillcolorado.org/shop/locations/",
       "hours": "Mon-Sat 9 AM - 8 PM; Sun 9 AM - 7 PM",
       "intake": "Walk-in",
       "eligibility": "Open to all",
       "services": "Affordable furniture, clothing, and home goods",
-      "notes": "Multiple locations available",
+      "notes": "Multiple locations available\nCONTACT UNRESOLVED: Store phone varies by branch; no branch specified. Use the official location directory.",
       "id": "resource-076",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 77
       }
@@ -1602,17 +1602,17 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "Varies by location",
-      "website": "",
+      "website": "https://redwhiteandbluethriftstore.com/thrift-store-locations/",
       "hours": "Mon-Sat 9 AM - 6 PM",
       "intake": "Walk-in",
       "eligibility": "Open to all",
       "services": "Furniture, clothing, home goods",
-      "notes": "50% off daily specials, cash-only store",
+      "notes": "50% off daily specials, cash-only store\nCONTACT UNRESOLVED: Store phone varies by branch; no branch specified. Mile High Thrift is now Red White & Blue Thrift per the provider. Use the official location directory.",
       "id": "resource-077",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 78
       }
@@ -1625,7 +1625,7 @@
       "state": "CO",
       "zipCode": "80121",
       "phone": "720-446-1877",
-      "website": "",
+      "website": "https://loveinclittleton.org/renewed-treasures/",
       "hours": "Tue-Sat 9 AM - 5 PM",
       "intake": "Walk-in",
       "eligibility": "Open to all",
@@ -1633,28 +1633,28 @@
       "notes": "Reasonably priced, gently used items",
       "id": "resource-078",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 79
       }
     },
     {
       "name": "Habitat for Humanity Re-Store",
-      "category": "Furntiure Assistance",
+      "category": "Furniture Assistance",
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "Varies by location",
-      "website": "",
+      "website": "https://habitatmetrodenver.org/restore/locations/",
       "hours": "Tue-Sat 10 AM - 4:30 PM",
       "intake": "Walk-in",
       "eligibility": "Open to all",
       "services": "Furniture, appliances, home improvement items",
-      "notes": "Donations accepted during open hours",
+      "notes": "Donations accepted during open hours\nCONTACT UNRESOLVED: Store phone varies by branch; no branch specified. Use the official ReStore location directory.",
       "id": "resource-079",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 80
       }
@@ -1675,7 +1675,7 @@
       "notes": "Provides both fixed-site and mobile syringe access programs",
       "id": "resource-080",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 81
       }
@@ -1696,7 +1696,7 @@
       "notes": "Offers in-person and virtual support services",
       "id": "resource-081",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 82
       }
@@ -1717,7 +1717,7 @@
       "notes": "Operated by Colorado Visiting Nurse Association; provides mobile care and support services",
       "id": "resource-082",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 83
       }
@@ -1738,7 +1738,7 @@
       "notes": "Specializes in HIV care with wraparound health and wellness services",
       "id": "resource-083",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 84
       }
@@ -1751,7 +1751,7 @@
       "state": "CO",
       "zipCode": "80214",
       "phone": "303-202-6340 / 1-844-926-6632",
-      "website": "",
+      "website": "https://coloradohousingconnects.org/",
       "hours": "Mon-Fri 8:30 AM - 4:30 PM",
       "intake": "Call or email for appointment",
       "eligibility": "Low-income, elderly, disabled residents",
@@ -1759,7 +1759,7 @@
       "notes": "Provides HUD, rent, and Section 8 support",
       "id": "resource-084",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 85
       }
@@ -1780,7 +1780,7 @@
       "notes": "Offers integrated healthcare and supportive services.",
       "id": "resource-085",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 86
       }
@@ -1793,7 +1793,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "720-932-3000",
-      "website": "",
+      "website": "https://www.denverhousing.org/",
       "hours": "Mon-Fri 8 AM - 4:30 PM",
       "intake": "Call for details",
       "eligibility": "Applicants must meet HUD income requirements",
@@ -1801,7 +1801,7 @@
       "notes": "Manages over 3,900 public housing units",
       "id": "resource-086",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 87
       }
@@ -1822,7 +1822,7 @@
       "notes": "Offers holistic family-focused services to support long-term housing stability",
       "id": "resource-087",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 88
       }
@@ -1835,7 +1835,7 @@
       "state": "CO",
       "zipCode": "80216",
       "phone": "303-292-0770",
-      "website": "",
+      "website": "https://www.focuspoints.org/",
       "hours": "Mon-Fri 9 AM - 5 PM",
       "intake": "Call for appointment",
       "eligibility": "Residents of Globeville Elyria-Swansea (GES) & surrounding areas",
@@ -1843,7 +1843,7 @@
       "notes": "Can assist with past-due utility bills twice per family",
       "id": "resource-088",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 89
       }
@@ -1856,7 +1856,7 @@
       "state": "CO",
       "zipCode": "80206",
       "phone": "303-377-3334",
-      "website": "",
+      "website": "https://www.nedenverhousing.org/programs-services/",
       "hours": "No in-person appointments",
       "intake": "Call for more information",
       "eligibility": "Residents seeking housing stability",
@@ -1864,7 +1864,7 @@
       "notes": "Partner with TRUA for rent and utility aid",
       "id": "resource-089",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 90
       }
@@ -1885,7 +1885,7 @@
       "notes": "Faith-based organization serving families, youth, and individuals in need",
       "id": "resource-090",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 91
       }
@@ -1906,7 +1906,7 @@
       "notes": "Provides support for up to 5 years after arrival",
       "id": "resource-091",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 92
       }
@@ -1927,7 +1927,7 @@
       "notes": "Consultations provided by volunteer attorneys",
       "id": "resource-092",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 93
       }
@@ -1940,7 +1940,7 @@
       "state": "CO",
       "zipCode": "80222",
       "phone": "720-507-7031",
-      "website": "",
+      "website": "https://www.rescue.org/united-states/denver-co",
       "hours": "Varies",
       "intake": "Call for details",
       "eligibility": "Refugees, asylees, human trafficking survivors",
@@ -1948,7 +1948,7 @@
       "notes": "Assists with self-sufficiency programs for new arrivals",
       "id": "resource-093",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 94
       }
@@ -1969,7 +1969,7 @@
       "notes": "Specializes in defending detained immigrants",
       "id": "resource-094",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 95
       }
@@ -1990,7 +1990,7 @@
       "notes": "Handles civil rights cases for immigrants",
       "id": "resource-095",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 96
       }
@@ -2011,7 +2011,7 @@
       "notes": "Limited in-person availability, online intake recommended",
       "id": "resource-096",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 97
       }
@@ -2022,9 +2022,9 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
-      "phone": "",
-      "website": "",
+      "zipCode": "Varies by service location - see website",
+      "phone": "720-913-8480",
+      "website": "https://www.denvercountycourt.org/court/",
       "hours": "2nd Wednesday of each month",
       "intake": "Sign up at 7 AM at designated locations",
       "eligibility": "Individuals with municipal citations",
@@ -2032,7 +2032,7 @@
       "notes": "Held at Haven of Hope and Denver Rescue Mission",
       "id": "resource-097",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 98
       }
@@ -2045,7 +2045,7 @@
       "state": "CO",
       "zipCode": "80203",
       "phone": "303-722-0300",
-      "website": "",
+      "website": "https://resources.disabilitylawco.org/",
       "hours": "Varies",
       "intake": "Call for consultation",
       "eligibility": "People with disabilities facing legal issues",
@@ -2053,7 +2053,7 @@
       "notes": "Free or low-cost legal services available",
       "id": "resource-098",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 99
       }
@@ -2066,7 +2066,7 @@
       "state": "CO",
       "zipCode": "80215",
       "phone": "303-295-2001",
-      "website": "",
+      "website": "https://www.rmvictimlaw.org/",
       "hours": "Varies",
       "intake": "Call for details",
       "eligibility": "Victims of crime in Colorado",
@@ -2074,7 +2074,7 @@
       "notes": "Free legal services for victims navigating the justice system",
       "id": "resource-099",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 100
       }
@@ -2087,7 +2087,7 @@
       "state": "CO",
       "zipCode": "80206",
       "phone": "720-788-0061",
-      "website": "",
+      "website": "https://youthseen.org/",
       "hours": "Mon-Fri 9 AM - 5:30 PM",
       "intake": "Call or text",
       "eligibility": "LGBTQI+ youth and families",
@@ -2095,7 +2095,7 @@
       "notes": "Provides training for organizations working with LGBTQ+ youth",
       "id": "resource-100",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 101
       }
@@ -2116,7 +2116,7 @@
       "notes": "Supports gender and sexuality alliances (GSAs) in schools",
       "id": "resource-101",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 102
       }
@@ -2137,7 +2137,7 @@
       "notes": "Hosts events and advocacy programs for the LGBTQ+ community",
       "id": "resource-102",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 103
       }
@@ -2158,7 +2158,7 @@
       "notes": "Youth-led programming with adult supervision",
       "id": "resource-103",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 104
       }
@@ -2171,7 +2171,7 @@
       "state": "CO",
       "zipCode": "80110",
       "phone": "303-761-0200",
-      "website": "",
+      "website": "https://www.transgendercenteroftherockies.org/",
       "hours": "Mon-Fri 9 AM - 5 PM",
       "intake": "Call for information",
       "eligibility": "Transgender and gender-diverse individuals",
@@ -2179,7 +2179,7 @@
       "notes": "Hosts Marsha's Closet for gender-affirming clothing and accessories",
       "id": "resource-104",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 105
       }
@@ -2200,7 +2200,7 @@
       "notes": "Formerly Colorado AIDS Project; offers integrated medical and support services for people living with HIV/AIDS",
       "id": "resource-105",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 106
       }
@@ -2213,7 +2213,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "303-436-6000",
-      "website": "",
+      "website": "https://www.denverhealth.org/",
       "hours": "24/7",
       "intake": "Walk-in or call",
       "eligibility": "Open to all",
@@ -2221,7 +2221,7 @@
       "notes": "Full hospital services available at this location",
       "id": "resource-106",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 107
       }
@@ -2234,7 +2234,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "303-953-6600",
-      "website": "",
+      "website": "https://www.dihfs.org/",
       "hours": "Mon-Fri 8 AM - 5 PM",
       "intake": "Call for appointment",
       "eligibility": "American Indian and Alaskan Natives",
@@ -2242,7 +2242,7 @@
       "notes": "Assists with Medicaid and insurance navigation",
       "id": "resource-107",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 108
       }
@@ -2263,7 +2263,7 @@
       "notes": "Faith-based nonprofit healthcare provider serving metro Denver",
       "id": "resource-108",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 109
       }
@@ -2276,7 +2276,7 @@
       "state": "CO",
       "zipCode": "80205",
       "phone": "303-293-2220",
-      "website": "",
+      "website": "https://www.coloradocoalition.org/healthlocations",
       "hours": "Mon, Tue, Thu, Fri 7 AM - 4 PM; Wed 9 AM - 6 PM",
       "intake": "Call for appointment",
       "eligibility": "Individuals experiencing homelessness",
@@ -2284,7 +2284,7 @@
       "notes": "Provides after-hours urgent care services",
       "id": "resource-109",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 110
       }
@@ -2295,7 +2295,7 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "303-360-6276",
       "website": "https://stridechc.org/locations/",
       "hours": "Varies by location",
@@ -2305,7 +2305,7 @@
       "notes": "Accepts Medicaid, Medicare, and private insurance",
       "id": "resource-110",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 111
       }
@@ -2318,7 +2318,7 @@
       "state": "CO",
       "zipCode": "80216",
       "phone": "303-458-5302",
-      "website": "",
+      "website": "https://www.tepeyachealth.org/contact-us",
       "hours": "Mon-Fri 8 AM - 5 PM; Sat 8 AM - 12 PM",
       "intake": "Call for appointment",
       "eligibility": "Open to all; sliding fee scale available",
@@ -2326,7 +2326,7 @@
       "notes": "Bilingual staff available for patient assistance",
       "id": "resource-111",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 112
       }
@@ -2337,9 +2337,9 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "303-818-0618",
-      "website": "",
+      "website": "https://coloradopetpantry.org/",
       "hours": "Varies by location",
       "intake": "Walk-in, call for confirmation",
       "eligibility": "No restrictions",
@@ -2347,7 +2347,7 @@
       "notes": "Clients may visit a food bank every two months",
       "id": "resource-112",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 113
       }
@@ -2360,7 +2360,7 @@
       "state": "CO",
       "zipCode": "80223",
       "phone": "720-944-4347",
-      "website": "",
+      "website": "https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Animal-Shelter/Resources",
       "hours": "Varies",
       "intake": "Referral required from caseworker",
       "eligibility": "Individuals experiencing temporary homelessness or crisis",
@@ -2368,7 +2368,7 @@
       "notes": "Only available during severe cold weather or emergencies",
       "id": "resource-113",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 114
       }
@@ -2389,7 +2389,7 @@
       "notes": "Accepts pet surrenders and offers end-of-life services",
       "id": "resource-114",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 115
       }
@@ -2402,15 +2402,15 @@
       "state": "CO",
       "zipCode": "80223",
       "phone": "303-722-5800",
-      "website": "",
+      "website": "https://humanecolorado.org/services/community-veterinary-services/",
       "hours": "Mon-Thu 7 AM - 6 PM",
       "intake": "First come, first served",
       "eligibility": "Pet owners in financial need",
       "services": "Veterinary care, spay/neuter, vaccinations",
-      "notes": "Serves clients on an honor system",
+      "notes": "Serves clients on an honor system\nContact update: Website points to the current provider, Humane Colorado (formerly Dumb Friends League), which lists its veterinary hospital at CSU Spur. The Yuma address in this row is historical; confirm location before referral.",
       "id": "resource-115",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 116
       }
@@ -2431,7 +2431,7 @@
       "notes": "No general wellness exams at this time",
       "id": "resource-116",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 117
       }
@@ -2439,10 +2439,10 @@
     {
       "name": "Assurance Wireless",
       "category": "Phone Assistance",
-      "streetAddress": "",
+      "streetAddress": "Online/phone application; local enrollment sites vary",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Not applicable to online/phone intake",
       "phone": "1-888-898-4888",
       "website": "https://www.assurancewireless.com/lifeline-services/states/colorado-lifeline-free-government-phone-service",
       "hours": "Varies",
@@ -2452,7 +2452,7 @@
       "notes": "Lifeline-supported service with no bills or contracts",
       "id": "resource-117",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 118
       }
@@ -2460,10 +2460,10 @@
     {
       "name": "Life Wireless",
       "category": "Phone Assistance",
-      "streetAddress": "",
+      "streetAddress": "Online application; check service availability by ZIP",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Not applicable to online/phone intake",
       "phone": "1-888-543-3620",
       "website": "https://www.lifewireless.com/enroll",
       "hours": "Varies",
@@ -2473,7 +2473,7 @@
       "notes": "Available for only one phone connection per household",
       "id": "resource-118",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 119
       }
@@ -2481,10 +2481,10 @@
     {
       "name": "Lifeline Support Center",
       "category": "Phone Assistance",
-      "streetAddress": "",
+      "streetAddress": "Online/phone support and application assistance",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Not applicable to online/phone intake",
       "phone": "1-800-234-9473",
       "website": "https://www.lifelinesupport.org/ls/default.aspx",
       "hours": "Varies",
@@ -2494,7 +2494,7 @@
       "notes": "Check eligibility at https://www.checklifeline.org/lifeline",
       "id": "resource-119",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 120
       }
@@ -2512,10 +2512,10 @@
       "intake": "Apply online or call",
       "eligibility": "Lifeline-eligible individuals",
       "services": "Free smartphone, unlimited texting, free monthly calling",
-      "notes": "Option to bring your own phone",
+      "notes": "Option to bring your own phone\nSERVICE STATUS UNRESOLVED: FCC suspended Q Link from Lifeline in November 2024; reliable current Colorado intake could not be verified. Do not use this row as a confirmed active referral. Street/ZIP left blank. Source: https://docs.fcc.gov/public/attachments/DA-24-1130A1.pdf",
       "id": "resource-120",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 121
       }
@@ -2523,10 +2523,10 @@
     {
       "name": "StandUP Wireless",
       "category": "Phone Assistance",
-      "streetAddress": "",
+      "streetAddress": "Online application; check service availability by ZIP",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Not applicable to online/phone intake",
       "phone": "1-800-544-4441",
       "website": "https://standupwireless.com/lifeline/",
       "hours": "Varies",
@@ -2536,7 +2536,7 @@
       "notes": "Limited availability per household",
       "id": "resource-121",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 122
       }
@@ -2547,7 +2547,7 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "303-295-2288",
       "website": "https://youhavealternatives.org/locations/",
       "hours": "Varies by location",
@@ -2557,7 +2557,7 @@
       "notes": "Provides material support and STD testing",
       "id": "resource-122",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 123
       }
@@ -2570,7 +2570,7 @@
       "state": "CO",
       "zipCode": "80205",
       "phone": "303-832-2858",
-      "website": "",
+      "website": "https://birthlinecolo.org/contact/",
       "hours": "Mon-Fri 10 AM - 4 PM (By Appointment)",
       "intake": "Call for appointment",
       "eligibility": "Open to all",
@@ -2578,7 +2578,7 @@
       "notes": "Counseling services available",
       "id": "resource-123",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 124
       }
@@ -2591,7 +2591,7 @@
       "state": "CO",
       "zipCode": "80207",
       "phone": "303-731-6130",
-      "website": "",
+      "website": "https://marisolhealth.com/locations/",
       "hours": "Mon-Fri 8:30 AM - 4:30 PM; Sat 9 AM - 1 PM",
       "intake": "Walk-in or appointment",
       "eligibility": "Open to all",
@@ -2599,7 +2599,7 @@
       "notes": "Low-cost options available for testing and treatment",
       "id": "resource-124",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 125
       }
@@ -2612,7 +2612,7 @@
       "state": "CO",
       "zipCode": "80218",
       "phone": "303-832-5069",
-      "website": "",
+      "website": "https://www.plannedparenthood.org/health-center/colorado/denver/80218/denver-central-health-center-2484-90210",
       "hours": "Mon-Sat, Hours Vary",
       "intake": "Call or visit website",
       "eligibility": "Open to all",
@@ -2620,19 +2620,19 @@
       "notes": "Multiple locations available in Denver Metro",
       "id": "resource-125",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 126
       }
     },
     {
       "name": "Colorado Drug Card",
-      "category": "Prescription Discount Program",
-      "streetAddress": "",
+      "category": "Medical Care",
+      "streetAddress": "Online card download; use at participating pharmacies",
       "city": "Statewide",
       "state": "CO",
-      "zipCode": "",
-      "phone": "",
+      "zipCode": "Not applicable to online/phone intake",
+      "phone": "720-539-1424 (Program Director)",
       "website": "http://www.coloradodrugcard.com/",
       "hours": "24/7 Online",
       "intake": "No enrollment required; print or save digital discount card",
@@ -2641,19 +2641,19 @@
       "notes": "No exclusions, pre-existing conditions covered",
       "id": "resource-126",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 127
       }
     },
     {
       "name": "SingleCare Prescription Discount Card",
-      "category": "Prescription Discount Program",
-      "streetAddress": "",
+      "category": "Medical Care",
+      "streetAddress": "Online/app discount card; use at participating pharmacies",
       "city": "Statewide",
       "state": "CO",
-      "zipCode": "",
-      "phone": "",
+      "zipCode": "Not applicable to online/phone intake",
+      "phone": "844-234-3057 (Customer support)",
       "website": "https://www.singlecare.com/prescription-discount-card",
       "hours": "24/7 Online",
       "intake": "Download or print card from website",
@@ -2662,7 +2662,7 @@
       "notes": "Can be used instead of insurance for cost savings",
       "id": "resource-127",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 128
       }
@@ -2683,7 +2683,7 @@
       "notes": "Services provided once a month for up to 6 months",
       "id": "resource-128",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 129
       }
@@ -2704,7 +2704,7 @@
       "notes": "Acts as a hub for law enforcement and community-based alternatives",
       "id": "resource-129",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 130
       }
@@ -2725,7 +2725,7 @@
       "notes": "Offers bicycles or bus passes for transportation assistance",
       "id": "resource-130",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 131
       }
@@ -2746,7 +2746,7 @@
       "notes": "Provides holistic and culturally relevant support services focused on self-sufficiency and healing",
       "id": "resource-131",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 132
       }
@@ -2763,11 +2763,11 @@
       "hours": "Varies",
       "intake": "Apply online or request a paper application",
       "eligibility": "Denver County residents for at least 30 days; must not have received rental assistance in past 24 months",
-      "services": "Mortgage assistance, eviction prevention, first monthÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s rent, security deposit",
+      "services": "Mortgage assistance, eviction prevention, first month's rent, security deposit",
       "notes": "Paper applications available for those without internet access",
       "id": "resource-132",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 133
       }
@@ -2778,17 +2778,17 @@
       "streetAddress": "Statewide",
       "city": "Colorado",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Statewide program - no single service ZIP",
       "phone": "1-888-480-0066",
       "website": "https://cdola.colorado.gov/rental-mortgage-assistance",
       "hours": "Mon-Fri 8:30 AM - 5:30 PM; Sat 8:30 AM - 12:30 PM",
       "intake": "Apply online or call for assistance",
       "eligibility": "Financial hardship due to COVID-19, proof of residency required",
       "services": "Past due rent, current rent, and up to 2 months of expected rent",
-      "notes": "Available for multiple counties in Colorado",
+      "notes": "Available for multiple counties in Colorado\nPROGRAM STATUS REVIEW: Official state page says federal ERAP funding is fully expended and no longer available. CERA is a separate program with different eligibility and application windows; recheck before referral. Source: https://doh.colorado.gov/emergency-rental-assistance",
       "id": "resource-133",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 134
       }
@@ -2801,7 +2801,7 @@
       "state": "CO",
       "zipCode": "80231",
       "phone": "720-248-4701",
-      "website": "",
+      "website": "https://www.jewishfamilyservice.org/about/contact",
       "hours": "Varies",
       "intake": "Phone screening required",
       "eligibility": "Existing lease required, demand notice preferred",
@@ -2809,14 +2809,14 @@
       "notes": "Does not provide first month's rent or deposit assistance",
       "id": "resource-134",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 135
       }
     },
     {
       "name": "Senior Support Services",
-      "category": "Senior Day Center & Support Services",
+      "category": "Senior Support",
       "streetAddress": "846 East 18th Avenue",
       "city": "Denver",
       "state": "CO",
@@ -2830,7 +2830,7 @@
       "notes": "Only day center in Denver focused exclusively on seniors experiencing homelessness",
       "id": "resource-135",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 136
       }
@@ -2848,23 +2848,23 @@
       "intake": "Call or email local contacts",
       "eligibility": "Individuals experiencing or at risk of homelessness with mental illness or medical impairments",
       "services": "Assistance with SSI/SSDI applications, case management, employment support",
-      "notes": "Operated through Easter Seals Colorado and Bayaud Enterprises",
+      "notes": "Operated through Easter Seals Colorado and Bayaud Enterprises\nLOCATION UNRESOLVED: No specific Denver SOAR provider is identified in this row and the state directory could not be retrieved. Street/ZIP left blank; confirm the local SOAR provider before referral. Source: https://soarworks.samhsa.gov/states/colorado",
       "id": "resource-136",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 137
       }
     },
     {
       "name": "Addiction Treatment Outpatient Services (ATOPS)",
-      "category": "Substance Use Treatment & Sober Living",
+      "category": "Substance Use Treatment",
       "streetAddress": "2755 S Locust St. Suite 132",
       "city": "Denver",
       "state": "CO",
       "zipCode": "80222",
       "phone": "303-329-3105",
-      "website": "",
+      "website": "https://www.atops.org/",
       "hours": "Varies by location",
       "intake": "Call for appointment",
       "eligibility": "Open to all; Medicaid accepted",
@@ -2872,20 +2872,20 @@
       "notes": "Multiple locations in Denver Metro area",
       "id": "resource-137",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 138
       }
     },
     {
       "name": "Denver Recovery Group",
-      "category": "Substance Use Treatment & Sober Living",
+      "category": "Substance Use Treatment",
       "streetAddress": "2822 E Colfax Ave",
       "city": "Denver",
       "state": "CO",
       "zipCode": "80206",
       "phone": "303-953-2299",
-      "website": "",
+      "website": "https://www.denverrecoverygroup.com/",
       "hours": "Mon-Fri 5 AM - 8 PM; Sat 5 AM - 9 AM",
       "intake": "Call for assessment",
       "eligibility": "Individuals with opioid or alcohol addiction",
@@ -2893,14 +2893,14 @@
       "notes": "Accepts most major insurance plans, sliding scale available",
       "id": "resource-138",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 139
       }
     },
     {
       "name": "Step Denver",
-      "category": "Substance Use Treatment & Sober Living",
+      "category": "Substance Use Treatment",
       "streetAddress": "2029 Larimer Street",
       "city": "Denver",
       "state": "CO",
@@ -2914,20 +2914,20 @@
       "notes": "No cost at entry; residents pay after employment is secured; no detox services",
       "id": "resource-139",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 140
       }
     },
     {
       "name": "STRIDE Community Health Center",
-      "category": "Substance Use Treatment & Sober Living",
+      "category": "Substance Use Treatment",
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "720-945-7636",
-      "website": "",
+      "website": "https://www.stridechc.org/",
       "hours": "Varies by location",
       "intake": "Call for assessment",
       "eligibility": "Individuals with opioid or alcohol addiction",
@@ -2935,14 +2935,14 @@
       "notes": "Support for transportation, resources, and access to care",
       "id": "resource-140",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 141
       }
     },
     {
       "name": "The Phoenix",
-      "category": "Substance Use Treatment & Sober Living",
+      "category": "Substance Use Treatment",
       "streetAddress": "2233 Champa St",
       "city": "Denver",
       "state": "CO",
@@ -2956,14 +2956,14 @@
       "notes": "Free programming for individuals in recovery",
       "id": "resource-141",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 142
       }
     },
     {
       "name": "Empowerment Program",
-      "category": "Support Services for Justice-Involved Women",
+      "category": "Re-entry Assistance",
       "streetAddress": "1600 York St. Ste 101",
       "city": "Denver",
       "state": "CO",
@@ -2977,7 +2977,7 @@
       "notes": "Aims to reduce recidivism through holistic behavioral health services",
       "id": "resource-142",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 143
       }
@@ -2985,10 +2985,10 @@
     {
       "name": "Comcast Internet Essentials",
       "category": "Technology & Internet",
-      "streetAddress": "",
+      "streetAddress": "Online/phone application; no local intake address verified",
       "city": "Statewide",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Not applicable to online/phone intake",
       "phone": "855-846-8376",
       "website": "https://www.internetessentials.com/",
       "hours": "Varies",
@@ -2998,7 +2998,7 @@
       "notes": "No term contract, credit check, or hidden fees",
       "id": "resource-143",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 144
       }
@@ -3009,7 +3009,7 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "720-865-1111",
       "website": "https://www.denverlibrary.org/locations",
       "hours": "Varies by location",
@@ -3019,7 +3019,7 @@
       "notes": "Offers Chromebook and internet hotspot loans for 3 months",
       "id": "resource-144",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 145
       }
@@ -3040,7 +3040,7 @@
       "notes": "No citizenship or immigration status check required",
       "id": "resource-145",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 146
       }
@@ -3048,10 +3048,10 @@
     {
       "name": "Colorado CARE Center",
       "category": "Utility Assistance",
-      "streetAddress": "",
+      "streetAddress": "Phone/text/web assistance; no walk-in site verified",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Not applicable to online/phone intake",
       "phone": "(303) 838-1200",
       "website": "https://carecenter.us/",
       "hours": "Mon-Fri 8:30 AM - 5:30 PM",
@@ -3061,7 +3061,7 @@
       "notes": "Supports TRUA, EMAP, and other state housing stability programs; no physical location,services offered online and by phone",
       "id": "resource-146",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 147
       }
@@ -3082,7 +3082,7 @@
       "notes": "Assistance available once per program year (October - September)",
       "id": "resource-147",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 148
       }
@@ -3095,7 +3095,7 @@
       "state": "CO",
       "zipCode": "80216",
       "phone": "720-377-1313",
-      "website": "",
+      "website": "https://ccdenver.org/emergency-services/",
       "hours": "Mon-Thu 8 AM - until slots are filled",
       "intake": "Call for appointment",
       "eligibility": "Residents of Adams, Arapahoe, Denver, and Jefferson counties",
@@ -3103,7 +3103,7 @@
       "notes": "Walk-ins not accepted; appointments required",
       "id": "resource-148",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 149
       }
@@ -3121,10 +3121,10 @@
       "intake": "Apply through LEAP",
       "eligibility": "Low-income households approved for LEAP",
       "services": "Water and wastewater bill assistance",
-      "notes": "Funds are limited and provided on a first-come, first-served basis",
+      "notes": "Funds are limited and provided on a first-come, first-served basis\nCONTACT UNRESOLVED: Program mismatch. Resource name is Denver Water but eligibility/website describes statewide LEAP water assistance. Confirm intended program before adding a phone. Denver Water currently lists Customer Care 303-893-2444 for payment assistance: https://www.denverwater.org/outreach/blog/catching-bills",
       "id": "resource-149",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 150
       }
@@ -3137,7 +3137,7 @@
       "state": "CO",
       "zipCode": "80205",
       "phone": "303-295-3366",
-      "website": "",
+      "website": "https://denvermetro.salvationarmy.org/im_denver_family_services/need-help-necesito-ayuda",
       "hours": "Varies",
       "intake": "Call early at 9 AM on Thursdays",
       "eligibility": "Varies; call for details",
@@ -3145,20 +3145,20 @@
       "notes": "Slots for assistance are limited; call early",
       "id": "resource-150",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 151
       }
     },
     {
       "name": "Denver County Veteran Services",
-      "category": "Veteran Servcies",
+      "category": "Veteran Services",
       "streetAddress": "1247 Sante Fe Dr.",
       "city": "Denver",
       "state": "CO",
       "zipCode": "80204",
       "phone": "720-944-3500",
-      "website": "",
+      "website": "https://vets.colorado.gov/services/county-veterans-service-offices",
       "hours": "Mon-Fri 8 AM - 4 PM",
       "intake": "Call to schedule an in-person or virtual appointment",
       "eligibility": "All veterans, regardless of time in service or discharge status",
@@ -3166,7 +3166,7 @@
       "notes": "Provides direct advocacy for VA claims and resource navigation",
       "id": "resource-151",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 152
       }
@@ -3187,7 +3187,7 @@
       "notes": "Serves as a one-stop shop for Veterans to access comprehensive supportive services",
       "id": "resource-152",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 153
       }
@@ -3200,7 +3200,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "303-825-2295",
-      "website": "",
+      "website": "https://denveryouthvision.com/locations/denver-youth-vision/",
       "hours": "Mon 8 AM - 6 PM; Tue-Thu 9 AM - 6 PM; Fri 9 AM - 5 PM",
       "intake": "Walk-ins & same-day appointments accepted",
       "eligibility": "Accepts Medicaid, CHP+, and major insurance",
@@ -3208,7 +3208,7 @@
       "notes": "Bilingual staff available (English/Spanish)",
       "id": "resource-153",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 154
       }
@@ -3226,10 +3226,10 @@
       "intake": "Appointment required",
       "eligibility": "Uninsured families earning less than $45,000/year",
       "services": "Eye exams ($38), glasses ($59.99+)",
-      "notes": "Accepts Medicaid and major vision insurance plans",
+      "notes": "Accepts Medicaid and major vision insurance plans\nCONTACT UNRESOLVED: The historical provider website www.envisioncolorado.com could not be verified as accessible/current. No verified website added. Historical match: https://www.jcmh.org/wp-content/uploads/Medicare-Vision.pdf",
       "id": "resource-154",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 155
       }
@@ -3237,10 +3237,10 @@
     {
       "name": "Eyecare America",
       "category": "Vision Care",
-      "streetAddress": "",
+      "streetAddress": "Referral program; participating eye doctor locations vary",
       "city": "Statewide",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by eye doctor location",
       "phone": "877-887-6327",
       "website": "https://secure.aao.org/Forms/ECAReferral",
       "hours": "Mon-Fri 8 AM - 4 PM",
@@ -3250,7 +3250,7 @@
       "notes": "Does not provide eyeglasses or refraction exams",
       "id": "resource-155",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 156
       }
@@ -3263,7 +3263,7 @@
       "state": "CO",
       "zipCode": "80205",
       "phone": "303-293-2220",
-      "website": "",
+      "website": "https://www.coloradocoalition.org/healthservices",
       "hours": "Mon-Fri 8:30 AM - 4 PM (Closed 12 PM - 1 PM)",
       "intake": "Call for appointment",
       "eligibility": "Individuals experiencing homelessness",
@@ -3271,7 +3271,7 @@
       "notes": "Pediatric clinic available 1st Wednesday of each month",
       "id": "resource-156",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 157
       }
@@ -3282,17 +3282,17 @@
       "streetAddress": "Multiple Locations",
       "city": "Denver Metro",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "720-295-2965",
       "website": "https://mydmv.colorado.gov/_/",
       "hours": "Mon-Fri 7 AM - 3:30 PM",
       "intake": "Online or in-person by appointment",
       "eligibility": "Colorado residents seeking ID or driverÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s license renewal",
-      "services": "Renewal, replacement, and application for ID or driverÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s licenses",
+      "services": "Renewal, replacement, and application for ID or driver's licenses",
       "notes": "Appointments required for in-person services",
       "id": "resource-157",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 158
       }
@@ -3305,7 +3305,7 @@
       "state": "CO",
       "zipCode": "80204",
       "phone": "720-295-7964",
-      "website": "",
+      "website": "https://www.denvergov.org/BirthDeathCertificates",
       "hours": "Mon-Fri 7:30 AM - 4 PM (9 AM start on second Tuesday of each month)",
       "intake": "Walk-ins accepted",
       "eligibility": "Must provide proper documentation for certificate requests",
@@ -3313,7 +3313,7 @@
       "notes": "Phone orders available",
       "id": "resource-158",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 159
       }
@@ -3334,7 +3334,7 @@
       "notes": "Online services available for most requests",
       "id": "resource-159",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 160
       }
@@ -3355,7 +3355,7 @@
       "notes": "Closed daily from 12-1 PM; virtual services available",
       "id": "resource-160",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 161
       }
@@ -3368,7 +3368,7 @@
       "state": "CO",
       "zipCode": "80003",
       "phone": "303-429-1012",
-      "website": "",
+      "website": "https://hopehousecolorado.org/",
       "hours": "Mon-Fri 8:30 AM - 4:30 PM; Extended summer hours Tue-Wed",
       "intake": "Call for eligibility",
       "eligibility": "Teen mothers under 20 years old",
@@ -3376,7 +3376,7 @@
       "notes": "12-bedroom home offering up to 2 years of support",
       "id": "resource-161",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 162
       }
@@ -3397,7 +3397,7 @@
       "notes": "Focused on supporting street youth and young adults experiencing homelessness",
       "id": "resource-162",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 163
       }
@@ -3418,7 +3418,7 @@
       "notes": "Based in Boulder; serves youth in crisis and those experiencing homelessness",
       "id": "resource-163",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 164
       }
@@ -3439,7 +3439,7 @@
       "notes": "Focus on youth transitioning out of homelessness.",
       "id": "resource-164",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 165
       }
@@ -3450,9 +3450,9 @@
       "streetAddress": "Various locations",
       "city": "Denver",
       "state": "CO",
-      "zipCode": "",
+      "zipCode": "Varies by service location - see website",
       "phone": "303-661-7920",
-      "website": "",
+      "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-Human-Services/Be-Supported/Additional-Assistance/Parent-Support-Programs",
       "hours": "Varies",
       "intake": "Call for details",
       "eligibility": "Youth ages 14-24",
@@ -3460,7 +3460,7 @@
       "notes": "Offers financial support on a case-by-case basis",
       "id": "resource-165",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 166
       }
@@ -3474,14 +3474,14 @@
       "zipCode": "80205",
       "phone": "303-295-3366",
       "website": "https://housingnow.salvationarmy.org/",
-      "hours": "•\tOffice Hours: 8:00 AM - 4:30 PM, Monday - Friday\n•\tFood Pantry: 2:00 PM - 6:00 PM, Tuesday\n•\tFood Pantry: 11:00 AM - 3:00 PM, Wednesday - Thursday",
+      "hours": "•Office Hours: 8:00 AM - 4:30 PM, Monday - Friday\n•Food Pantry: 2:00 PM - 6:00 PM, Tuesday\n•Food Pantry: 11:00 AM - 3:00 PM, Wednesday - Thursday",
       "intake": "Call for Details",
-      "eligibility": "•\tHousing Now serves families as a part of the Metro Denver Homeless Initiative and partners with OneHome for referrals exclusively.\n•\tMust be verifiably homeless: residing in place not meant for human habitation, emergency shelter, or in flight from domestic violence.\n•\tAll potential participants must be living in the Denver metro area.\n•\tAll potential participants are referred through the OneHome system after completing a Vi-SPDAT.\n•\tFor more information on how to complete a Vi-SPDAT please call: 303-295-3366",
+      "eligibility": "•Housing Now serves families as a part of the Metro Denver Homeless Initiative and partners with OneHome for referrals exclusively.\n•Must be verifiably homeless: residing in place not meant for human habitation, emergency shelter, or in flight from domestic violence.\n•All potential participants must be living in the Denver metro area.\n•All potential participants are referred through the OneHome system after completing a Vi-SPDAT.\n•For more information on how to complete a Vi-SPDAT please call: 303-295-3366",
       "services": "Through our Housing Now program, we are able to provide short term rental assistance to people in need, as well as case management, resources, and home visits.\nMore Than Financial Assistance\nOur program partners with families experiencing homelessness by helping them to transition into long-term and stable housing by providing them with housing navigation, short term financial assistance, resources, and case management. We also partner with the community to provide friendship, financial literacy, and working towards long-term goals.",
       "notes": "Referrals are taken from OneHome.",
       "id": "resource-166",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 167
       }
@@ -3496,13 +3496,13 @@
       "phone": "303-597-5000",
       "website": "https://www.jewishfamilyservice.org/services/emergency-assistance-program",
       "hours": "Reception Hours\nMon-Fri: 8:15 a.m. - 4:15 p.m.\nClosed for major holidays\nPantry Hours\nTues, Wed, & Fri: 10:00 a.m. - 1:00 p.m.",
-      "intake": "What You Need to Apply\nTo apply, you must upload all of these:\n•\tA photo ID for the main person applying.\n•\tA lease or rental agreement.\n•\tProof of income for all adults in your home (like pay stubs or benefit letters).\n•\tA demand for rent, eviction notice, or other proof that you are at risk of losing housing.\n•\tA recent utility bill (if you are asking for help with utilities).\nWe can only look at complete applications. If documents are missing, we will not be able to review your application.",
-      "eligibility": "You can apply if:\n•\tYou are renting in Denver County, Adams County, Arapahoe County or Jefferson County. \n•\tYou are at risk of losing your housing (for example, you got a notice saying you owe rent or might be evicted).\n•\tYour income is low (at or below 30%-50% of Area Median Income).\n•\t You have not received rental help from JFS in the last 12 months.\n•\tYou are not getting ongoing help with rent from another program.\n•\tYou can show proof of your current housing (like a lease or rental agreement).\n•\tYou can show proof of income for all adults in your household.",
+      "intake": "What You Need to Apply\nTo apply, you must upload all of these:\n•A photo ID for the main person applying.\n•A lease or rental agreement.\n•Proof of income for all adults in your home (like pay stubs or benefit letters).\n•A demand for rent, eviction notice, or other proof that you are at risk of losing housing.\n•A recent utility bill (if you are asking for help with utilities).\nWe can only look at complete applications. If documents are missing, we will not be able to review your application.",
+      "eligibility": "You can apply if:\n•You are renting in Denver County, Adams County, Arapahoe County or Jefferson County. \n•You are at risk of losing your housing (for example, you got a notice saying you owe rent or might be evicted).\n•Your income is low (at or below 30%-50% of Area Median Income).\n• You have not received rental help from JFS in the last 12 months.\n•You are not getting ongoing help with rent from another program.\n•You can show proof of your current housing (like a lease or rental agreement).\n•You can show proof of income for all adults in your household.",
       "services": "Services\n\nMental Health\nIndividual & Family Counseling\n\nMedication Management\n\nRefugee Mental Health\n\nKidSuccess\n\nRussian Mental Health\n\nResiliency Courses\n\nDisability Services\nArts & Community Exploration\n\nJewish Disability Advocates\n\nHaverim and Best Buddies\n\nAdaptive Bike\n\nJewish Life\nCommunity Chaplain\n\nPara-Chaplain\n\nCommunity Liaison\n\nGroups\n\nFood & Housing\nWeinberg Food Pantry\n\nMobile Food & Hygiene Pantry\n\nEmergency Housing Assistance\n\nRapid Rehousing\n\nRefugee Resettlement\nRefugee Assistance\n\nHire Refugees\n\nVolunteer\n\nGet Involved\n\nAging Care & Connections\nCare Management & Consultation\n\nCounseling\n\nIn-home Service\n\nCommunity-based Programs\n\nHolocaust Survivor Assistance\n\nEmployment\nVocational Training\n\nSupport for Nonprofit Professionals\n\nJob Search Accelerator\n\nDisability Benefits Counseling\n\nFor Employer Partners\n\nIndividual Supported Employment\n\nJob Success in the US",
-      "notes": "",
+      "notes": "REVIEW: Funding and application windows are limited and change. As checked 2026-10-05, the EAP page lists Denver County renters at or below 30% AMI; the broader counties/income limits in this row need rechecking. Source: https://www.jewishfamilyservice.org/services/emergency-assistance-program",
       "id": "resource-167",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 168
       }
@@ -3510,20 +3510,20 @@
     {
       "name": "The Family Tree",
       "category": "Housing Support",
-      "streetAddress": "",
-      "city": "",
-      "state": "",
-      "zipCode": "",
-      "phone": "",
-      "website": "",
+      "streetAddress": "3805 Marshall Street",
+      "city": "Wheat Ridge",
+      "state": "CO",
+      "zipCode": "80033",
+      "phone": "303-467-2604 (Homelessness/Housing Helpline)",
+      "website": "https://thefamilytree.org/homelessness-program/",
       "hours": "",
-      "intake": "",
-      "eligibility": "",
-      "services": "",
-      "notes": "",
+      "intake": "Call the helpline or email homelessness@thefamilytree.org for resource information and program screening.",
+      "eligibility": "Individuals and families experiencing or at risk of homelessness in Metro Denver; specific assistance requires program screening.",
+      "services": "Housing navigation/placement, homelessness prevention, case management, employment/education guidance and links to rental/utility assistance.",
+      "notes": "Confirmed by user as Family Tree in Wheat Ridge. HOURS UNRESOLVED: Program hours are not published; contact the housing team. Assistance eligibility and availability vary by program. Source: https://thefamilytree.org/homelessness-program/",
       "id": "resource-168",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 169
       }
@@ -3535,18 +3535,690 @@
       "city": "N/A",
       "state": "N/A",
       "zipCode": "N/A",
-      "phone": "info@new-eyes.org",
+      "phone": "973-376-4903",
       "website": "https://new-eyes.org/",
       "hours": "24/7 Online",
       "intake": "Online account creation",
       "eligibility": "Needs to have current eyeglass prescription",
       "services": "Eyeglasses as cheap as $10",
-      "notes": "",
+      "notes": "Contact update: Previous Phone Number value was info@new-eyes.org (email preserved here).",
       "id": "resource-169",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "Resource Guide",
         "row": 170
+      }
+    },
+    {
+      "name": "Samaritan House Downtown - Women and Families",
+      "category": "Emergency Shelter",
+      "streetAddress": "2301 Lawrence Street",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80205",
+      "phone": "303-294-0241",
+      "website": "https://ccdenver.org/denver-samaritan-house/",
+      "hours": "Women overnight: daily 4pm-7:30am; extended stay: 24/7.",
+      "intake": "Women: morning bed reservation; unreserved beds first come. Families: Connection Center 303-295-3366 referral/waitlist.",
+      "eligibility": "Women 18+; families through referral.",
+      "services": "Shelter, meals, case management.",
+      "notes": "Researched 2026-10-05. Check-in and extended-stay rules vary; confirm before referral. Sources: https://ccdenver.org/denver-samaritan-house/",
+      "id": "resource-170",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 171
+      }
+    },
+    {
+      "name": "Samaritan House 48th - Women’s Shelter",
+      "category": "Emergency Shelter",
+      "streetAddress": "4330 East 48th Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80216",
+      "phone": "720-799-9506",
+      "website": "https://ccdenver.org/denver-samaritan-house/",
+      "hours": "24/7.",
+      "intake": "Walk in; first come, subject to bed availability.",
+      "eligibility": "Women age 18+.",
+      "services": "Emergency shelter, meals, showers, laundry, case management.",
+      "notes": "Researched 2026-10-05. No referral required. Sources: https://ccdenver.org/denver-samaritan-house/",
+      "id": "resource-171",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 172
+      }
+    },
+    {
+      "name": "Samaritan House Smith Road - Women’s Shelter",
+      "category": "Emergency Shelter",
+      "streetAddress": "6240 Smith Road",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80216",
+      "phone": "720-799-9506",
+      "website": "https://ccdenver.org/denver-samaritan-house/",
+      "hours": "24/7.",
+      "intake": "Walk in; subject to bed availability.",
+      "eligibility": "Women age 18+.",
+      "services": "Emergency shelter, meals, hygiene, case management.",
+      "notes": "Researched 2026-10-05. No referral required. Sources: https://ccdenver.org/denver-samaritan-house/",
+      "id": "resource-172",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 173
+      }
+    },
+    {
+      "name": "Sacred Heart House of Denver",
+      "category": "Emergency Shelter",
+      "streetAddress": "2844 Lawrence Street",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80205",
+      "phone": "303-296-6686",
+      "website": "https://sacredhearthouse.com/programs/",
+      "hours": "Hours not published; call to confirm.",
+      "intake": "Call to ask about screening and current availability; detailed admission process not published.",
+      "eligibility": "Single women and single mothers with children experiencing homelessness.",
+      "services": "Temporary shelter, food, clothing, transportation and stabilization support.",
+      "notes": "Researched 2026-10-05. Sources: https://sacredhearthouse.com/programs/ ; https://sacredhearthouse.com/",
+      "id": "resource-173",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 174
+      }
+    },
+    {
+      "name": "VOA Theodora Family Hotel",
+      "category": "Emergency Shelter",
+      "streetAddress": "4885 West Colfax Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80204",
+      "phone": "720-904-9821 (hotel); 303-295-3366 (family intake)",
+      "website": "https://www.voacolorado.org/locations/family-hotel/",
+      "hours": "Staffed 24/7; admission arranged by referral.",
+      "intake": "Families: call Connection Center for waitlist/referral; veterans require agency referral packet.",
+      "eligibility": "Families with children experiencing homelessness; designated veteran beds through referral.",
+      "services": "Private-room shelter, meals, hygiene supplies, transportation assistance and housing navigation.",
+      "notes": "Researched 2026-10-05. Placement depends on availability; not a walk-in shelter. Sources: https://www.voacolorado.org/locations/family-hotel/",
+      "id": "resource-174",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 175
+      }
+    },
+    {
+      "name": "Salvation Army Lambuth Family Center",
+      "category": "Emergency Shelter",
+      "streetAddress": "2741 North Federal Boulevard",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80211",
+      "phone": "720-305-4678 (center); 303-295-3366 (Connection Center)",
+      "website": "https://lambuthfamilycenter.salvationarmy.org/lambuth_family_center/",
+      "hours": "Residential shelter; intake hours not published.",
+      "intake": "Call Connection Center for family shelter screening/referral and availability.",
+      "eligibility": "Families with minor children and no other safe place to stay.",
+      "services": "Short-term family shelter, meals, case management and housing support.",
+      "notes": "Researched 2026-10-05. Sources: https://lambuthfamilycenter.salvationarmy.org/lambuth_family_center/ ; https://denvermetro.salvationarmy.org/im_denver_family_services/need-help-necesito-ayuda",
+      "id": "resource-175",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 176
+      }
+    },
+    {
+      "name": "VOA Irving Street Women’s Residence",
+      "category": "Housing Support",
+      "streetAddress": "601 South Irving Street",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80219",
+      "phone": "303-297-0408 (VOA main office)",
+      "website": "https://www.voacolorado.org/locations/irving-street-womens-residence/",
+      "hours": "Staffed 24/7; referral intake.",
+      "intake": "OneHome coordinated-entry referral after CES assessment.",
+      "eligibility": "Women experiencing chronic homelessness with a disability or mental health condition.",
+      "services": "Supportive residence, basic needs and case management.",
+      "notes": "Researched 2026-10-05. No walk-in admission; ask main office about referral navigation. Sources: https://www.voacolorado.org/locations/irving-street-womens-residence/ ; https://www.voacolorado.org/services/irving-street-womens-residence-volunteer/",
+      "id": "resource-176",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 177
+      }
+    },
+    {
+      "name": "Warren Village - Gilpin Transitional Housing",
+      "category": "Housing Support",
+      "streetAddress": "1323 Gilpin Street",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80218",
+      "phone": "303-320-5063 (housing)",
+      "website": "https://warrenvillage.org/gilpin/",
+      "hours": "Front desk 24/7; leasing hours not published.",
+      "intake": "Submit housing inquiry via Apply page; interest list while at capacity.",
+      "eligibility": "Single parents 18+ with custody, high-school diploma/GED and education/workforce participation; income and HUD screening apply.",
+      "services": "Transitional apartments, case management, economic mobility and family support.",
+      "notes": "Researched 2026-10-05. Rent generally 30% of income; confirm program costs and availability. Sources: https://warrenvillage.org/gilpin/ ; https://warrenvillage.org/apply/",
+      "id": "resource-177",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 178
+      }
+    },
+    {
+      "name": "Providence Network - Transitional Recovery Housing",
+      "category": "Housing Support",
+      "streetAddress": "357 North Broadway (main office; call for residence)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80203",
+      "phone": "303-860-8404",
+      "website": "https://providencenetwork.org/gethelp/",
+      "hours": "Hours not published; call to confirm.",
+      "intake": "Apply online to the appropriate residence; screening and availability apply.",
+      "eligibility": "Program-dependent: adults in recovery; women with children affected by domestic violence/substance use; young men in recovery.",
+      "services": "Residential recovery, counseling, community support and self-sufficiency development.",
+      "notes": "Researched 2026-10-05. Faith-based longer-term programs; not an immediate overnight shelter. Sources: https://providencenetwork.org/gethelp/",
+      "id": "resource-178",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 179
+      }
+    },
+    {
+      "name": "VOA Bannock Youth and Family Center",
+      "category": "Housing Support",
+      "streetAddress": "2660 Larimer Street (VOA main office; program site not published)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80205",
+      "phone": "720-217-3884 (youth coordinator)",
+      "website": "https://www.voacolorado.org/locations/bannock-youth-family-center/",
+      "hours": "Hours not published; call to confirm.",
+      "intake": "Contact coordinator; youth/adult programs require referral, vital documents and homeless verification.",
+      "eligibility": "Youth/young families ages 16-24; separate adult stabilization program for 25+; family housing via collaborating programs.",
+      "services": "Housing support, case management, employment/education and parenting support.",
+      "notes": "Researched 2026-10-05. Office address is not a verified walk-in program site; arrange contact first. Sources: https://www.voacolorado.org/locations/bannock-youth-family-center/",
+      "id": "resource-179",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 180
+      }
+    },
+    {
+      "name": "Denver Rescue Mission - The Crossing Bridge Program",
+      "category": "Housing Support",
+      "streetAddress": "6090 Smith Road",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80216",
+      "phone": "303-953-3963 (Bridge)",
+      "website": "https://denverrescuemission.org/get-help/",
+      "hours": "Residential program; intake hours not published.",
+      "intake": "Call Bridge team; qualification survey, documents, background check and approved-application waitlist.",
+      "eligibility": "Homeless individuals/families; minimum verifiable income $770/month individual or $900 family; $100 disposable income after expenses.",
+      "services": "Transitional housing, case management, counseling and life-skills workshops.",
+      "notes": "Researched 2026-10-05. Fee-based drug/alcohol-free program; not walk-in emergency shelter. Sources: https://denverrescuemission.org/get-help/ ; https://denverrescuemission.org/who-we-are/locations/the-crossing/",
+      "id": "resource-180",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 181
+      }
+    },
+    {
+      "name": "Denver Inner City Parish - Food Pantry",
+      "category": "Food Resources",
+      "streetAddress": "1212 Mariposa Street",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80204",
+      "phone": "303-629-0636",
+      "website": "https://dicp.org/programs/food-pantry-resources/",
+      "hours": "Tue 11:30am-2:30pm; Wed 4-7pm; Thu 1-4pm; first Sat 9am-noon.",
+      "intake": "Reserve through Plentiful, text FOOD to 726879, or call weekdays 9am-2pm; new clients may request one-time emergency box.",
+      "eligibility": "Households needing food; weekly box and appointment availability apply.",
+      "services": "Groceries and emergency food boxes.",
+      "notes": "Researched 2026-10-05. Program page and footer differ on hours; call before visiting. Sources: https://dicp.org/programs/food-pantry-resources/ ; https://dicp.org/programs/",
+      "id": "resource-181",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 182
+      }
+    },
+    {
+      "name": "Community Ministry of Southwest Denver - Food Pantry",
+      "category": "Food Resources",
+      "streetAddress": "1755 South Zuni Street",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80223",
+      "phone": "303-935-3428",
+      "website": "https://comministry-denver.org/get-help/",
+      "hours": "Mon/Wed/Thu 10am-1pm; Tue 1-4pm; Wed evening 5:30-7pm.",
+      "intake": "Contact pantry for current registration, service-area and documentation requirements.",
+      "eligibility": "People needing emergency food; detailed eligibility not verified—confirm with provider.",
+      "services": "Emergency groceries and food support.",
+      "notes": "Researched 2026-10-05. Eligibility details require confirmation. Sources: https://comministry-denver.org/get-help/ ; https://comministry-denver.org/location-hours/",
+      "id": "resource-182",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 183
+      }
+    },
+    {
+      "name": "Project Angel Heart - Medically Tailored Meals",
+      "category": "Food Resources",
+      "streetAddress": "4950 Washington Street (office; meals delivered)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80216",
+      "phone": "303-830-0202 (press 1, then 2 for clients)",
+      "website": "https://www.projectangelheart.org/get-meals/",
+      "hours": "Office Mon-Fri 8am-4:30pm; Sat 9am-3pm; delivery schedule assigned.",
+      "intake": "Application with medical-provider verification; submit via provider instructions; waitlist may apply.",
+      "eligibility": "Qualifying severe illness within delivery area; no income or age restriction.",
+      "services": "Free home-delivered medically tailored meals and nutrition support.",
+      "notes": "Researched 2026-10-05. Ask team about delivery/storage options if unhoused. Sources: https://www.projectangelheart.org/get-meals/ ; https://www.projectangelheart.org/contact-us/ ; https://www.projectangelheart.org/for-your-patients/",
+      "id": "resource-183",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 184
+      }
+    },
+    {
+      "name": "JFS Weinberg Food Pantry",
+      "category": "Food Resources",
+      "streetAddress": "3201 South Tamarac Drive",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80231",
+      "phone": "303-597-5000 (JFS main office)",
+      "website": "https://www.jewishfamilyservice.org/services/denver-food-pantry",
+      "hours": "Tue/Wed/Fri 10am-1pm; remote check-in starts 9am.",
+      "intake": "Text Shop to 833-340-1096 or use website check-in; new clients register with ID/address information.",
+      "eligibility": "Food need; TEFAP income limits; up to two visits monthly.",
+      "services": "Groceries, produce, protein, dairy; hygiene supplies/diapers/formula when available.",
+      "notes": "Researched 2026-10-05. Daily capacity applies; arrive within requested window after notification. Sources: https://www.jewishfamilyservice.org/services/denver-food-pantry",
+      "id": "resource-184",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 185
+      }
+    },
+    {
+      "name": "Struggle of Love Foundation - Sacks of Love Food Pantry",
+      "category": "Food Resources",
+      "streetAddress": "12005 East 45th Avenue (Love Center)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80239",
+      "phone": "720-923-6122",
+      "website": "https://www.struggleoflovefoundation.org/sacks-of-love-food-pantry",
+      "hours": "Mon-Fri starting 1pm; closing time not published.",
+      "intake": "Reserve on Plentiful; text SOLF to 726879.",
+      "eligibility": "Community members needing food; documentation/income requirements not published—confirm.",
+      "services": "Produce, meat, bread and nonperishable groceries.",
+      "notes": "Researched 2026-10-05. Current provider page lists Love Center address; appointment capacity applies. Sources: https://www.struggleoflovefoundation.org/sacks-of-love-food-pantry",
+      "id": "resource-185",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 186
+      }
+    },
+    {
+      "name": "St. Anthony of Padua - Food Bank",
+      "category": "Food Resources",
+      "streetAddress": "3801 West Ohio Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80219",
+      "phone": "303-935-2431 (parish office)",
+      "website": "https://www.stanthonysdenver.org/community/ministries/st-anthonys-food-bank/",
+      "hours": "Tue/Fri 9-11am.",
+      "intake": "Bring photo ID and proof of address to register; call about service-area eligibility.",
+      "eligibility": "People needing food; address verification required; geographic limits not published.",
+      "services": "Food-bank groceries.",
+      "notes": "Researched 2026-10-05. Confirm service area before referral. Sources: https://www.stanthonysdenver.org/community/ministries/st-anthonys-food-bank/ ; https://www.stanthonysdenver.org/contact-us/",
+      "id": "resource-186",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 187
+      }
+    },
+    {
+      "name": "Denver Community Fridges - Seventh Circle Site",
+      "category": "Food Resources",
+      "streetAddress": "2935 West 7th Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80204",
+      "phone": "No public phone verified; use website contact option.",
+      "website": "https://denvercommunityfridges.com/",
+      "hours": "24/7 outdoor access.",
+      "intake": "Take available food directly from community fridge/pantry.",
+      "eligibility": "Anyone needing food.",
+      "services": "Free shared food and pantry items.",
+      "notes": "Researched 2026-10-05. Stock varies; public phone not published. This entry is the Denver Seventh Circle site only. Sources: https://denvercommunityfridges.com/",
+      "id": "resource-187",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 188
+      }
+    },
+    {
+      "name": "VOA Supportive Services for Veteran Families - Denver",
+      "category": "Veteran Services",
+      "streetAddress": "1247 Santa Fe Drive",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80204",
+      "phone": "720-501-3367",
+      "website": "https://www.voacolorado.org/services/ssvf-denver-metro/",
+      "hours": "Hours not published; call to confirm.",
+      "intake": "Call or email ssvfintake@voacolorado.org; provide military-status and income/homelessness documents.",
+      "eligibility": "Veterans/families homeless or at risk; income/discharge screening applies, at least one active-duty day and no dishonorable discharge.",
+      "services": "Housing stabilization, rapid rehousing, case management, benefits and eligible financial assistance.",
+      "notes": "Researched 2026-10-05. Denver office listed; assistance depends on screening and available funding. Sources: https://www.voacolorado.org/services/ssvf-denver-metro/",
+      "id": "resource-188",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 189
+      }
+    },
+    {
+      "name": "ServiceSource - Mobile Laundry Denver Stops",
+      "category": "Community Support Services",
+      "streetAddress": "Wed: 10 West 14th Avenue; Fri: 2455 East 36th Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80204 (Wed); 80205 (Fri)",
+      "phone": "720-731-6786",
+      "website": "https://servicesource.org/mobile-shower-and-laundry-services/",
+      "hours": "Wed/Fri 9am-3pm; drop laundry at least 2 hours before closing.",
+      "intake": "Visit scheduled Denver stop; call for weather changes/capacity.",
+      "eligibility": "People experiencing homelessness needing laundry.",
+      "services": "Free mobile laundry.",
+      "notes": "Researched 2026-10-05. Denver stops offer laundry; do not assume showers. Service may cancel below 32°F. Sources: https://servicesource.org/mobile-shower-and-laundry-services/",
+      "id": "resource-189",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 190
+      }
+    },
+    {
+      "name": "Colorado Poverty Law Project - Denver Eviction Clinic",
+      "category": "Legal Aid Resources",
+      "streetAddress": "1437 Bannock Street, Room 163 (City and County Building)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80202",
+      "phone": "303-532-2641",
+      "website": "https://copovertylawproject.org/our-work/legal-clinics/",
+      "hours": "Thu/Fri 8am-noon.",
+      "intake": "No RSVP; first come with priority for court return dates; bring eviction papers.",
+      "eligibility": "People with eviction cases filed in Denver County; legal-assistance eligibility/capacity screening applies.",
+      "services": "Eviction legal consultation and housing-law assistance.",
+      "notes": "Researched 2026-10-05. Representation not guaranteed; clinic capacity limited. Sources: https://copovertylawproject.org/our-work/legal-clinics/ ; https://copovertylawproject.org/get-eviction-housing-help/",
+      "id": "resource-190",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 191
+      }
+    },
+    {
+      "name": "CEDLaw - Denver Eviction Court Clinic",
+      "category": "Legal Aid Resources",
+      "streetAddress": "1437 Bannock Street, Room 163 (City and County Building)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80202",
+      "phone": "Clinic phone not published; use website contact form.",
+      "website": "https://cedproject.org/law/",
+      "hours": "Tue/Wed 8am-noon.",
+      "intake": "Attend courthouse clinic with case documents; confirm current clinic schedule online.",
+      "eligibility": "Tenants with eviction cases filed in Denver County.",
+      "services": "Limited eviction legal consultation and referrals.",
+      "notes": "Researched 2026-10-05. Online eviction intake is currently closed; clinic assistance subject to capacity. Sources: https://cedproject.org/law/ ; https://cedproject.org/contact/",
+      "id": "resource-191",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 192
+      }
+    },
+    {
+      "name": "Colorado ID Project - Denver Identity Documents",
+      "category": "Vital Documents",
+      "streetAddress": "1560 Broadway, Suite 1100 (Colorado Legal Services office)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80203",
+      "phone": "303-837-1313",
+      "website": "https://coloradoidproject.wordpress.com/",
+      "hours": "ID Project phone intake Thu/Fri 8:30am-3pm; online intake on posted days, capacity permitting.",
+      "intake": "Follow project application instructions; phone interview needed; fee vouchers may be distributed through partners.",
+      "eligibility": "Low-income people facing identity-document barriers, including unhoused, disabled and older adults; legal screening applies.",
+      "services": "Help obtaining identification/birth records and resolving complex identity-document issues.",
+      "notes": "Researched 2026-10-05. Does not handle driver-license reinstatement or commercial licenses. Sources: https://coloradoidproject.wordpress.com/ ; https://www.coloradolegalservices.org/get-help/",
+      "id": "resource-192",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 193
+      }
+    },
+    {
+      "name": "RTD LiVE - Income-Based Transit Discount",
+      "category": "Community Support Services",
+      "streetAddress": "Online via Colorado PEAK; Denver enrollment help by phone",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "N/A - online/phone application",
+      "phone": "720-944-4346 (Denver enrollment help)",
+      "website": "https://www.rtd-denver.com/fares-passes/pass-programs/live",
+      "hours": "Online application anytime; phone hours not published.",
+      "intake": "Apply through Colorado PEAK; contact Denver Human Services for enrollment help.",
+      "eligibility": "Age 20+; RTD service area; household income at or below 250% federal poverty level.",
+      "services": "50% discount on eligible RTD fares.",
+      "notes": "Researched 2026-10-05. Discount program, not free rides; this entry provides Denver enrollment assistance. Sources: https://www.rtd-denver.com/fares-passes/pass-programs/live",
+      "id": "resource-193",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 194
+      }
+    },
+    {
+      "name": "Denver Public Schools - McKinney-Vento Homeless Education",
+      "category": "Education & Training",
+      "streetAddress": "1860 Lincoln Street (district main office; arrange program contact)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80203",
+      "phone": "720-423-1980 (Highly Mobile Youth)",
+      "website": "https://schooltransformation.dpsk12.org/",
+      "hours": "Program hours not published; call district team.",
+      "intake": "Contact Highly Mobile Youth team or school liaison; highlymobileyouth@dpsk12.org.",
+      "eligibility": "DPS students lacking a fixed, regular, adequate nighttime residence, including shelters, motels, unsheltered or doubled-up situations.",
+      "services": "School enrollment assistance and connection to homeless-education supports.",
+      "notes": "Researched 2026-10-05. Main-office address is not a verified walk-in intake site. Sources: https://schooltransformation.dpsk12.org/ ; https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4086/Eghs/fa49efc0-8204-449a-bb7c-efc91bdefbc9/26-27-Registration-English.pdf?disposition=inline ; https://www2.dpsk12.org/manila/programs/eop/FamilyBrochure.pdf",
+      "id": "resource-194",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 195
+      }
+    },
+    {
+      "name": "Denver Health WIC - Sam Sandos Westside Clinic",
+      "category": "Food Resources",
+      "streetAddress": "1100 Federal Boulevard",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80204",
+      "phone": "303-602-6550 (WIC appointments)",
+      "website": "https://www.denverhealth.org/services/community-health/wic-program",
+      "hours": "Mon/Tue/Thu 8:30am-noon and 1-4pm; closed Wed/Fri.",
+      "intake": "Call for appointment; bring identity, residency and income documentation; ask about remote options.",
+      "eligibility": "Income-eligible Colorado residents: pregnant/postpartum/breastfeeding people, infants and children under 5; nutrition screening applies.",
+      "services": "WIC food benefits, nutrition education, breastfeeding support and referrals.",
+      "notes": "Researched 2026-10-05. Confirm income/document requirements with WIC. Sources: https://www.denverhealth.org/services/community-health/wic-program",
+      "id": "resource-195",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 196
+      }
+    },
+    {
+      "name": "Commún - Resource Navigation",
+      "category": "Case Management & Support",
+      "streetAddress": "2995 South Pancratia Street (office; confirm intake location)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80236",
+      "phone": "303-997-0228",
+      "website": "https://www.commundenver.org/programs/navigation",
+      "hours": "Walk-in enrollment Thu 11am-1pm; confirm location first.",
+      "intake": "Call or attend published Thursday enrollment; ask about program fit.",
+      "eligibility": "Community members seeking support; income and other screening requirements not published.",
+      "services": "Navigation for medical, social, educational and financial resources.",
+      "notes": "Researched 2026-10-05. Office address from current contact page; confirm where to attend. Sources: https://www.commundenver.org/programs/navigation ; https://www.commundenver.org/contact",
+      "id": "resource-196",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 197
+      }
+    },
+    {
+      "name": "Atlantis Community - Independent Living Support",
+      "category": "Case Management & Support",
+      "streetAddress": "201 South Cherokee Street, Unit 100",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80223",
+      "phone": "303-733-9324",
+      "website": "https://atlantiscommunity.org/services/",
+      "hours": "Mon-Thu 9am-5pm; closed Fri.",
+      "intake": "Call or use contact form to request assistance/appointment.",
+      "eligibility": "People with disabilities; service-specific eligibility should be confirmed.",
+      "services": "Independent-living support, advocacy, peer support, financial planning and housing-resource navigation.",
+      "notes": "Researched 2026-10-05. Housing navigation does not guarantee placement or shelter. Sources: https://atlantiscommunity.org/services/ ; https://atlantiscommunity.org/contact-us/",
+      "id": "resource-197",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 198
+      }
+    },
+    {
+      "name": "Thriving Families - MotherWise",
+      "category": "Pregnancy & Prenatal Support",
+      "streetAddress": "191 Yuma Street",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80223",
+      "phone": "720-504-4624 (call/text)",
+      "website": "https://motherwisecolorado.org/about-us",
+      "hours": "Workshop/coaching schedules arranged at enrollment; office hours not published.",
+      "intake": "Call/text MotherWise to enroll and discuss available workshops/coaching.",
+      "eligibility": "Pregnant women and new mothers; confirm current age/postpartum and program-specific screening.",
+      "services": "MotherWise workshops and individual coaching supporting mothers and families.",
+      "notes": "Researched 2026-10-05. Confirm current enrollment schedule; Yuma location supported by current capital-campaign page. Sources: https://motherwisecolorado.org/about-us ; https://thrivingfamiliescolorado.org/programs ; https://thrivingfamiliescolorado.org/capital-campaign-1",
+      "id": "resource-198",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 199
+      }
+    },
+    {
+      "name": "Denver Public Library - Social Services Resource Center",
+      "category": "Case Management & Support",
+      "streetAddress": "10 West 14th Avenue, first floor west end off Acoma Plaza",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80204",
+      "phone": "720-865-1728",
+      "website": "https://denverlibrary.org/social-services/connect",
+      "hours": "Mon-Fri 10am-1pm and 1:30-4:30pm.",
+      "intake": "Visit Central Library resource center, call, email crs@denverlibrary.org or submit website request.",
+      "eligibility": "Library customers seeking community-resource assistance; additional service screening not published.",
+      "services": "Peer navigation and connections to community resources/social services.",
+      "notes": "Researched 2026-10-05. Distinct from library technology services. Sources: https://denverlibrary.org/social-services/connect ; https://denverlibrary.org/content/central-library",
+      "id": "resource-199",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 200
+      }
+    },
+    {
+      "name": "Women’s Bean Project - Transitional Employment",
+      "category": "Employment & Workforce Development",
+      "streetAddress": "1300 West Alameda Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80223",
+      "phone": "303-292-1919",
+      "website": "https://www.womensbeanproject.com/the-impact/looking-for-work/",
+      "hours": "Applications accepted year-round; cohort/interview schedule arranged.",
+      "intake": "Apply online; phone interview followed by in-person interview.",
+      "eligibility": "Women committed to sobriety, learning, reliability and active goal-setting; confirm complete eligibility with hiring team.",
+      "services": "Transitional employment and support for long-term employment.",
+      "notes": "Researched 2026-10-05. Cohort placement/positions depend on availability; current Alameda address. Sources: https://www.womensbeanproject.com/the-impact/looking-for-work/",
+      "id": "resource-200",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 201
+      }
+    },
+    {
+      "name": "Colorado Coalition for the Homeless - Medical Respite",
+      "category": "Medical Care",
+      "streetAddress": "2175 California Street (Recuperative Care Center; placement assigned)",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80205",
+      "phone": "303-291-6904 (respite team)",
+      "website": "https://www.coloradocoalition.org/respite",
+      "hours": "Referral review daily 8am-5pm; residential care by placement.",
+      "intake": "Healthcare provider/healthcare-affiliated partner must submit online referral; allow at least 4 hours for review.",
+      "eligibility": "Unhoused people with acute/post-acute illness not requiring hospital care, able to manage daily activities and medications independently.",
+      "services": "Recovery setting, nursing visits, meals, medication storage, hygiene and case management.",
+      "notes": "Researched 2026-10-05. No verbal/email/fax referral; approval case by case and subject to beds. Sources: https://www.coloradocoalition.org/respite ; https://www.coloradocoalition.org/sites/default/files/2024-01/RLL_SSRCC_TwoPager_ForEventOct6%20%287%29.pdf",
+      "id": "resource-201",
+      "source": {
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
+        "sheet": "Resource Guide",
+        "row": 202
       }
     },
     {
@@ -3563,9 +4235,9 @@
       "eligibility": "Anyone can recieve care.",
       "services": "Pharmacy, Primary Care, Dental, Vision, Face Sheets, Medical Records",
       "notes": "",
-      "id": "resource-170",
+      "id": "resource-202",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 2,
         "visitDate": "02.06.2026"
@@ -3585,9 +4257,9 @@
       "eligibility": "No one with SO status or recent fellonies. Arson and drug manufacturing convitions are also excluded from services. Other backgrounds are case-by-case basis.",
       "services": "Furnished housing tied to emplyment with large property management companies.",
       "notes": "",
-      "id": "resource-171",
+      "id": "resource-203",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 3,
         "visitDate": "03.05.2026"
@@ -3607,9 +4279,9 @@
       "eligibility": "There are no eligibility requirements needed to receive food resources. Individuals can visit various locations listed on the website to recieve food. For some locations, residence at the location have priorty.",
       "services": "Produce delivery, nutrition resource and refferal.",
       "notes": "",
-      "id": "resource-172",
+      "id": "resource-204",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 4,
         "visitDate": "03.18.2026"
@@ -3629,9 +4301,9 @@
       "eligibility": "N/A anyone can go for support",
       "services": "Workforce development, job searching, resume building, etc",
       "notes": "",
-      "id": "resource-173",
+      "id": "resource-205",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 5,
         "visitDate": "04.15.2026"
@@ -3651,9 +4323,9 @@
       "eligibility": "Contact Local Office",
       "services": "Resource Connection, Equipment & Vocational Services",
       "notes": "",
-      "id": "resource-174",
+      "id": "resource-206",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 6,
         "visitDate": "04.29.2026"
@@ -3673,16 +4345,16 @@
       "eligibility": "Contat Local Office",
       "services": "Resource Connection, Equipment & Vocational Services",
       "notes": "",
-      "id": "resource-175",
+      "id": "resource-207",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 7,
         "visitDate": "04.29.2026"
       }
     },
     {
-      "name": "Fitz  Gateway Apartments",
+      "name": "Fitz Gateway Apartments",
       "category": "AMI Based Apartments",
       "streetAddress": "12100 E. Colfax",
       "city": "Aurora",
@@ -3695,9 +4367,9 @@
       "eligibility": "No ecvitions/Income Controllled Units",
       "services": "Gate and Contolled Access",
       "notes": "",
-      "id": "resource-176",
+      "id": "resource-208",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 8,
         "visitDate": "05.15.2026"
@@ -3714,12 +4386,12 @@
       "website": "https://safehouse-denver.org/",
       "hours": "24/7",
       "intake": "Call for availability, if there is availability they will conduct a phone interview and an in person interview",
-      "eligibility": "All genders,  18+. Parents may bring up to 5 kids. No pets, must be sober",
+      "eligibility": "All genders, 18+. Parents may bring up to 5 kids. No pets, must be sober",
       "services": "Victim advocacy, legal support, safety planning, 30 days of shelter",
       "notes": "",
-      "id": "resource-177",
+      "id": "resource-209",
       "source": {
-        "file": "OUTREACH RESOURCE GUIDE  (1).xlsx",
+        "file": "OUTREACH RESOURCE GUIDE - LATEST.ods",
         "sheet": "OCC Monthly Resource Connection",
         "row": 10,
         "visitDate": "07.09.2026"

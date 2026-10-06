@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A searchable Denver outreach resource directory for outreach teams and case managers.">
-  <title>Denver Resource Directory</title><link rel="stylesheet" href="styles.css">
+  <title>Denver Resource Directory</title><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="mountains.css">
   <script src="app.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#directory">Skip to resources</a>
   <header><a class="brand" href="./"><span class="brand-icon" aria-hidden="true">↗</span> Denver Resource Directory</a><span class="header-note">OUTREACH • CONNECTION • CARE</span></header>
   <main>
-    <section class="hero"><span class="eyebrow">A LITTLE SUPPORT. A NEXT STEP.</span><h1>Find the right resource.<br><span>Help someone move forward.</span></h1><p>A practical Denver-area directory for outreach teams and case managers. Find services, check eligibility, and plan the next connection.</p><div class="hero-tags"><span>Housing & shelter</span><span>Everyday essentials</span><span>Health & support</span></div></section>
+    <section class="hero"><span class="eyebrow">A LITTLE SUPPORT. A NEXT STEP.</span><h1>Find the right resource.<br><span>Help someone move forward.</span></h1><p>A practical Denver-area directory for outreach teams and case managers. Find services, check eligibility, and plan the next connection.</p><div class="hero-tags" aria-label="Quick resource filters"><button type="button" data-category="Emergency Shelter" aria-pressed="false">EMERGENCY SHELTER</button><button type="button" data-category="Substance Use Treatment" aria-pressed="false">SUBSTANCE USE TREATMENT &amp; SOBER LIVING</button><button type="button" data-category="Food Resources" aria-pressed="false">FOOD RESOURCES</button></div></section>
     <section id="directory" aria-label="Resource directory">
-      <div class="controls"><div class="search-field"><label for="search">Search resources</label><input type="search" id="search" placeholder="Try food, ID, shelter, or an organization…"></div><div><label for="category">Service category</label><select id="category"><option value="">All categories</option></select></div><div><label for="city">City</label><select id="city"><option value="">All cities</option></select></div><button class="reset" id="reset" type="button">Clear filters</button></div>
+      <div class="controls"><div class="search-field"><label for="search">Search resources</label><input type="search" id="search" placeholder="Try food, ID, shelter, or an organization…"></div><div><label for="category">Service category</label><select id="category"><option value="">All categories</option></select></div><button class="reset" id="reset" type="button">Clear filters</button></div>
       <div class="results-heading"><h2>Explore resources</h2><p id="count" role="status" aria-live="polite">Loading your guide…</p></div>
       <p class="source-note">From your outreach resource guide. Hours, eligibility, and availability may change—confirm with the provider before a referral.</p>
       <div id="resources" class="grid"></div><p id="empty" class="empty" hidden>No resources match. Try a different search or clear the filters.</p>
