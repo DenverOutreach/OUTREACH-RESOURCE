@@ -464,7 +464,7 @@
     },
     {
       "name": "Aurora Day Resource Center",
-      "category": "Shelter (Day Center & Support Services)",
+      "category": "Shelter (Day Center)",
       "streetAddress": "13387 E 19th Pl",
       "city": "Denver",
       "state": "CO",
@@ -485,7 +485,7 @@
     },
     {
       "name": "Haven of Hope Jay Gould Center",
-      "category": "Shelter (Day Center & Support Services)",
+      "category": "Shelter (Day Center)",
       "streetAddress": "1101 W 7th Ave",
       "city": "Denver",
       "state": "CO",
@@ -506,7 +506,7 @@
     },
     {
       "name": "Lawrence Street Community Center",
-      "category": "Shelter (Day Center & Support Services)",
+      "category": "Shelter (Day Center)",
       "streetAddress": "2222 Lawrence Street",
       "city": "Denver",
       "state": "CO",
@@ -527,7 +527,7 @@
     },
     {
       "name": "Network Coffee House",
-      "category": "Shelter (Day Center & Support Services)",
+      "category": "Shelter (Day Center)",
       "streetAddress": "1402 Pearl Street",
       "city": "Denver",
       "state": "CO",
@@ -548,7 +548,7 @@
     },
     {
       "name": "St. Francis Center",
-      "category": "Shelter (Day Center & Support Services)",
+      "category": "Shelter (Day Center)",
       "streetAddress": "2323 Curtis St",
       "city": "Denver",
       "state": "CO",
@@ -569,7 +569,7 @@
     },
     {
       "name": "The Gathering Place",
-      "category": "Shelter (Day Center & Support Services)",
+      "category": "Shelter (Day Center)",
       "streetAddress": "1535 High Street",
       "city": "Denver",
       "state": "CO",

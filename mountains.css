@@ -7,13 +7,21 @@ body{background:linear-gradient(140deg,#e9f0f5 0%,#edf2ef 55%,#eeebf4 100%)}
 .hero:before{background:#a4bec04d;clip-path:polygon(0 100%,0 83%,12% 63%,22% 78%,39% 17%,48% 47%,56% 31%,71% 70%,82% 40%,100% 75%,100% 100%)}
 .hero:after{background:#8fafa947;clip-path:polygon(0 100%,0 90%,24% 88%,47% 68%,63% 9%,73% 44%,80% 30%,100% 83%,100% 100%)}
 .eyebrow{color:#d6e1d9}h1 span{color:#d8e5df}.hero p{color:#f0f4f2}
-.hero-tags{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;max-width:980px}
+.hero-tags{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;max-width:760px}
 .hero-tags button{--button-bg:#a6cfea;--button-ink:#203f56;background:var(--button-bg);color:var(--button-ink);border:2px solid transparent;border-radius:14px;padding:13px 16px;min-height:52px;font-size:12px;font-weight:750;letter-spacing:.35px;line-height:1.5;cursor:pointer;text-align:center;box-shadow:0 2px 5px #182d3826;transition:filter .15s,transform .15s}
 .hero-tags button:nth-child(2){--button-bg:#aed9b9;--button-ink:#254830}
 .hero-tags button:nth-child(3){--button-bg:#f1bb94;--button-ink:#5d3521}
 .hero-tags button:nth-child(4){--button-bg:#ecd8e1;--button-ink:#61414e}
 .hero-tags button:nth-child(5){--button-bg:#efdaca;--button-ink:#68452f}
 .hero-tags button:nth-child(6){--button-bg:#cfe4e4;--button-ink:#2e5155}
+.hero-tags button[data-category="Shelter (Overnight)"]{--button-bg:#243958;--button-ink:#f2f5ff;background:radial-gradient(circle at 85% 20%,#ffffff 0 1px,transparent 2px),radial-gradient(circle at 75% 75%,#c3d4ee 0 1px,transparent 2px),linear-gradient(120deg,#202c48,#385679);border-color:#8ca8cc}
+.hero-tags button[data-category="Shelter (Overnight)"]:before{content:"☾";font-size:25px;vertical-align:middle;margin-right:10px;color:#f6e4a8}
+.hero-tags button[data-category="Shelter (Day Center)"]{--button-bg:#f5d78d;--button-ink:#354751;background:linear-gradient(120deg,#a6d9f6,#fff0b8);border-color:#f3d47e}
+.hero-tags button[data-category="Shelter (Day Center)"]:before{content:"☀";font-size:25px;vertical-align:middle;margin-right:10px;color:#805300}
+.card.night-card{--accent:#91abd1!important;--tint:#e3eafa!important;color:#f5f7ff;background:radial-gradient(circle at 93% 9%,#d9e4ff 0 1px,transparent 2px),radial-gradient(circle at 88% 16%,#d9e4ff 0 1px,transparent 2px),linear-gradient(145deg,#23334e,#385577);border-color:#8b9fbf}
+.night-card .badge{background:#e3eafa;color:#23334e}.night-card .badge:before{content:"☾ ";color:#6d5316}.night-card h3{color:#fff}.night-card .description,.night-card .metadata p,.night-card .provenance{color:#e0e9f8}.night-card details{border-color:#a6bdd06b}.night-card .actions a:first-child{background:#e3eafa;color:#23334e}
+.card.day-card{--accent:#9c6b12!important;--tint:#fff0bf!important;background:linear-gradient(145deg,#e0f1fc,#fff0bf);border-color:#d4b765}
+.day-card .badge{background:#fff0bf;color:#66450c;border-color:#9c6b12}.day-card .badge:before{content:"☀ ";color:#805300}.day-card .actions a:first-child{background:#fff0bf;color:#66450c}
 .hero-tags button:hover{filter:brightness(1.06);transform:translateY(-1px)}
 .hero-tags button[aria-pressed=true]{border-color:var(--button-ink);box-shadow:0 0 0 2px #f8fcf9;filter:brightness(1.05)}
 .controls{grid-template-columns:2fr 1.3fr auto;border:2px solid #6c8e9c;background:linear-gradient(115deg,#c8dfe9,#d4e6df);padding:26px;box-shadow:0 6px 18px #294b6026}
