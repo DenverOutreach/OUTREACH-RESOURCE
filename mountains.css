@@ -88,3 +88,17 @@ body{background:linear-gradient(145deg,#edf4ed,#f5f8f1 65%,#e9f1e6)}
 .meadow-flowers span:nth-child(2){color:#f5dce6;font-size:15px;transform:translateY(-14px)}.meadow-flowers span:nth-child(3){font-size:22px;transform:translateY(-6px)}.meadow-flowers span:nth-child(4){color:#f5dce6;font-size:14px;transform:translateY(-23px)}
 .hero-tags{z-index:1}body{background:linear-gradient(145deg,#f0f6e9,#f7faf1 65%,#eaf3df)}
 @media(max-width:600px){.hero:before{height:93%;bottom:-51%}.hero:after{height:82%;bottom:-53%}.hero .meadow-flowers{right:8%;bottom:9px;font-size:14px;gap:17px}.meadow-flowers span:nth-child(2),.meadow-flowers span:nth-child(3),.meadow-flowers span:nth-child(4){font-size:13px;transform:none}}
+
+/* Denver evening photo with a readable navy overlay. */
+body{background:linear-gradient(145deg,#f3f6fa,#e9eef7)}.brand{color:#172a50}.brand-icon{background:#203961}.header-note{color:#68728a}
+.hero{background:linear-gradient(90deg,rgba(9,22,46,.86),rgba(9,22,46,.55) 48%,rgba(9,22,46,.05)),url('denver-evening.png') center 48%/cover;border-color:#8994ad;box-shadow:0 8px 25px #19294d25}
+.hero:before,.hero:after,.meadow-flowers{display:none!important}.eyebrow{color:#ffe4a6}h1 span{color:#ffdc80}.hero p{color:#f4f6fd}
+.controls{background:#e1eaf6;border-color:#9aafcb}.controls label,.results-heading h2{color:#203353}.controls .reset{background:#243d66;border-color:#243d66}.controls .reset:hover{background:#182e51;border-color:#182e51}.results-heading #count{background:#eae6f7;color:#334664}footer,.source-note{color:#657089}
+
+/* Approved sunset skyline design. */
+body{background:#fcf9f4;color:#11274b}.brand{font-family:Georgia,serif;font-size:26px;color:#0b2149}.brand-icon{display:none}.header-note{color:#344a6a}
+h1,h2,.card h3,.controls label{font-family:Georgia,serif}h1{font-size:clamp(32px,4vw,52px);letter-spacing:-1px}h1 span{color:#ffda68}
+.hero{background:linear-gradient(90deg,#061a3c33,transparent),url('denver-sunset.png') center/cover;border:0;border-radius:24px;padding:48px;box-shadow:none}.hero p{max-width:530px}.eyebrow{color:#f4f2ec}
+.hero-tags{max-width:690px}.hero-tags button[data-category="Shelter (Overnight)"]{background:linear-gradient(120deg,#071b40,#123868);border-color:#739cd4}.hero-tags button[data-category="Shelter (Day Center)"]{background:linear-gradient(120deg,#fff4af,#ffd364);border-color:#fff2b7;color:#132748}
+.controls{background:#eae7fa;border:1px solid #dedaf2;box-shadow:none}.controls label{color:#12264a}.controls input,.controls select{border:1px solid #b8bee2;color:#132748}.controls .reset{background:#082450;border-color:#082450}.results-heading h2{color:#10244a}.results-heading #count{background:transparent;color:#526786}.source-note{color:#63708a}
+@media(max-width:600px){.brand{font-size:21px}.hero{padding:30px 24px;background:linear-gradient(90deg,#061a3cd9,#061a3c66),url('denver-sunset.png') 65% center/cover}}
