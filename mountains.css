@@ -68,3 +68,14 @@ header{color:#223b61}.brand{color:#223b61}.brand-icon{background:linear-gradient
 .controls{background:linear-gradient(115deg,#d2eafb,#e2e7fa 65%,#fff0ce);border-color:#819bc0;box-shadow:0 6px 20px #294b6020}.controls label{color:#263c65}.controls input,.controls select{border-color:#829bbc}.controls .reset{background:#344b79;border-color:#344b79}.controls .reset:hover{background:#25385e;border-color:#25385e}
 .results-heading h2{color:#263c65}.results-heading #count{background:#dce8f8;color:#344b79;padding:8px 12px;border-radius:20px;font-weight:650}.source-note{color:#536782}footer{color:#51658a;border-color:#c0d2e7}
 @media(max-width:600px){.hero{background-position:0 0}.hero:before{height:65%}.hero:after{height:48%}.hero-tags{margin-top:28px}}
+
+/* A simple green landscape with gently rolling hills. */
+body{background:linear-gradient(145deg,#edf4ed,#f5f8f1 65%,#e9f1e6)}
+.brand{color:#294c3b}.brand-icon{background:#426d50;box-shadow:none}.header-note{color:#627563}
+.hero{background:linear-gradient(120deg,#284e3c,#416b4c);border:1px solid #64856a;box-shadow:0 7px 22px #294b3520}
+.hero:before{inset:auto -15% -48%;width:130%;height:82%;border-radius:50% 50% 0 0;clip-path:none;background:#84a77c;opacity:.3;transform:rotate(-8deg)}
+.hero:after{inset:auto -20% -54%;width:140%;height:78%;border-radius:50% 50% 0 0;clip-path:none;background:#bed0a6;opacity:.22;transform:rotate(7deg)}
+.eyebrow{color:#d5e5bc}h1 span{color:#e0edcb}.hero h1,.hero p,.hero .eyebrow{text-shadow:none}.hero p{color:#eff5eb}
+.controls{background:linear-gradient(115deg,#e0ebdd,#edf3e6);border-color:#9db597;box-shadow:0 4px 14px #294b3515}.controls label{color:#2e4d38}.controls input,.controls select{border-color:#a0b69a;color:#294733}.controls .reset{background:#456d4d;border-color:#456d4d}.controls .reset:hover{background:#34553b;border-color:#34553b}
+.results-heading h2{color:#294c3b}.results-heading #count{background:#e0ebda;color:#45634a}.source-note{color:#627563}footer{color:#627563;border-color:#c7d6bf}
+@media(max-width:600px){.hero:before{height:64%;bottom:-35%}.hero:after{height:56%;bottom:-36%}}
