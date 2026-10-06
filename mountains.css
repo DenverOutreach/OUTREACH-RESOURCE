@@ -25,10 +25,11 @@ body{background:linear-gradient(140deg,#e9f0f5 0%,#edf2ef 55%,#eeebf4 100%)}
 .card.trans-card:before,.card.rainbow-card:before{content:"";position:absolute;left:0;right:0;top:0;height:7px;background:linear-gradient(90deg,#8bc9df 0% 20%,#e8b0c7 20% 40%,#fff 40% 60%,#e8b0c7 60% 80%,#8bc9df 80%)}
 .trans-card .badge{background:linear-gradient(90deg,#deedf7,#f3dce8);border-color:#b8a5bb}
 .trans-card .actions a:nth-child(even){background:#deedf7;border-color:#9ebdd0}
-.card.rainbow-card{--accent:#a291b6!important;--tint:#ece3f3!important;border-top:0;padding-top:27px;position:relative;overflow:hidden;background:linear-gradient(125deg,#f8e6e9,#faf0dc 30%,#e7f1e7 55%,#e4edf7 78%,#f0e7f7)}
-.card.rainbow-card:before{background:linear-gradient(90deg,#cf8f95 0% 16.66%,#d6aa7d 16.66% 33.33%,#d6c886 33.33% 50%,#94b69a 50% 66.66%,#8aadc9 66.66% 83.33%,#b39ac8 83.33%)}
-.rainbow-card .badge{background:linear-gradient(90deg,#f3e0e4,#eee9d4,#dfeee5,#e7e2f3)}
-.rainbow-card .actions a:nth-child(2){background:#e1eee4;border-color:#94b69a}.rainbow-card .actions a:nth-child(3){background:#e0eaf5;border-color:#8aadc9}
+.card.rainbow-card{--accent:#8645c4!important;--tint:#efd3ff!important;border-top:0;padding-top:30px;position:relative;overflow:hidden;background:linear-gradient(125deg,#ffbfc9,#ffe397 28%,#b4edc7 53%,#a9d7ff 76%,#dab7ff)}
+.card.rainbow-card:before{height:10px;background:linear-gradient(90deg,#ed3349 0% 16.66%,#ff8a24 16.66% 33.33%,#ffd52c 33.33% 50%,#23b85e 50% 66.66%,#2786ec 66.66% 83.33%,#9b42d6 83.33%)}
+.rainbow-card .badge{background:#ffffffd9;border-color:#8645c4;color:#39254e}
+.rainbow-card .actions a{background:#efd3ff;border-color:#8645c4;color:#39254e}
+.rainbow-card .actions a:nth-child(2){background:#a5ebc0;border-color:#238545;color:#173e27}.rainbow-card .actions a:nth-child(3){background:#b6d9ff;border-color:#2867ac;color:#203d60}
 footer{border-color:#c2d2dc;color:#4c636f}
 @media(max-width:1000px){.controls{grid-template-columns:2fr 1.3fr auto}.hero-tags{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.controls{grid-template-columns:1fr}.hero-tags{grid-template-columns:1fr}.hero-tags button{width:100%}.hero:before,.hero:after{height:62%}}
