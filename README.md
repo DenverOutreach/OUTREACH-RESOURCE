@@ -11,7 +11,7 @@ A mobile-friendly resource directory for Denver-area homeless outreach and case 
 
 ## Data
 
-`data/resources.json` contains 209 source entries from OUTREACH RESOURCE GUIDE - CURRENT.ods: 201 from Resource Guide and 8 from OCC Monthly Resource Connection. Entries remain separate, including overlapping providers. Each retains its original worksheet and row. Staff names from the monthly worksheet are excluded. Category names are preserved as supplied. Quick filters include related source categories: food includes Food and Food Resources; mental health includes its youth category; medical care includes Medical and Respite.
+`data/resources.json` contains 207 entries based on OUTREACH RESOURCE GUIDE - CURRENT.ods, with owner-requested category corrections and removals. The AID Center and duplicate Empowerment Program were removed; The Empowerment Program remains. Fitz Gateway Apartments is Housing Support; Youth Seen is Behavioral & Mental Health Services; Safehouse Denver is Domestic Violence Support; Entryway and DEDO Workforce are Employment & Workforce Development. Other overlapping entries remain separate. Each retains its original worksheet and row. Staff names from the monthly worksheet are excluded. The food quick filter includes Food and Food Resources. Source locators identify the original rows; categories may reflect subsequent owner corrections.
 
 The mountain theme uses three colorful quick buttons and tinted resource cards. Transgender Center of the Rockies has a muted pink-and-blue card; other LGBTQ+ Community Services cards have a bright rainbow theme.
 

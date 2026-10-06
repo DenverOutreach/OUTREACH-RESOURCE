@@ -31,7 +31,7 @@ function card(r) {
   const hash = [...r.displayCategory].reduce((total, char) => total + char.charCodeAt(0), 0);
   const palette = categoryPalette[r.displayCategory] || colors[hash % colors.length]; el.style.setProperty('--accent', palette[0]); el.style.setProperty('--tint', palette[1]);
   if (r.name.trim().toLowerCase() === 'transgender center of the rockies') el.classList.add('trans-card');
-  else if (r.category.includes('LGBTQ')) el.classList.add('rainbow-card');
+  else if (r.category.includes('LGBTQ') || r.name.trim().toLowerCase() === 'youth seen') el.classList.add('rainbow-card');
   el.append(node('span', r.displayCategory || 'Other resources', 'badge'), node('h3', r.name));
   if (r.services) el.append(node('p', r.services, 'description'));
   const meta = node('div', '', 'metadata');
@@ -62,7 +62,7 @@ function render() {
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=3'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=9'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => ({...r, displayCategory: r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
     options(ui.category, resources.map(r => r.displayCategory)); render();

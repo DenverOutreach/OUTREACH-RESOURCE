@@ -86,7 +86,7 @@
     },
     {
       "name": "Youth Seen",
-      "category": "Behavioral & Mental Health Services for Youth",
+      "category": "Behavioral & Mental Health Services",
       "streetAddress": "4495 Hale Parkway, Suite 101",
       "city": "Denver",
       "state": "CO",
@@ -2081,7 +2081,7 @@
     },
     {
       "name": "Youth Seen",
-      "category": "LGBTQ+ Community Services",
+      "category": "Behavioral & Mental Health Services",
       "streetAddress": "4495 Hale Parkway, Suite 101",
       "city": "Denver",
       "state": "CO",
@@ -2689,27 +2689,6 @@
       }
     },
     {
-      "name": "Assessment, Intake, and Diversion (AID) Center",
-      "category": "Re-entry Assistance",
-      "streetAddress": "1370 Elati Street",
-      "city": "Denver",
-      "state": "CO",
-      "zipCode": "80204",
-      "phone": "720-865-5981",
-      "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Mayors-Office/Programs-and-Initiatives/Social-Equity-and-Innovation/Office-of-Neighborhood-Safety/AID-Center",
-      "hours": "Mon-Fri 8 AM - 5 PM",
-      "intake": "Walk-in or call",
-      "eligibility": "Open to all seeking support services",
-      "services": "Housing assistance, substance misuse support, mental health services, food and hygiene resources, employment connections, veterans services",
-      "notes": "Acts as a hub for law enforcement and community-based alternatives",
-      "id": "resource-129",
-      "source": {
-        "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
-        "sheet": "Resource Guide",
-        "row": 130
-      }
-    },
-    {
       "name": "Second Chance Center, Inc.",
       "category": "Re-entry Assistance",
       "streetAddress": "224 Potomac Street",
@@ -2959,27 +2938,6 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 142
-      }
-    },
-    {
-      "name": "Empowerment Program",
-      "category": "Re-entry Assistance",
-      "streetAddress": "1600 York St. Ste 101",
-      "city": "Denver",
-      "state": "CO",
-      "zipCode": "80206",
-      "phone": "303-320-1989",
-      "website": "http://www.empowermentprogram.org/",
-      "hours": "Varies",
-      "intake": "Fill out pre-intake form online or call",
-      "eligibility": "Women involved in the criminal justice system",
-      "services": "Housing referrals, education, employment readiness, trauma recovery",
-      "notes": "Aims to reduce recidivism through holistic behavioral health services",
-      "id": "resource-142",
-      "source": {
-        "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
-        "sheet": "Resource Guide",
-        "row": 143
       }
     },
     {
@@ -4245,7 +4203,7 @@
     },
     {
       "name": "Entryway",
-      "category": "Employment & Housing",
+      "category": "Employment & Workforce Development",
       "streetAddress": "",
       "city": "",
       "state": "",
@@ -4289,7 +4247,7 @@
     },
     {
       "name": "DEDO Workforce",
-      "category": "Workforce Development",
+      "category": "Employment & Workforce Development",
       "streetAddress": "201 W. Colfax Ave",
       "city": "Denver",
       "state": "CO",
@@ -4355,7 +4313,7 @@
     },
     {
       "name": "Fitz Gateway Apartments",
-      "category": "AMI Based Apartments",
+      "category": "Housing Support",
       "streetAddress": "12100 E. Colfax",
       "city": "Aurora",
       "state": "CO",
@@ -4377,7 +4335,7 @@
     },
     {
       "name": "Safehouse Denver",
-      "category": "Domestic Violence",
+      "category": "Domestic Violence Support",
       "streetAddress": "1649 N Downing St",
       "city": "Denver",
       "state": "CO",
