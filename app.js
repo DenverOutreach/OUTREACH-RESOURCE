@@ -1,10 +1,12 @@
 'use strict';
 const ui = Object.fromEntries(['search', 'category', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
 let resources = [];
-const colors = [['#526b61','#e7eee9'],['#a08060','#f1eade'],['#737c8a','#e9ecf1'],['#52778b','#e5edf1'],['#8b756e','#f1e8e3']];
+const colors = [['#537a68','#e0eee6'],['#ad7865','#f6e6de'],['#81709f','#eee5f5'],['#557d98','#e0edf6'],['#a66e83','#f5e3eb'],['#577f83','#e0eff0']];
 let quickCategory = '';
 function matchesCategory(r) {
   if (quickCategory === 'Food Resources') return ['Food', 'Food Resources'].includes(r.category);
+  if (quickCategory === 'Behavioral & Mental Health Services') return r.category.startsWith('Behavioral & Mental Health Services');
+  if (quickCategory === 'Medical Care') return ['Medical Care', 'Medical and Respite'].includes(r.category);
   return !ui.category.value || r.displayCategory === ui.category.value;
 }
 function node(tag, text, className) { const el = document.createElement(tag); if (text) el.textContent = text; if (className) el.className = className; return el; }
@@ -17,6 +19,8 @@ function card(r) {
   const el = node('article', '', 'card');
   const hash = [...r.displayCategory].reduce((total, char) => total + char.charCodeAt(0), 0);
   const palette = colors[hash % colors.length]; el.style.setProperty('--accent', palette[0]); el.style.setProperty('--tint', palette[1]);
+  if (r.name.trim().toLowerCase() === 'transgender center of the rockies') el.classList.add('trans-card');
+  else if (r.category.includes('LGBTQ')) el.classList.add('rainbow-card');
   el.append(node('span', r.displayCategory || 'Other resources', 'badge'), node('h3', r.name));
   if (r.services) el.append(node('p', r.services, 'description'));
   const meta = node('div', '', 'metadata');
@@ -47,7 +51,7 @@ function render() {
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=2'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=3'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => ({...r, displayCategory: r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
     options(ui.category, resources.map(r => r.displayCategory)); render();
@@ -58,6 +62,6 @@ ui.category.addEventListener('change', () => { quickCategory = ''; render(); });
 ui.reset.addEventListener('click', () => { ui.search.value = ''; ui.category.value = ''; quickCategory = ''; render(); ui.search.focus(); });
 document.querySelectorAll('[data-category]').forEach(button => button.addEventListener('click', () => {
   ui.search.value = ''; quickCategory = button.dataset.category; ui.category.value = quickCategory; render();
-  document.getElementById('directory').scrollIntoView({behavior: 'smooth', block: 'start'});
+  document.getElementById('directory').scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start'});
 }));
 start();
