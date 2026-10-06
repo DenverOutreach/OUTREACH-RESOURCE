@@ -1,17 +1,17 @@
 'use strict';
 const ui = Object.fromEntries(['search', 'category', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
 let resources = [];
-const colors = [['#147b45','#b7edca'],['#c4501b','#ffd0a8'],['#7932bc','#dfb9ff'],['#176abb','#aad8ff'],['#bd326b','#ffbfd9'],['#087d87','#a4eceb'],['#997000','#ffe69b'],['#a63c43','#ffc2bf']];
+const colors = [['#147b45','#e0f2e7'],['#c4501b','#fce9da'],['#7932bc','#efe2fa'],['#176abb','#e0eefb'],['#bd326b','#f9e2ec'],['#087d87','#ddf2f1'],['#997000','#fbf1d2'],['#a63c43','#f9e4e2']];
 const categoryPalette = {
-  'Overnight Shelter': ['#176abb','#aad8ff'],
-  'Day Shelter & Support Services': ['#147b45','#b7edca'],
-  'Food Resources': ['#c4501b','#ffd0a8'],
-  'Food': ['#c4501b','#ffd0a8'],
-  'Behavioral & Mental Health Services': ['#7932bc','#dfb9ff'],
-  'Behavioral & Mental Health Services for Youth': ['#7932bc','#dfb9ff'],
-  'Substance Use Treatment': ['#a63c43','#ffc2bf'],
-  'Medical Care': ['#087d87','#a4eceb'],
-  'Medical and Respite': ['#087d87','#a4eceb']
+  'Overnight Shelter': ['#176abb','#e0eefb'],
+  'Day Shelter & Support Services': ['#147b45','#e0f2e7'],
+  'Food Resources': ['#c4501b','#fce9da'],
+  'Food': ['#c4501b','#fce9da'],
+  'Behavioral & Mental Health Services': ['#7932bc','#efe2fa'],
+  'Behavioral & Mental Health Services for Youth': ['#7932bc','#efe2fa'],
+  'Substance Use Treatment': ['#a63c43','#f9e4e2'],
+  'Medical Care': ['#087d87','#ddf2f1'],
+  'Medical and Respite': ['#087d87','#ddf2f1']
 };
 let quickCategory = '';
 function matchesCategory(r) {
