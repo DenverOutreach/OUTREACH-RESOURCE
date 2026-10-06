@@ -79,3 +79,12 @@ body{background:linear-gradient(145deg,#edf4ed,#f5f8f1 65%,#e9f1e6)}
 .controls{background:linear-gradient(115deg,#e0ebdd,#edf3e6);border-color:#9db597;box-shadow:0 4px 14px #294b3515}.controls label{color:#2e4d38}.controls input,.controls select{border-color:#a0b69a;color:#294733}.controls .reset{background:#456d4d;border-color:#456d4d}.controls .reset:hover{background:#34553b;border-color:#34553b}
 .results-heading h2{color:#294c3b}.results-heading #count{background:#e0ebda;color:#45634a}.source-note{color:#627563}footer{color:#627563;border-color:#c7d6bf}
 @media(max-width:600px){.hero:before{height:64%;bottom:-35%}.hero:after{height:56%;bottom:-36%}}
+
+/* Lighter meadow greens, rounded hills, and a few tiny flowers. */
+.hero{background:linear-gradient(120deg,#426c4e,#648b5b);border-color:#8aab7c}
+.hero:before{inset:auto -22% -71%;width:145%;height:135%;background:#a6c58a;opacity:.48;transform:rotate(-17deg)}
+.hero:after{inset:auto -25% -79%;width:150%;height:120%;background:#d1dfa3;opacity:.36;transform:rotate(16deg)}
+.hero .meadow-flowers{position:absolute;right:8%;bottom:22px;display:flex;gap:27px;align-items:end;color:#fff4ce;font-size:19px;line-height:1;pointer-events:none;z-index:0}
+.meadow-flowers span:nth-child(2){color:#f5dce6;font-size:15px;transform:translateY(-14px)}.meadow-flowers span:nth-child(3){font-size:22px;transform:translateY(-6px)}.meadow-flowers span:nth-child(4){color:#f5dce6;font-size:14px;transform:translateY(-23px)}
+.hero-tags{z-index:1}body{background:linear-gradient(145deg,#f0f6e9,#f7faf1 65%,#eaf3df)}
+@media(max-width:600px){.hero:before{height:93%;bottom:-51%}.hero:after{height:82%;bottom:-53%}.hero .meadow-flowers{right:8%;bottom:9px;font-size:14px;gap:17px}.meadow-flowers span:nth-child(2),.meadow-flowers span:nth-child(3),.meadow-flowers span:nth-child(4){font-size:13px;transform:none}}
