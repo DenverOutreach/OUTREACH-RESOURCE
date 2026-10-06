@@ -67,6 +67,11 @@ async function start() {
     const response = await fetch('./data/resources.json?v=12'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => ({...r, displayCategory: r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
+    // Shuffle once per page load so filtering keeps a stable resource order.
+    for (let i = resources.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [resources[i], resources[j]] = [resources[j], resources[i]];
+    }
     options(ui.category, resources.map(r => r.displayCategory)); render();
   } catch { ui.count.textContent = 'The resource guide could not load.'; ui.empty.textContent = 'Please reload the page. If opening the downloaded files, use a local web server or GitHub Pages.'; ui.empty.hidden = false; }
 }
