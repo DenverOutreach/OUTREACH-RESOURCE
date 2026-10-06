@@ -57,3 +57,14 @@ footer{border-color:#c2d2dc;color:#4c636f}
 @media(max-width:1000px){.controls{grid-template-columns:2fr 1.3fr auto}.hero-tags{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.controls{grid-template-columns:1fr}.hero-tags{grid-template-columns:1fr}.hero-tags button{width:100%}.hero:before,.hero:after{height:62%}}
 @media(prefers-reduced-motion:reduce){.hero-tags button{transition:none}.hero-tags button:hover{transform:none}}
+
+/* A Front Range sky, from twilight blue to golden daylight. */
+body{background:radial-gradient(ellipse at 95% 0%,#ffe4a280,transparent 35%),linear-gradient(150deg,#dcebf9,#f0f7fc 45%,#e9eafa)}
+header{color:#223b61}.brand{color:#223b61}.brand-icon{background:linear-gradient(135deg,#293b72,#457dac);box-shadow:0 3px 10px #243f6b24}.header-note{color:#51658a}
+.hero{background:radial-gradient(circle at 88% 23%,#fff7cf 0 37px,#ffdc9170 39px,transparent 100px),radial-gradient(circle at 67% 12%,#fff 0 1.5px,transparent 2.5px),radial-gradient(circle at 73% 27%,#fff 0 1px,transparent 2px),radial-gradient(circle at 59% 9%,#fff 0 1px,transparent 2px),radial-gradient(circle at 95% 9%,#fff 0 1px,transparent 2px),linear-gradient(110deg,#172744 0%,#30477a 54%,#568db2 78%,#eabf84 100%);box-shadow:0 12px 32px #263d662b;border:1px solid #7f9db7}
+.hero:before{height:95%;background:linear-gradient(160deg,#b9d8ec,#7d9bbd 55%,#6275a3);opacity:.65;clip-path:polygon(0 100%,0 92%,30% 88%,49% 55%,57% 72%,70% 12%,79% 45%,86% 32%,100% 65%,100% 100%)}
+.hero:after{top:auto;right:0;width:100%;height:76%;background:linear-gradient(125deg,#193049,#31456a 65%,#456681);opacity:.8;clip-path:polygon(0 100%,0 95%,35% 90%,52% 65%,61% 82%,76% 34%,84% 64%,93% 48%,100% 67%,100% 100%)}
+.eyebrow{color:#ffe1a3}h1 span{color:#ffe4ac}.hero p{color:#edf5ff}.hero h1,.hero p,.hero .eyebrow{position:relative;text-shadow:0 2px 12px #14234480}.hero-tags{position:relative}
+.controls{background:linear-gradient(115deg,#d2eafb,#e2e7fa 65%,#fff0ce);border-color:#819bc0;box-shadow:0 6px 20px #294b6020}.controls label{color:#263c65}.controls input,.controls select{border-color:#829bbc}.controls .reset{background:#344b79;border-color:#344b79}.controls .reset:hover{background:#25385e;border-color:#25385e}
+.results-heading h2{color:#263c65}.results-heading #count{background:#dce8f8;color:#344b79;padding:8px 12px;border-radius:20px;font-weight:650}.source-note{color:#536782}footer{color:#51658a;border-color:#c0d2e7}
+@media(max-width:600px){.hero{background-position:0 0}.hero:before{height:65%}.hero:after{height:48%}.hero-tags{margin-top:28px}}
