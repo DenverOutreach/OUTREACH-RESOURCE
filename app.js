@@ -1,7 +1,18 @@
 'use strict';
 const ui = Object.fromEntries(['search', 'category', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
 let resources = [];
-const colors = [['#537a68','#e0eee6'],['#ad7865','#f6e6de'],['#81709f','#eee5f5'],['#557d98','#e0edf6'],['#a66e83','#f5e3eb'],['#577f83','#e0eff0']];
+const colors = [['#147b45','#b7edca'],['#c4501b','#ffd0a8'],['#7932bc','#dfb9ff'],['#176abb','#aad8ff'],['#bd326b','#ffbfd9'],['#087d87','#a4eceb'],['#997000','#ffe69b'],['#a63c43','#ffc2bf']];
+const categoryPalette = {
+  'Overnight Shelter': ['#176abb','#aad8ff'],
+  'Day Shelter & Support Services': ['#147b45','#b7edca'],
+  'Food Resources': ['#c4501b','#ffd0a8'],
+  'Food': ['#c4501b','#ffd0a8'],
+  'Behavioral & Mental Health Services': ['#7932bc','#dfb9ff'],
+  'Behavioral & Mental Health Services for Youth': ['#7932bc','#dfb9ff'],
+  'Substance Use Treatment': ['#a63c43','#ffc2bf'],
+  'Medical Care': ['#087d87','#a4eceb'],
+  'Medical and Respite': ['#087d87','#a4eceb']
+};
 let quickCategory = '';
 function matchesCategory(r) {
   if (quickCategory === 'Food Resources') return ['Food', 'Food Resources'].includes(r.category);
@@ -18,7 +29,7 @@ function link(label, href, external = false) { const a = node('a', label); a.hre
 function card(r) {
   const el = node('article', '', 'card');
   const hash = [...r.displayCategory].reduce((total, char) => total + char.charCodeAt(0), 0);
-  const palette = colors[hash % colors.length]; el.style.setProperty('--accent', palette[0]); el.style.setProperty('--tint', palette[1]);
+  const palette = categoryPalette[r.displayCategory] || colors[hash % colors.length]; el.style.setProperty('--accent', palette[0]); el.style.setProperty('--tint', palette[1]);
   if (r.name.trim().toLowerCase() === 'transgender center of the rockies') el.classList.add('trans-card');
   else if (r.category.includes('LGBTQ')) el.classList.add('rainbow-card');
   el.append(node('span', r.displayCategory || 'Other resources', 'badge'), node('h3', r.name));

@@ -22,18 +22,20 @@ body{background:linear-gradient(140deg,#e9f0f5 0%,#edf2ef 55%,#eeebf4 100%)}
 .controls input::placeholder{color:#566d7a;font-weight:400}
 .controls .reset{background:#365d69;border:2px solid #365d69;color:#fff;min-height:54px;font-weight:750;padding:12px 18px}
 .controls .reset:hover{background:#284a56;border-color:#284a56}
-.card{border-color:#cddbe1;border-top:5px solid var(--accent);background:linear-gradient(145deg,var(--tint),#ffffff 75%);box-shadow:0 3px 10px #314f6110}
-.badge{background:var(--tint);border:1px solid var(--accent);color:#293d46}
-.actions a,.actions a:first-child{background:var(--tint);border-color:var(--accent);color:#293d46}.actions a:hover{filter:brightness(.96)}
+.card{border-color:var(--accent);border-top:7px solid var(--accent);background:var(--tint);box-shadow:0 4px 12px #314f6120}
+.badge{background:var(--accent);border:1px solid var(--accent);color:#fff;font-weight:750}
+.actions a,.actions a:first-child{background:#ffffffc9;border:2px solid var(--accent);color:#20323d}.actions a:first-child{background:var(--accent);color:#fff}.actions a:hover{filter:brightness(.96)}
 .card details{border-color:#b8cbd180}
 .card.trans-card{--accent:#89b8d0!important;--tint:#f2dce7!important;border-top:0;padding-top:27px;position:relative;overflow:hidden;background:linear-gradient(125deg,#dfedf8,#f5e1ec 60%,#fefbfc)}
 .card.trans-card:before,.card.rainbow-card:before{content:"";position:absolute;left:0;right:0;top:0;height:7px;background:linear-gradient(90deg,#8bc9df 0% 20%,#e8b0c7 20% 40%,#fff 40% 60%,#e8b0c7 60% 80%,#8bc9df 80%)}
 .trans-card .badge{background:linear-gradient(90deg,#deedf7,#f3dce8);border-color:#b8a5bb}
+.trans-card .badge,.trans-card .actions a:first-child{color:#293d46}.trans-card .actions a:first-child{background:#f2dce7}
 .trans-card .actions a:nth-child(even){background:#deedf7;border-color:#9ebdd0}
 .card.rainbow-card{--accent:#8645c4!important;--tint:#efd3ff!important;border-top:0;padding-top:30px;position:relative;overflow:hidden;background:linear-gradient(125deg,#ffbfc9,#ffe397 28%,#b4edc7 53%,#a9d7ff 76%,#dab7ff)}
 .card.rainbow-card:before{height:10px;background:linear-gradient(90deg,#ed3349 0% 16.66%,#ff8a24 16.66% 33.33%,#ffd52c 33.33% 50%,#23b85e 50% 66.66%,#2786ec 66.66% 83.33%,#9b42d6 83.33%)}
 .rainbow-card .badge{background:#ffffffd9;border-color:#8645c4;color:#39254e}
 .rainbow-card .actions a{background:#efd3ff;border-color:#8645c4;color:#39254e}
+.rainbow-card .actions a:first-child{background:#efd3ff;color:#39254e}
 .rainbow-card .actions a:nth-child(2){background:#a5ebc0;border-color:#238545;color:#173e27}.rainbow-card .actions a:nth-child(3){background:#b6d9ff;border-color:#2867ac;color:#203d60}
 footer{border-color:#c2d2dc;color:#4c636f}
 @media(max-width:1000px){.controls{grid-template-columns:2fr 1.3fr auto}.hero-tags{grid-template-columns:repeat(2,minmax(0,1fr))}}
