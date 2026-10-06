@@ -102,3 +102,14 @@ h1,h2,.card h3,.controls label{font-family:Georgia,serif}h1{font-size:clamp(32px
 .hero-tags{max-width:690px}.hero-tags button[data-category="Shelter (Overnight)"]{background:linear-gradient(120deg,#071b40,#123868);border-color:#739cd4}.hero-tags button[data-category="Shelter (Day Center)"]{background:linear-gradient(120deg,#fff4af,#ffd364);border-color:#fff2b7;color:#132748}
 .controls{background:#eae7fa;border:1px solid #dedaf2;box-shadow:none}.controls label{color:#12264a}.controls input,.controls select{border:1px solid #b8bee2;color:#132748}.controls .reset{background:#082450;border-color:#082450}.results-heading h2{color:#10244a}.results-heading #count{background:transparent;color:#526786}.source-note{color:#63708a}
 @media(max-width:600px){.brand{font-size:21px}.hero{padding:30px 24px;background:linear-gradient(90deg,#061a3cd9,#061a3c66),url('denver-sunset.png') 65% center/cover}}
+
+/* Resource cards coordinated with the approved sunset mockup. */
+.card:not(.rainbow-card):not(.trans-card){border:0;padding:22px;border-radius:18px;background:linear-gradient(135deg,var(--tint),color-mix(in srgb,var(--tint) 75%,white));color:#11274b;box-shadow:none}
+.card.night-card{--accent:#2463ac!important;--tint:#deecff!important}.card.day-card{--accent:#dc9600!important;--tint:#ece5fc!important}
+.card.night-card:before,.card.night-card:after,.card.day-card:before{display:none}
+.card:not(.rainbow-card):not(.trans-card) .badge{background:color-mix(in srgb,var(--tint) 70%,var(--accent) 15%);border:0;color:#233b60;font-size:12px;max-width:100%;display:flex;align-items:center;gap:9px;padding:0 10px 0 0;border-radius:20px;min-height:34px}
+.card:not(.rainbow-card):not(.trans-card) .badge:before{content:'✦';display:grid;place-items:center;width:34px;height:34px;flex:0 0 34px;border-radius:50%;background:var(--accent);color:white;font-size:21px}
+.card.night-card .badge:before{content:'☾';color:#fff}.card.day-card .badge:before{content:'☀';color:#fff}.card.food-card .badge:before{content:'♜';font-size:18px}
+.card h3{font-size:24px;line-height:1.25;letter-spacing:-.5px;margin:16px 0 10px;color:#10244a}.card.night-card h3,.card.day-card h3{margin-top:16px}
+.card:not(.rainbow-card):not(.trans-card) .description,.card:not(.rainbow-card):not(.trans-card) .metadata p{color:#435573}.card p{font-size:14px}.card .actions a{background:#ffffffb5;border:1px solid #ccd6e8;color:#132d53}.card .actions a:first-child{background:#092853;border:1px solid #092853;color:white}.card details{border-color:#acbed34d}.card.night-card .provenance{color:#63708a}.card.night-card details{border-color:#acbed34d}.card.night-card .actions a:first-child,.card.day-card .actions a:first-child{background:#092853;color:white}
+@media(max-width:600px){.card h3{font-size:23px}}
