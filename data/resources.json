@@ -464,7 +464,7 @@
     },
     {
       "name": "Aurora Day Resource Center",
-      "category": "Day Shelter & Support Services",
+      "category": "Shelter (Day Center & Support Services)",
       "streetAddress": "13387 E 19th Pl",
       "city": "Denver",
       "state": "CO",
@@ -485,7 +485,7 @@
     },
     {
       "name": "Haven of Hope Jay Gould Center",
-      "category": "Day Shelter & Support Services",
+      "category": "Shelter (Day Center & Support Services)",
       "streetAddress": "1101 W 7th Ave",
       "city": "Denver",
       "state": "CO",
@@ -506,7 +506,7 @@
     },
     {
       "name": "Lawrence Street Community Center",
-      "category": "Day Shelter & Support Services",
+      "category": "Shelter (Day Center & Support Services)",
       "streetAddress": "2222 Lawrence Street",
       "city": "Denver",
       "state": "CO",
@@ -527,7 +527,7 @@
     },
     {
       "name": "Network Coffee House",
-      "category": "Day Shelter & Support Services",
+      "category": "Shelter (Day Center & Support Services)",
       "streetAddress": "1402 Pearl Street",
       "city": "Denver",
       "state": "CO",
@@ -548,7 +548,7 @@
     },
     {
       "name": "St. Francis Center",
-      "category": "Day Shelter & Support Services",
+      "category": "Shelter (Day Center & Support Services)",
       "streetAddress": "2323 Curtis St",
       "city": "Denver",
       "state": "CO",
@@ -569,7 +569,7 @@
     },
     {
       "name": "The Gathering Place",
-      "category": "Day Shelter & Support Services",
+      "category": "Shelter (Day Center & Support Services)",
       "streetAddress": "1535 High Street",
       "city": "Denver",
       "state": "CO",
@@ -863,7 +863,7 @@
     },
     {
       "name": "Denver Rescue Mission",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "1130 Park Ave W",
       "city": "Denver",
       "state": "CO",
@@ -884,7 +884,7 @@
     },
     {
       "name": "The Delores Project",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "1290 King Street",
       "city": "Denver",
       "state": "CO",
@@ -905,7 +905,7 @@
     },
     {
       "name": "The Salvation Army Crossroads Center",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "1901 29th Street",
       "city": "Denver",
       "state": "CO",
@@ -926,7 +926,7 @@
     },
     {
       "name": "Salvation Army Connection Center",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "1901 29th St",
       "city": "Denver",
       "state": "CO",
@@ -947,7 +947,7 @@
     },
     {
       "name": "Sinton's Sanctuary",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "1247 Santa Fe Drive",
       "city": "Denver",
       "state": "CO",
@@ -3509,7 +3509,7 @@
     },
     {
       "name": "Samaritan House Downtown - Women and Families",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "2301 Lawrence Street",
       "city": "Denver",
       "state": "CO",
@@ -3530,7 +3530,7 @@
     },
     {
       "name": "Samaritan House 48th - Women’s Shelter",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "4330 East 48th Avenue",
       "city": "Denver",
       "state": "CO",
@@ -3551,7 +3551,7 @@
     },
     {
       "name": "Samaritan House Smith Road - Women’s Shelter",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "6240 Smith Road",
       "city": "Denver",
       "state": "CO",
@@ -3572,7 +3572,7 @@
     },
     {
       "name": "Sacred Heart House of Denver",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "2844 Lawrence Street",
       "city": "Denver",
       "state": "CO",
@@ -3593,7 +3593,7 @@
     },
     {
       "name": "VOA Theodora Family Hotel",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "4885 West Colfax Avenue",
       "city": "Denver",
       "state": "CO",
@@ -3614,7 +3614,7 @@
     },
     {
       "name": "Salvation Army Lambuth Family Center",
-      "category": "Overnight Shelter",
+      "category": "Shelter (Overnight)",
       "streetAddress": "2741 North Federal Boulevard",
       "city": "Denver",
       "state": "CO",
