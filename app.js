@@ -52,13 +52,6 @@ function card(r) {
     if (value) { details.append(node('p', label, 'detail-label'), node('p', value)); }
   }
   if (r.website && !website) details.append(node('p', `Website reference in guide: ${r.website}`));
-  const source = r.source || {};
-  if (source.website && source.verifiedDate) {
-    details.append(node('p', `Provider source checked ${source.verifiedDate}: ${source.website}`, 'provenance'));
-  } else if (source.sheet && source.row) {
-    const visit = source.visitDate ? ` • Visit/presentation: ${source.visitDate}` : '';
-    details.append(node('p', `Original guide: ${source.sheet}, row ${source.row}${visit}. See notes for any verification updates.`, 'provenance'));
-  }
   el.append(details); return el;
 }
 function render() {
