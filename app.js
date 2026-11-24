@@ -48,7 +48,7 @@ function card(r) {
   if (r.streetAddress) actions.append(link('Map ↗', `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`, true));
   el.append(actions);
   const details = node('details'); details.append(node('summary', 'Intake, eligibility & notes'));
-const publicNotes = (r.notes || '').replace(/\s*Online source checked \d{4}-\d{2}-\d{2}:\s*https?:\/\/\S+/gi, '').trim();
+const publicNotes = (r.notes || '').replace(/\s*(?:Online sources? checked|Food audit|City routing checked) \d{4}-\d{2}-\d{2}(?::\s*https?:\/\/\S+(?:\s+and\s+https?:\/\/\S+)?|\.)/gi, '').trim();
 for (const [label, value] of [['Intake', r.intake], ['Eligibility', r.eligibility], ['Notes', publicNotes]]) {    if (value) { details.append(node('p', label, 'detail-label'), node('p', value)); }
   }
   if (r.website && !website) details.append(node('p', `Website reference in guide: ${r.website}`));
