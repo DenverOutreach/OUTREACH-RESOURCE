@@ -52,7 +52,13 @@ function card(r) {
     if (value) { details.append(node('p', label, 'detail-label'), node('p', value)); }
   }
   if (r.website && !website) details.append(node('p', `Website reference in guide: ${r.website}`));
-  details.append(node('p', `Source: ${r.source.sheet}, row ${r.source.row}${r.source.visitDate ? ` • Visit/presentation: ${r.source.visitDate}` : ''}. Provider details not independently verified.`, 'provenance'));
+  const source = r.source || {};
+  if (source.website && source.verifiedDate) {
+    details.append(node('p', `Provider source checked ${source.verifiedDate}: ${source.website}`, 'provenance'));
+  } else if (source.sheet && source.row) {
+    const visit = source.visitDate ? ` • Visit/presentation: ${source.visitDate}` : '';
+    details.append(node('p', `Original guide: ${source.sheet}, row ${source.row}${visit}. See notes for any verification updates.`, 'provenance'));
+  }
   el.append(details); return el;
 }
 function render() {
@@ -64,7 +70,7 @@ function render() {
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=12'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=13'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => ({...r, displayCategory: r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
     // Shuffle once per page load so filtering keeps a stable resource order.
