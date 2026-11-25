@@ -40,7 +40,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 3
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Support Team Assisted Response (STAR)",
@@ -124,7 +125,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 7
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Rocky Mountain Human Services – General Program Intake",
@@ -145,7 +147,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 8
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Servicios de La Raza – Re-Entry Program",
@@ -167,7 +170,8 @@
         "sheet": "Resource Guide",
         "row": 9
       },
-      "culturallySpecific": true
+      "culturallySpecific": true,
+      "denverCounty": true
     },
     {
       "name": "A Precious Child",
@@ -188,7 +192,10 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 10
-      }
+      },
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Bridget's Boutique at The Gathering Place",
@@ -209,7 +216,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 11
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Clothes to Kids of Denver",
@@ -230,7 +238,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 12
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Dress for Success",
@@ -251,7 +263,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 13
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "The Action Center – Clothing Market",
@@ -293,7 +306,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 15
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "BirdSeed Collective",
@@ -335,7 +349,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 18
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "EarthLinks",
@@ -356,7 +371,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 19
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Holy Ghost Catholic Church",
@@ -377,7 +393,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 20
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Southwest Improvement Council (SWIC)",
@@ -398,7 +415,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 21
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Metro Denver Homeless Initiative – OneHome Coordinated Entry",
@@ -486,7 +504,8 @@
       "additionalCategories": [
         "Showers, Laundry & Hygiene",
         "Mail & Storage"
-      ]
+      ],
+      "denverCounty": true
     },
     {
       "name": "Lawrence Street Community Center",
@@ -507,7 +526,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 26
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Network Coffee House",
@@ -528,7 +548,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 27
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "St. Francis Center",
@@ -549,7 +570,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 28
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "The Gathering Place",
@@ -573,8 +595,10 @@
       },
       "additionalCategories": [
         "Showers, Laundry & Hygiene",
-        "Mail & Storage"
-      ]
+        "Mail & Storage",
+        "Family & Children"
+      ],
+      "denverCounty": true
     },
     {
       "name": "Denver Youth Dental and Vision",
@@ -595,7 +619,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 30
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Kids in Need of Dentistry (KIND)",
@@ -637,7 +662,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 32
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "CU Anschutz Dental Clinics",
@@ -742,7 +768,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 37
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "SafeHouse Denver – Emergency Shelter and Crisis Line",
@@ -784,7 +811,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 39
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Mi Casa Resource Center",
@@ -805,7 +833,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 40
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "The Learning Source",
@@ -847,7 +876,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 42
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Rescue Mission – Lawrence Street Shelter",
@@ -868,7 +898,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 43
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "The Delores Project",
@@ -910,7 +941,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 45
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Salvation Army Connection Center – Family Shelter Intake",
@@ -931,7 +963,10 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 46
-      }
+      },
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Sinton's Sanctuary",
@@ -952,7 +987,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 47
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Dress for Success",
@@ -973,7 +1009,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 48
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Center for Work Education and Employment (CWEE)",
@@ -994,7 +1031,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 49
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Division of Vocational Rehabilitation",
@@ -1099,7 +1137,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 54
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver SNAP to Success",
@@ -1141,7 +1180,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 57
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "We Don’t Waste – Mobile Food Markets",
@@ -1183,7 +1223,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 59
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "The Action Center",
@@ -1225,7 +1266,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 61
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Calvary Baptist Church – Blessings Pantry",
@@ -1246,7 +1288,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 62
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Agape Christian Church – Saturday Meal",
@@ -1267,7 +1310,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 63
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Capitol Hill Community Services - Trinity United Methodist Church",
@@ -1309,7 +1353,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 65
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Christ in the City : Lunch in the Park",
@@ -1351,7 +1396,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 67
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Food Not Bombs",
@@ -1435,7 +1481,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 71
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "MCC of the Rockies – Food Pantry and Clothing Closet",
@@ -1477,7 +1524,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 73
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Twin Parishes Food Bank",
@@ -1498,7 +1546,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 74
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Volunteers of America – Mission Family Center",
@@ -1519,7 +1568,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 75
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "arc Thrift Stores",
@@ -1645,7 +1698,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 81
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "The Denver ELEMENT",
@@ -1666,7 +1720,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 82
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Vivent Health",
@@ -1687,7 +1742,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 84
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Colorado Housing Connects – Statewide Housing Helpline",
@@ -1729,7 +1785,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 86
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Housing Authority – Affordable Housing and Voucher Applications",
@@ -1750,7 +1807,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 87
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Family Promise of Greater Denver",
@@ -1771,7 +1829,10 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 88
-      }
+      },
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Focus Points Family Resource Center",
@@ -1792,7 +1853,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 89
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Northeast Denver Housing Center – Affordable Rentals",
@@ -1813,7 +1875,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 90
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Open Door Ministries",
@@ -1855,7 +1918,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 92
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Centro San Juan Diego",
@@ -1876,7 +1940,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 93
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "International Rescue Committee (IRC)",
@@ -1886,18 +1951,21 @@
       "state": "CO",
       "zipCode": "80222",
       "phone": "720-328-6655",
-      "website": "https://welcome.rescue.org/us/en/denver-co/services/immigration-legal-support",
-      "hours": "Varies",
-      "intake": "Contact IRC Denver at 720-328-6655 or denver@rescue.org to ask about screening and an appointment.",
+      "website": "https://www.rescue.org/announcement/office-hours-and-appointments-new-and-returning-clients",
+      "hours": "General intake: Wed 10 a.m.–noon, subject to closures and capacity. Legal services by appointment.",
+      "intake": "For general services, attend Wednesday walk-in screening or email Denver.NewClients@rescue.org for another time. Ask about refugee housing stabilization screening. For immigration legal appointments, email Immigration.CO@rescue.org or ask IRC staff for a referral.",
       "eligibility": "IRC clients and others who meet the requirements for the requested service. Confirm intake eligibility directly.",
       "services": "Housing, employment, medical care, legal support",
-      "notes": "Ask about appointment availability, documents, and any fees. Online source checked 2026-11-23: https://welcome.rescue.org/us/en/denver-co/services/immigration-legal-support",
+      "notes": "Bring any documents you have to general intake. Check the intake page for closures. IRC is not accepting new referrals for detained representation.",
       "id": "resource-093",
       "source": {
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
-        "row": 94
-      }
+        "row": 94,
+        "website": "https://www.rescue.org/announcement/office-hours-and-appointments-new-and-returning-clients",
+        "verifiedDate": "2026-11-24"
+      },
+      "denverCounty": true
     },
     {
       "name": "Rocky Mountain Immigrant Advocacy Network (RMIAN)",
@@ -2065,7 +2133,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 103
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Rainbow Alley Youth Drop-In Center",
@@ -2086,7 +2155,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 104
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Transgender Center of the Rockies",
@@ -2128,7 +2198,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 106
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Health – Main Campus and Emergency Department",
@@ -2149,7 +2220,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 107
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Indian Health and Family Services",
@@ -2171,7 +2243,8 @@
         "sheet": "Resource Guide",
         "row": 108
       },
-      "culturallySpecific": true
+      "culturallySpecific": true,
+      "denverCounty": true
     },
     {
       "name": "Inner City Health Center",
@@ -2192,7 +2265,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 109
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Stout Street Health Center",
@@ -2213,7 +2287,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 110
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "STRIDE Community Health Center",
@@ -2255,7 +2330,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 112
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Colorado Pet Pantry",
@@ -2297,7 +2373,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 114
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Humane Colorado – Leslie A. Malone Center",
@@ -2318,7 +2395,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 115
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Humane Colorado – Veterinary Hospital at CSU Spur",
@@ -2528,7 +2606,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 126
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Colorado Drug Card",
@@ -2633,7 +2712,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 132
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Human Services – Emergency Rental Assistance",
@@ -2675,7 +2755,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 136
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Addiction Treatment Outpatient Services (ATOPS)",
@@ -2696,7 +2777,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 138
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Recovery Group",
@@ -2717,7 +2799,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 139
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Step Denver",
@@ -2738,7 +2821,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 140
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "STRIDE Community Health Center",
@@ -2843,7 +2927,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 146
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Colorado CARE Center",
@@ -2906,7 +2991,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 149
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Water – Payment Assistance",
@@ -2948,7 +3034,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 151
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver County Veteran Services",
@@ -2969,7 +3056,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 152
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "VA Community Resource and Referral Center (CRRC)",
@@ -2990,7 +3078,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 153
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Youth Dental and Vision",
@@ -3011,7 +3100,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 154
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Eyecare America",
@@ -3053,7 +3143,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 157
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Colorado Department of Motor Vehicles (DMV)",
@@ -3095,7 +3186,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 159
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Social Security Administration (SSA)",
@@ -3137,7 +3229,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 161
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Hope House of Colorado",
@@ -3179,7 +3272,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 163
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "TGTHR – The Source Youth Drop-In and Shelter",
@@ -3224,7 +3318,8 @@
       },
       "additionalCategories": [
         "Showers, Laundry & Hygiene"
-      ]
+      ],
+      "denverCounty": true
     },
     {
       "name": "Housing Now - The Salvation Army",
@@ -3266,7 +3361,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 168
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "The Family Tree – Homelessness Connections",
@@ -3329,7 +3425,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 171
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Samaritan House 48th - Women’s Shelter",
@@ -3350,7 +3450,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 172
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Samaritan House Smith Road - Women’s Shelter",
@@ -3371,7 +3472,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 173
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Sacred Heart House of Denver",
@@ -3413,7 +3515,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 175
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Salvation Army Lambuth Family Center",
@@ -3434,7 +3540,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 176
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "VOA Irving Street Women’s Residence",
@@ -3455,7 +3565,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 177
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Warren Village - Gilpin Transitional Housing",
@@ -3476,7 +3587,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 178
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Providence Network - Transitional Recovery Housing",
@@ -3518,7 +3633,10 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 180
-      }
+      },
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Denver Rescue Mission - The Crossing Bridge Program",
@@ -3539,7 +3657,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 181
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Inner City Parish - Food Pantry",
@@ -3560,7 +3679,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 182
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Community Ministry of Southwest Denver - Food Pantry",
@@ -3581,7 +3701,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 183
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Project Angel Heart - Medically Tailored Meals",
@@ -3623,7 +3744,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 185
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Struggle of Love Foundation - Sacks of Love Food Pantry",
@@ -3644,7 +3766,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 186
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "St. Anthony of Padua - Food Bank",
@@ -3665,7 +3788,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 187
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Community Fridges - Seventh Circle Site",
@@ -3686,7 +3810,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 188
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "VOA Supportive Services for Veteran Families - Denver",
@@ -3707,7 +3832,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 189
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "ServiceSource – Mobile Showers and Laundry",
@@ -3749,7 +3878,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 191
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "CEDLaw - Denver Eviction Court Clinic",
@@ -3770,7 +3900,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 192
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Colorado ID Project - Denver Identity Documents",
@@ -3833,7 +3964,10 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 195
-      }
+      },
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Denver Health WIC - Sam Sandos Westside Clinic",
@@ -3854,7 +3988,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 196
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Commún - Resource Navigation",
@@ -3875,7 +4013,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 197
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Atlantis Community - Independent Living Support",
@@ -3896,7 +4035,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 198
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Thriving Families - MotherWise",
@@ -3917,7 +4057,11 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 199
-      }
+      },
+      "denverCounty": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Denver Public Library - Social Services Resource Center",
@@ -3959,7 +4103,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 201
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Colorado Coalition for the Homeless - Medical Respite",
@@ -3980,7 +4125,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 202
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Stout Street Health Center – Health Services Case Management",
@@ -4002,7 +4148,8 @@
         "sheet": "OCC Monthly Resource Connection",
         "row": 2,
         "visitDate": "02.06.2026"
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Entryway",
@@ -4152,7 +4299,8 @@
       "source": {
         "website": "https://metrocaring.org/services/id-vouchers/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Denver Human Services – GIVE Center ID and Birth Certificate Help",
@@ -4192,7 +4340,8 @@
       "source": {
         "website": "https://www.sfcdenver.org/programs-services/day-services/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Mile High United Way – 211 Help Center",
@@ -4232,7 +4381,8 @@
       "source": {
         "website": "https://tgpdenver.org/what-we-do/navigation-services.html",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "category": "Veteran Services",
@@ -4312,7 +4462,8 @@
       "source": {
         "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Animal-Shelter/Services/Pet-Vaccinations",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-220",
@@ -4493,7 +4644,8 @@
       "source": {
         "website": "https://www.coloradojudicial.gov/courts/trial-courts/denver-district/denver-courts-pro-seself-help-centers",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-229",
@@ -4594,7 +4746,8 @@
       "source": {
         "website": "https://dicp.org/programs/older-adult-programs/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-234",
@@ -4634,7 +4787,8 @@
       "source": {
         "website": "https://www.tepeyachealth.org/location",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-236",
@@ -4795,7 +4949,8 @@
       "source": {
         "website": "https://lgbtqcolorado.org/programs/westof50/pride-compass-case-management/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-244",
@@ -4835,7 +4990,10 @@
       "source": {
         "website": "https://www.denverhealth.org/services/community-health/nurse-family-partnership",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "id": "resource-246",
@@ -4915,7 +5073,8 @@
       "source": {
         "website": "https://www.sfcdenver.org/programs-services/day-services/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-250",
@@ -4975,7 +5134,8 @@
       "source": {
         "website": "https://www.sfcdenver.org/programs-services/day-services/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-253",
@@ -5055,7 +5215,8 @@
       "source": {
         "website": "https://denvercommunityfridges.com/locations/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-257",
@@ -5095,7 +5256,10 @@
       "source": {
         "website": "https://comitiscrisiscenter.org/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "id": "resource-259",
@@ -5135,7 +5299,8 @@
       "source": {
         "website": "https://www.urbanpeak.org/find-help-now",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-261",
@@ -5155,7 +5320,8 @@
       "source": {
         "website": "https://christsbody.org/contact-us/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-262",
@@ -5175,7 +5341,8 @@
       "source": {
         "website": "https://www.soallmayeat.org/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-263",
@@ -5195,7 +5362,8 @@
       "source": {
         "website": "https://denverrescuemission.org/get-help/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "denverCounty": true
     },
     {
       "id": "resource-264",
@@ -5355,7 +5523,8 @@
       "source": {
         "website": "https://www.openarmsmontbello.org/contact-us",
         "verifiedDate": "2026-11-24"
-      }
+      },
+      "denverCounty": true
     },
     {
       "name": "Dayspring Villa – Assisted Living",
@@ -5375,7 +5544,8 @@
       "source": {
         "website": "https://dayspringvilla.org/where-to-begin/",
         "verifiedDate": "2026-11-24"
-      }
+      },
+      "denverCounty": true
     },
     {
       "streetAddress": "",
@@ -5457,7 +5627,10 @@
         "website": "https://difrc.org/programs/family-services/",
         "verifiedDate": "2026-11-24"
       },
-      "culturallySpecific": true
+      "culturallySpecific": true,
+      "additionalCategories": [
+        "Family & Children"
+      ]
     },
     {
       "name": "Servicios de La Raza – Essential Community Support",
@@ -5498,7 +5671,8 @@
       "source": {
         "website": "https://www.milehighworkshop.org/our-program",
         "verifiedDate": "2026-11-24"
-      }
+      },
+      "denverCounty": true
     },
     {
       "category": "Re-entry & Felon Friendly Resources",
@@ -5541,7 +5715,7 @@
       }
     },
     {
-      "name": "Denver Property Removal & Storage – Recover Belongings",
+      "name": "Denver Property Storage",
       "category": "Mail & Storage",
       "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Housing-Stability/Resident-Resources/Property-Removal-and-Storage",
       "services": "City instructions for reclaiming belongings collected during a Denver cleanup.",
@@ -5577,6 +5751,214 @@
       "id": "resource-282",
       "source": {
         "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-Human-Services/Be-Supported/Additional-Assistance/DHS-GIVE/GIVE-Center",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Community Outreach Service Center (COSC) – Basic Needs & Navigation",
+      "category": "Case Management & Support",
+      "streetAddress": "2515 California St.",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80205",
+      "phone": "303-295-6180",
+      "website": "https://www.coscdenver.org/copy-of-housing",
+      "hours": "Mon–Thu 9 a.m.–5 p.m.; Fri 9 a.m.–1 p.m.",
+      "intake": "Call or stop by the outreach center during office hours. Ask about the specific service or supplies you need.",
+      "eligibility": "People experiencing homelessness or financial hardship in the Denver metro area. Ask about requirements for individual programs.",
+      "services": "Clothing, hygiene kits, help with SNAP and identity documents, housing application navigation, and community referrals.",
+      "notes": "COSC refers people to the Agape Soul Food Pantry next door. Ask staff about the current schedule and availability.",
+      "id": "resource-283",
+      "source": {
+        "website": "https://www.coscdenver.org/copy-of-housing",
+        "verifiedDate": "2026-11-24"
+      },
+      "culturallySpecific": true,
+      "denverCounty": true
+    },
+    {
+      "name": "Spirit of the Sun – Indigenous Food Share",
+      "category": "Food Resources",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "website": "https://www.spiritofthesun.org/food-share",
+      "hours": "",
+      "intake": "New requests are by referral only. Contact jojo@spiritofthesun.org to ask how to make a referral and confirm pickup or delivery.",
+      "eligibility": "Native and Indigenous community members.",
+      "services": "Free food boxes for Native and Indigenous community members.",
+      "notes": "",
+      "id": "resource-284",
+      "source": {
+        "website": "https://www.spiritofthesun.org/food-share",
+        "verifiedDate": "2026-11-24"
+      },
+      "culturallySpecific": true
+    },
+    {
+      "name": "Colorado Black Health Collaborative – Barbershop & Salon Health Outreach",
+      "category": "Medical Care",
+      "streetAddress": "",
+      "city": "Denver metro area",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "720-579-2126",
+      "website": "https://www.coloradoblackhealth.org/resources-programs/black-barbershop-salon-health-outreach",
+      "hours": "",
+      "intake": "Call to confirm the next screening location and time before going.",
+      "eligibility": "Community outreach focused on Black and African American communities.",
+      "services": "Blood pressure screenings, health education, and referrals at participating barbershops and salons.",
+      "notes": "",
+      "id": "resource-285",
+      "source": {
+        "website": "https://www.coloradoblackhealth.org/resources-programs/black-barbershop-salon-health-outreach",
+        "verifiedDate": "2026-11-24"
+      },
+      "culturallySpecific": true
+    },
+    {
+      "name": "Safehouse Progressive Alliance for Nonviolence (SPAN)",
+      "category": "Domestic Violence Support",
+      "streetAddress": "",
+      "city": "Boulder and Broomfield counties",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "303-444-2424",
+      "website": "https://www.safehousealliance.org/services/crisis-line-shelter/",
+      "hours": "Crisis line: 24/7.",
+      "intake": "Call the 24-hour crisis line for support or to ask about shelter access.",
+      "eligibility": "Survivors of interpersonal violence in Boulder and Broomfield counties. Call to confirm shelter eligibility and availability.",
+      "services": "Confidential crisis support, safety planning, and emergency shelter screening. Services are free and available in English and Spanish.",
+      "notes": "",
+      "id": "resource-286",
+      "source": {
+        "website": "https://www.safehousealliance.org/services/crisis-line-shelter/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Aurora Mental Health & Recovery – Asian Pacific Clinic",
+      "category": "Behavioral & Mental Health Services",
+      "streetAddress": "1537 Alton St.",
+      "city": "Aurora",
+      "state": "CO",
+      "zipCode": "80010",
+      "phone": "720-839-0162",
+      "website": "https://www.auroramhr.org/cultural-development-wellness-center/behavioral-health/",
+      "hours": "Call for intake availability.",
+      "intake": "Call for referral assistance or use the referral form linked on the clinic page. Ask about language access and whether health navigation is available for your needs.",
+      "eligibility": "Children, adults, and older adults from immigrant and refugee communities. Contact the clinic to confirm intake.",
+      "services": "Culturally and linguistically responsive counseling, psychiatric services, case management, and outreach and navigation.",
+      "notes": "For referrals, the clinic also lists ClinicReferrals@AuroraMHR.org.",
+      "id": "resource-287",
+      "source": {
+        "website": "https://www.auroramhr.org/cultural-development-wellness-center/behavioral-health/",
+        "verifiedDate": "2026-11-24"
+      },
+      "culturallySpecific": true
+    },
+    {
+      "name": "Village Exchange Center – Village Pantry",
+      "category": "Food Resources",
+      "streetAddress": "1609 Havana St.",
+      "city": "Aurora",
+      "state": "CO",
+      "zipCode": "80010",
+      "phone": "720-668-9968",
+      "website": "https://villageexchangecenter.org/",
+      "hours": "Denver lists Wednesdays, noon–4 p.m.; call to confirm.",
+      "intake": "Call before traveling to confirm pantry hours, registration, and whether an appointment is needed.",
+      "eligibility": "People seeking groceries; ask about current enrollment requirements.",
+      "services": "Community food pantry serving Aurora households, including immigrant and refugee communities.",
+      "notes": "",
+      "id": "resource-288",
+      "source": {
+        "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Human-Rights-Community-Partnerships/Divisions/Immigrant-Refugee-Affairs/Immigrant-Support-Toolkit/City-Resources",
+        "verifiedDate": "2026-11-24"
+      },
+      "additionalCategories": [
+        "Immigration Services"
+      ]
+    },
+    {
+      "name": "Justice and Mercy Legal Aid Center (JAMLAC) – Immigration Law",
+      "category": "Immigration Services",
+      "streetAddress": "5400 Washington St.",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80216",
+      "phone": "303-839-1008",
+      "website": "https://jamlac.org/immigration-law/",
+      "hours": "",
+      "intake": "Review the cases listed and complete the online prequalification form.",
+      "eligibility": "Low-income applicants. Eligible case types depend on residence and whether the applicant is a victim. JAMLAC excludes asylum, deportation and detention cases and cases with a hearing in the next four weeks.",
+      "services": "Immigration legal screening for qualifying matters such as family petitions, naturalization, and DACA renewals.",
+      "notes": "",
+      "id": "resource-289",
+      "source": {
+        "website": "https://jamlac.org/immigration-law/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Colorado Immigrant Rights Coalition (CIRC) – Citizenship & DACA Guidance",
+      "category": "Immigration Services",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "720-282-9656",
+      "website": "https://coloradoimmigrant.org/our-work/legal-services/",
+      "hours": "",
+      "intake": "Call or email legalservices@coloradoimmigrant.org for upcoming workshops or application guidance.",
+      "eligibility": "People seeking guidance on citizenship or DACA. Ask about workshop registration.",
+      "services": "Free workshops and application guidance. Staff can connect people to additional legal services; they do not provide attorney representation.",
+      "notes": "",
+      "id": "resource-290",
+      "source": {
+        "website": "https://coloradoimmigrant.org/our-work/legal-services/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "category": "Family & Children",
+      "streetAddress": "",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "hours": "",
+      "notes": "",
+      "name": "WeeCycle – Mobile Baby Essentials",
+      "website": "https://weecycle.org/get-help/",
+      "city": "Denver metro area",
+      "services": "Diapers, wipes, baby food, and formula at mobile distribution events, subject to availability.",
+      "intake": "Check the current distribution calendar for the next site and time. Use the partner directory on the same page for baby gear and other supplies.",
+      "eligibility": "Families who need baby essentials. WeeCycle asks for general household information at distribution.",
+      "id": "resource-291",
+      "source": {
+        "website": "https://weecycle.org/get-help/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "category": "Family & Children",
+      "streetAddress": "",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "hours": "",
+      "notes": "",
+      "name": "Catholic Charities of Denver – Head Start & Early Head Start",
+      "website": "https://ccdenver.org/early-childhood-education/",
+      "city": "Denver",
+      "services": "Early childhood education and family support through Head Start and Early Head Start.",
+      "intake": "Use the Early Childhood Education page to contact the program about enrollment, available sites, and age requirements.",
+      "eligibility": "Families with young children, including families experiencing homelessness and children in foster care. Ask the program about eligibility and openings.",
+      "id": "resource-292",
+      "source": {
+        "website": "https://ccdenver.org/early-childhood-education/",
         "verifiedDate": "2026-11-24"
       }
     }

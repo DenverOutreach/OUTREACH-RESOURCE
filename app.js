@@ -1,5 +1,5 @@
 'use strict';
-const ui = Object.fromEntries(['search', 'category', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
+const ui = Object.fromEntries(['search', 'category', 'denver-county', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
 let resources = [];
 const colors = [['#147b45','#e0f2e7'],['#c4501b','#fce9da'],['#7932bc','#efe2fa'],['#176abb','#e0eefb'],['#bd326b','#f9e2ec'],['#087d87','#ddf2f1'],['#997000','#fbf1d2'],['#a63c43','#f9e4e2']];
 const categoryPalette = {
@@ -13,7 +13,7 @@ const categoryPalette = {
   'Medical Care': ['#087d87','#ddf2f1'],
   'Medical and Respite': ['#087d87','#ddf2f1']
 };
-const culturalCategory = 'BIPOC & Culturally Specific Services';
+const culturalCategory = 'BIPOC Services';
 const reentryCategory = 'Re-entry & Felon Friendly Resources';
 let quickCategory = '';
 function matchesCategory(r) {
@@ -38,7 +38,10 @@ function card(r) {
   if (r.category === 'Shelter (Day Center)') el.classList.add('day-card');
   if (r.name.trim().toLowerCase() === 'transgender center of the rockies') el.classList.add('trans-card');
   else if (r.category.includes('LGBTQ') || r.name.trim().toLowerCase() === 'youth seen') el.classList.add('rainbow-card');
-  el.append(node('span', r.displayCategory || 'Other resources', 'badge'), node('h3', r.name));
+  const badges = node('div', '', 'resource-badges');
+  badges.append(node('span', r.displayCategory || 'Other resources', 'badge'));
+  if (r.denverCounty === true) badges.append(node('span', 'Denver County', 'county-badge'));
+  el.append(badges, node('h3', r.name));
   if (r.services) el.append(node('p', r.services, 'description'));
   const meta = node('div', '', 'metadata');
   const address = [r.streetAddress, r.city, [r.state, r.zipCode].filter(Boolean).join(' ')].filter(Boolean).join(', ');
@@ -60,17 +63,17 @@ for (const [label, value] of [['Intake', r.intake], ['Eligibility', r.eligibilit
 }
 function render() {
   const query = ui.search.value.trim().toLowerCase();
-  const matches = resources.filter(r => matchesCategory(r) && (!query || r.searchText.includes(query)));
+  const matches = resources.filter(r => (!ui['denver-county'].checked || r.denverCounty === true) && matchesCategory(r) && (!query || r.searchText.includes(query)));
   document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === quickCategory)));
   ui.resources.replaceChildren(...matches.map(card)); ui.count.textContent = `${matches.length} of ${resources.length} resource entries`; ui.empty.hidden = matches.length !== 0;
 }
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=14'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=15'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => {
-      const searchFields = Object.entries(r).filter(([key]) => !['source', 'id', 'culturallySpecific', 'reentryRelated'].includes(key)).map(([, value]) => value);
+      const searchFields = Object.entries(r).filter(([key]) => !['source', 'id', 'culturallySpecific', 'reentryRelated', 'denverCounty'].includes(key)).map(([, value]) => value);
       if (r.reentryRelated || r.category === reentryCategory) searchFields.push('re-entry assistance reentry second chance fair chance felon friendly');
       return {...r, displayCategory: r.category, searchText: searchFields.join(' ').toLowerCase()};
     });
@@ -79,12 +82,15 @@ async function start() {
       const j = Math.floor(Math.random() * (i + 1));
       [resources[i], resources[j]] = [resources[j], resources[i]];
     }
-    options(ui.category, [...resources.map(r => r.displayCategory), ...(resources.some(r => r.culturallySpecific) ? [culturalCategory] : [])]); render();
+    const categories = resources.flatMap(r => [r.displayCategory, ...(r.additionalCategories || [])]);
+    if (resources.some(r => r.culturallySpecific)) categories.push(culturalCategory);
+    options(ui.category, categories); render();
   } catch { ui.count.textContent = 'The resource guide could not load.'; ui.empty.textContent = 'Please reload the page. If opening the downloaded files, use a local web server or GitHub Pages.'; ui.empty.hidden = false; }
 }
 ui.search.addEventListener('input', render);
 ui.category.addEventListener('change', () => { quickCategory = ''; render(); });
-ui.reset.addEventListener('click', () => { ui.search.value = ''; ui.category.value = ''; quickCategory = ''; render(); ui.search.focus(); });
+ui['denver-county'].addEventListener('change', render);
+ui.reset.addEventListener('click', () => { ui.search.value = ''; ui.category.value = ''; ui['denver-county'].checked = false; quickCategory = ''; render(); ui.search.focus(); });
 document.querySelectorAll('[data-category]').forEach(button => button.addEventListener('click', () => {
   ui.search.value = ''; quickCategory = button.dataset.category; ui.category.value = quickCategory; render();
   document.getElementById('directory').scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start'});
