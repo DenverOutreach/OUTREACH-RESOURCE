@@ -1,5 +1,5 @@
 'use strict';
-const ui = Object.fromEntries(['search', 'category', 'denver-county', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
+const ui = Object.fromEntries(['search', 'category', 'reset', 'count', 'resources', 'empty'].map(id => [id, document.getElementById(id)]));
 let resources = [];
 const colors = [['#147b45','#e0f2e7'],['#c4501b','#fce9da'],['#7932bc','#efe2fa'],['#176abb','#e0eefb'],['#bd326b','#f9e2ec'],['#087d87','#ddf2f1'],['#997000','#fbf1d2'],['#a63c43','#f9e4e2']];
 const categoryPalette = {
@@ -38,10 +38,7 @@ function card(r) {
   if (r.category === 'Shelter (Day Center)') el.classList.add('day-card');
   if (r.name.trim().toLowerCase() === 'transgender center of the rockies') el.classList.add('trans-card');
   else if (r.category.includes('LGBTQ') || r.name.trim().toLowerCase() === 'youth seen') el.classList.add('rainbow-card');
-  const badges = node('div', '', 'resource-badges');
-  badges.append(node('span', r.displayCategory || 'Other resources', 'badge'));
-  if (r.denverCounty === true) badges.append(node('span', 'Denver County', 'county-badge'));
-  el.append(badges, node('h3', r.name));
+  el.append(node('span', r.displayCategory || 'Other resources', 'badge'), node('h3', r.name));
   if (r.services) el.append(node('p', r.services, 'description'));
   const meta = node('div', '', 'metadata');
   const address = [r.streetAddress, r.city, [r.state, r.zipCode].filter(Boolean).join(' ')].filter(Boolean).join(', ');
@@ -63,7 +60,7 @@ for (const [label, value] of [['Intake', r.intake], ['Eligibility', r.eligibilit
 }
 function render() {
   const query = ui.search.value.trim().toLowerCase();
-  const matches = resources.filter(r => (!ui['denver-county'].checked || r.denverCounty === true) && matchesCategory(r) && (!query || r.searchText.includes(query)));
+  const matches = resources.filter(r => matchesCategory(r) && (!query || r.searchText.includes(query)));
   document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === quickCategory)));
   ui.resources.replaceChildren(...matches.map(card)); ui.count.textContent = `${matches.length} of ${resources.length} resource entries`; ui.empty.hidden = matches.length !== 0;
 }
@@ -89,8 +86,7 @@ async function start() {
 }
 ui.search.addEventListener('input', render);
 ui.category.addEventListener('change', () => { quickCategory = ''; render(); });
-ui['denver-county'].addEventListener('change', render);
-ui.reset.addEventListener('click', () => { ui.search.value = ''; ui.category.value = ''; ui['denver-county'].checked = false; quickCategory = ''; render(); ui.search.focus(); });
+ui.reset.addEventListener('click', () => { ui.search.value = ''; ui.category.value = ''; quickCategory = ''; render(); ui.search.focus(); });
 document.querySelectorAll('[data-category]').forEach(button => button.addEventListener('click', () => {
   ui.search.value = ''; quickCategory = button.dataset.category; ui.category.value = quickCategory; render();
   document.getElementById('directory').scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start'});
