@@ -13,12 +13,16 @@ const categoryPalette = {
   'Medical Care': ['#087d87','#ddf2f1'],
   'Medical and Respite': ['#087d87','#ddf2f1']
 };
+const culturalCategory = 'BIPOC & Culturally Specific Services';
+const reentryCategory = 'Re-entry & Felon Friendly Resources';
 let quickCategory = '';
 function matchesCategory(r) {
   if (quickCategory === 'Food Resources') return ['Food', 'Food Resources'].includes(r.category);
   if (quickCategory === 'Behavioral & Mental Health Services') return r.category.startsWith('Behavioral & Mental Health Services');
   if (quickCategory === 'Medical Care') return ['Medical Care', 'Medical and Respite'].includes(r.category);
-  return !ui.category.value || r.displayCategory === ui.category.value;
+  if (ui.category.value === culturalCategory) return r.culturallySpecific === true;
+  if (ui.category.value === reentryCategory) return r.category === reentryCategory || r.reentryRelated === true;
+  return !ui.category.value || r.displayCategory === ui.category.value || r.additionalCategories?.includes(ui.category.value);
 }
 function node(tag, text, className) { const el = document.createElement(tag); if (text) el.textContent = text; if (className) el.className = className; return el; }
 function websiteUrl(value) {
@@ -63,15 +67,19 @@ function render() {
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=13'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=14'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
-    resources = data.resources.map(r => ({...r, displayCategory: r.category, searchText: Object.entries(r).filter(([key]) => !['source','id'].includes(key)).map(([, value]) => value).join(' ').toLowerCase()}));
+    resources = data.resources.map(r => {
+      const searchFields = Object.entries(r).filter(([key]) => !['source', 'id', 'culturallySpecific', 'reentryRelated'].includes(key)).map(([, value]) => value);
+      if (r.reentryRelated || r.category === reentryCategory) searchFields.push('re-entry assistance reentry second chance fair chance felon friendly');
+      return {...r, displayCategory: r.category, searchText: searchFields.join(' ').toLowerCase()};
+    });
     // Shuffle once per page load so filtering keeps a stable resource order.
     for (let i = resources.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [resources[i], resources[j]] = [resources[j], resources[i]];
     }
-    options(ui.category, resources.map(r => r.displayCategory)); render();
+    options(ui.category, [...resources.map(r => r.displayCategory), ...(resources.some(r => r.culturallySpecific) ? [culturalCategory] : [])]); render();
   } catch { ui.count.textContent = 'The resource guide could not load.'; ui.empty.textContent = 'Please reload the page. If opening the downloaded files, use a local web server or GitHub Pages.'; ui.empty.hidden = false; }
 }
 ui.search.addEventListener('input', render);
