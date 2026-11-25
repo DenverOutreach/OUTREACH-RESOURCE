@@ -149,7 +149,7 @@
     },
     {
       "name": "Servicios de La Raza – Re-Entry Program",
-      "category": "Re-entry Assistance",
+      "category": "Re-entry & Felon Friendly Resources",
       "streetAddress": "3131 W 14th Ave",
       "city": "Denver",
       "state": "CO",
@@ -166,7 +166,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 9
-      }
+      },
+      "culturallySpecific": true
     },
     {
       "name": "A Precious Child",
@@ -475,13 +476,17 @@
       "intake": "Walk-in",
       "eligibility": "No restrictions",
       "services": "Private showers, hygiene kits, laundry services",
-      "notes": "Provides additional daytime shelter services Online source checked 2026-11-23: https://www.thoh.org/services-calendar",
+      "notes": "Provides additional daytime shelter services. Online source checked 2026-11-23: https://www.thoh.org/services-calendar Ask staff about mail and document safekeeping.",
       "id": "resource-024",
       "source": {
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 25
-      }
+      },
+      "additionalCategories": [
+        "Showers, Laundry & Hygiene",
+        "Mail & Storage"
+      ]
     },
     {
       "name": "Lawrence Street Community Center",
@@ -559,13 +564,17 @@
       "intake": "Drop in during open hours. No ID or intake appointment required.",
       "eligibility": "Women, gender-diverse people, and children facing homelessness or instability.",
       "services": "Meals, showers, laundry, clothing bank, family services, case management, health services",
-      "notes": "Daytime drop-in center focused on women and transgender individuals experiencing poverty or homelessness Online source checked 2026-11-23: https://tgpdenver.org/what-we-do/if-you-need-help.html",
+      "notes": "Daytime drop-in center focused on women and transgender individuals experiencing poverty or homelessness. Online source checked 2026-11-23: https://tgpdenver.org/what-we-do/if-you-need-help.html Members can ask about mail service and locker storage.",
       "id": "resource-028",
       "source": {
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 29
-      }
+      },
+      "additionalCategories": [
+        "Showers, Laundry & Hygiene",
+        "Mail & Storage"
+      ]
     },
     {
       "name": "Denver Youth Dental and Vision",
@@ -748,7 +757,7 @@
       "intake": "Call 303-318-9989 for crisis support and confidential emergency shelter screening.",
       "eligibility": "Survivors of domestic violence",
       "services": "Shelter, counseling, crisis intervention",
-      "notes": "Shelter address is confidential. Arrange shelter access through the crisis line. Online source checked 2026-11-23: https://www.safehouse-denver.org/services/",
+      "notes": "Shelter address is confidential. Arrange shelter access through the crisis line. Online source checked 2026-11-23: https://www.safehouse-denver.org/services/ Current SafeHouse clients can ask their advocate about the Extended Stay Program for additional time to secure housing.",
       "id": "resource-037",
       "source": {
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
@@ -2161,7 +2170,8 @@
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 108
-      }
+      },
+      "culturallySpecific": true
     },
     {
       "name": "Inner City Health Center",
@@ -2564,7 +2574,7 @@
     },
     {
       "name": "72 Hour Fund Colorado",
-      "category": "Re-entry Assistance",
+      "category": "Re-entry & Felon Friendly Resources",
       "streetAddress": "4045 Wadsworth Blvd. Ste 310",
       "city": "Wheat Ridge",
       "state": "CO",
@@ -2585,7 +2595,7 @@
     },
     {
       "name": "Second Chance Center, Inc.",
-      "category": "Re-entry Assistance",
+      "category": "Re-entry & Felon Friendly Resources",
       "streetAddress": "224 Potomac Street",
       "city": "Aurora",
       "state": "CO",
@@ -2596,7 +2606,7 @@
       "intake": "Call 303-537-5838 or email info@scccolorado.org to identify the right location and intake process. Aurora: 224 Potomac St. Denver: 1391 Delaware St.",
       "eligibility": "Formerly incarcerated individuals",
       "services": "Re-entry support, case management, employment and housing navigation, and referrals.",
-      "notes": "Denver office lists Mon–Thu 8:30 AM–4:30 PM and Sat 8:30 AM–12:30 PM. Confirm service-specific availability. Online source checked 2026-11-23: https://scccolorado.org/contact-us/",
+      "notes": "Denver office lists Mon–Thu 8:30 AM–4:30 PM and Sat 8:30 AM–12:30 PM. Confirm service-specific availability. Online source checked 2026-11-23: https://scccolorado.org/contact-us/ For CREW Transitional Housing, email Crewhousing@scccolorado.org to ask about screening and openings. Housing eligibility and availability vary by program.",
       "id": "resource-130",
       "source": {
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
@@ -2606,7 +2616,7 @@
     },
     {
       "name": "The Empowerment Program – WAGEES Re-entry Support",
-      "category": "Re-entry Assistance",
+      "category": "Re-entry & Felon Friendly Resources",
       "streetAddress": "1600 York Street",
       "city": "Denver",
       "state": "CO",
@@ -3205,13 +3215,16 @@
       "intake": "Call 303-974-2908 for shelter intake and waitlist timing. Call 303-974-2900 about daytime drop-in services and current access.",
       "eligibility": "Emergency shelter serves youth ages 12–24 experiencing homelessness.",
       "services": "Youth emergency shelter, daytime drop-in support, meals, showers, laundry, and case management.",
-      "notes": "Focus on youth transitioning out of homelessness. Online source checked 2026-11-23: https://www.urbanpeak.org/find-help-now Online source checked 2026-11-23: https://www.urbanpeak.org/find-help-now",
+      "notes": "Focus on youth transitioning out of homelessness. Online source checked 2026-11-23: https://www.urbanpeak.org/find-help-now Ask Urban Peak Day Services about youth showers and laundry.",
       "id": "resource-164",
       "source": {
         "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
         "sheet": "Resource Guide",
         "row": 165
-      }
+      },
+      "additionalCategories": [
+        "Showers, Laundry & Hygiene"
+      ]
     },
     {
       "name": "Housing Now - The Salvation Army",
@@ -3698,7 +3711,7 @@
     },
     {
       "name": "ServiceSource – Mobile Showers and Laundry",
-      "category": "Community Support Services",
+      "category": "Showers, Laundry & Hygiene",
       "streetAddress": "",
       "city": "Denver",
       "state": "CO",
@@ -3707,7 +3720,7 @@
       "website": "https://servicesource.org/mobile-shower-and-laundry-services/",
       "hours": "Denver: Wed 9 AM–3 PM, showers and laundry; Fri 9 AM–3 PM, laundry.",
       "intake": "Wed: 10 W. 14th Ave. Fri: 2455 E. 36th Ave. Drop laundry off at least two hours before closing. Call 720-731-6786 for changes or capacity.",
-      "eligibility": "People experiencing homelessness needing laundry.",
+      "eligibility": "People experiencing homelessness who need showers or laundry.",
       "services": "Free mobile shower and laundry services for people experiencing homelessness.",
       "notes": "Check the provider calendar for other metro stops and possible cold-weather cancellations. Online source checked 2026-11-23: https://servicesource.org/mobile-shower-and-laundry-services/",
       "id": "resource-189",
@@ -3782,7 +3795,7 @@
     },
     {
       "name": "RTD LiVE - Income-Based Transit Discount",
-      "category": "Community Support Services",
+      "category": "Transportation & Vehicle Assistance",
       "streetAddress": "",
       "city": "Denver",
       "state": "CO",
@@ -4102,7 +4115,7 @@
       }
     },
     {
-      "name": "Denver CARES – Withdrawal Management",
+      "name": "Denver CARES – Withdrawal Management and Transitional Residential Treatment",
       "category": "Substance Use Treatment",
       "streetAddress": "1155 Cherokee St.",
       "city": "Denver",
@@ -4110,15 +4123,15 @@
       "zipCode": "80204",
       "phone": "303-436-3500",
       "website": "https://www.denverhealth.org/services/community-health/denver-cares-withdrawal-management-drug-alcohol-rehab",
-      "hours": "24/7",
-      "intake": "Self-referrals accepted. Call 303-436-3500 for current intake instructions and fees. Clients are assessed at admission.",
-      "eligibility": "People seeking withdrawal management for alcohol or other substance use. Admission follows clinical assessment.",
-      "services": "Clinically managed withdrawal support, assessment, counseling, and referrals to the next level of care.",
+      "hours": "Withdrawal management operates 24/7. Call for residential intake details.",
+      "intake": "Call 303-436-3500 for withdrawal management or to ask specifically about Transitional Residential Treatment (TRT). Self-referrals are accepted. Confirm the assessment process, current fees, and medication requirements.",
+      "eligibility": "People seeking alcohol or other substance use treatment. Placement depends on clinical assessment.",
+      "services": "Clinically managed withdrawal support and transitional residential treatment with counseling, case management, and discharge planning.",
       "notes": "Online sources checked 2026-11-23. Denver Health location: https://www.denverhealth.org/locations/denver/denver-cares-denver-cares-1155-cherokee-st-denver-80204",
       "id": "resource-210",
       "source": {
         "website": "https://www.denverhealth.org/services/community-health/denver-cares-withdrawal-management-drug-alcohol-rehab",
-        "verifiedDate": "2026-11-23"
+        "verifiedDate": "2026-11-24"
       }
     },
     {
@@ -4339,7 +4352,8 @@
       "source": {
         "website": "https://serviciosdelaraza.org/victim-support/",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "culturallySpecific": true
     },
     {
       "id": "resource-222",
@@ -4499,12 +4513,13 @@
       "source": {
         "website": "https://www.coloradojudicial.gov/sites/default/files/2026-03/Statewide%20Legal%20Clinics%20Flyer%202026.pdf",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "reentryRelated": true
     },
     {
       "id": "resource-230",
       "name": "Remerg – Colorado Re-entry Resource Directory",
-      "category": "Re-entry Assistance",
+      "category": "Re-entry & Felon Friendly Resources",
       "streetAddress": "",
       "city": "Statewide",
       "state": "CO",
@@ -4515,7 +4530,7 @@
       "intake": "Browse by topic or location. Contact each listed provider for eligibility and intake.",
       "eligibility": "People preparing for release or returning to the community after incarceration in Colorado, and people helping them.",
       "services": "Online directory for re-entry resources, including housing, employment, transportation, and basic needs.",
-      "notes": "Resource directory. Check intake and availability with the listed provider.",
+      "notes": "Resource directory. Check intake and availability with the listed provider. Under Jobs & Training, see Fair Chance Companies for employer leads: https://remerg.com/category/jobs/fair-chance-companies/ — Remerg may ask you to sign in.",
       "source": {
         "website": "https://remerg.com/",
         "verifiedDate": "2026-11-23"
@@ -4699,7 +4714,8 @@
       "source": {
         "website": "https://www.ceoworks.org/locations/denver",
         "verifiedDate": "2026-11-23"
-      }
+      },
+      "reentryRelated": true
     },
     {
       "id": "resource-240",
@@ -4944,7 +4960,7 @@
     {
       "id": "resource-252",
       "name": "St. Francis Center – Mail & Storage",
-      "category": "Community Support Services",
+      "category": "Mail & Storage",
       "streetAddress": "2323 Curtis St.",
       "city": "Denver",
       "state": "CO",
@@ -5239,6 +5255,329 @@
       "source": {
         "website": "https://www.dawnhealth.org/faqs/",
         "verifiedDate": "2026-11-23"
+      }
+    },
+    {
+      "name": "Rocky Mountain Human Services – Long-Term Services and Supports Assessment",
+      "category": "Assisted Living & Long-Term Care",
+      "streetAddress": "",
+      "city": "Denver and Adams counties",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "844-790-7647",
+      "website": "https://www.rmhumanservices.org/departments/case-management-services/",
+      "hours": "",
+      "intake": "Call the Case Management Agency or submit an online referral. Individuals, families, and providers can refer. Ask how to obtain the Professional Medical Information Page (PMIP) for the assessment.",
+      "eligibility": "People in Denver or Adams County seeking long-term care. Program and Medicaid eligibility are assessed separately.",
+      "services": "Medicaid long-term care assessment and referral guidance for nursing facility care and Medicaid-certified assisted living (Alternative Care Facilities).",
+      "notes": "For assisted living, ask the facility about room and board charges.",
+      "id": "resource-267",
+      "source": {
+        "website": "https://www.rmhumanservices.org/departments/case-management-services/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Sobriety House – Residential Treatment",
+      "category": "Substance Use Treatment",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "720-381-4337",
+      "website": "https://www.sobrietyhouse.org/admissions-process",
+      "hours": "",
+      "intake": "Call admissions for a pre-screening. Ask about availability, coverage, and any waitlist check-in requirements.",
+      "eligibility": "Adults seeking substance use treatment, subject to admissions screening. Colorado Medicaid is accepted for eligible services.",
+      "services": "Intensive residential and transitional residential substance use treatment.",
+      "notes": "",
+      "id": "resource-268",
+      "source": {
+        "website": "https://www.sobrietyhouse.org/admissions-process",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Colorado Mental Health Transitional Living Homes",
+      "category": "Behavioral & Mental Health Services",
+      "streetAddress": "",
+      "city": "Statewide",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "website": "https://cdhs.nxt-dev.colorado.gov/mental-health-transitional-living-homes",
+      "hours": "",
+      "intake": "Use the state program page to contact the Admissions and Coordination team for the Level 1 or Level 2 referral packet and required clinical records. Colorado organizations can submit referrals.",
+      "eligibility": "Colorado adults with serious mental illness who meet the applicable placement criteria, subject to review.",
+      "services": "Residential mental health support with different levels of supervision and clinical services.",
+      "notes": "The state prioritizes people awaiting step-down placement from state mental health hospitals.",
+      "id": "resource-269",
+      "source": {
+        "website": "https://cdhs.nxt-dev.colorado.gov/mental-health-transitional-living-homes",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Behavioral Health Solutions Center (BHSC)",
+      "category": "Behavioral & Mental Health Services",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Public-Health-Environment/Community-Behavioral-Health/Behavioral-Health-Support/Behavioral-Health-Outreach/Behavioral-Health-Solutions-Center",
+      "hours": "Operates 24/7. Referral only.",
+      "intake": "No public walk-ins. Admission is through first responders and approved mental health organizations. Outreach staff should use their agency’s approved referral process.",
+      "eligibility": "Adults experiencing a behavioral health crisis, subject to referral and screening.",
+      "services": "Voluntary short-term crisis stabilization for adults, with temporary shelter for eligible participants.",
+      "notes": "For public walk-in crisis assessment, go to WellPower’s 24/7 Walk-In Crisis Center at 4353 E. Colfax Ave., Denver. No appointment or insurance is required. https://www.wellpower.org/crisis-services/",
+      "id": "resource-270",
+      "source": {
+        "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Public-Health-Environment/Community-Behavioral-Health/Behavioral-Health-Support/Behavioral-Health-Outreach/Behavioral-Health-Solutions-Center",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Open Arms Assisted Living",
+      "category": "Assisted Living & Long-Term Care",
+      "streetAddress": "12150 E. Andrews Drive",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80239",
+      "phone": "720-452-8006",
+      "website": "https://www.openarmsmontbello.org/contact-us",
+      "hours": "Call for admissions hours.",
+      "intake": "Call admissions before arranging transport. Ask about Medicaid openings, referrals from street or shelter outreach, and whether screening can start while Medicaid is pending.",
+      "eligibility": "Admission depends on the facility assessment, care needs, and availability.",
+      "services": "Assisted living in Montbello. The provider lists Medicaid beds and has identified people at risk of homelessness as a priority.",
+      "notes": "Ask admissions about room and board costs.",
+      "id": "resource-271",
+      "source": {
+        "website": "https://www.openarmsmontbello.org/contact-us",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Dayspring Villa – Assisted Living",
+      "category": "Assisted Living & Long-Term Care",
+      "streetAddress": "3777 W. 26th Ave.",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80211",
+      "phone": "303-455-5066",
+      "website": "https://dayspringvilla.org/where-to-begin/",
+      "hours": "Call for admissions hours.",
+      "intake": "Call admissions before arranging transport. Ask about Medicaid openings, referrals from street or shelter outreach, and whether screening can start while Medicaid is pending.",
+      "eligibility": "Admission depends on the facility assessment, care needs, and availability.",
+      "services": "Assisted living for older adults. The provider accepts Medicaid.",
+      "notes": "Ask admissions about room and board costs.",
+      "id": "resource-272",
+      "source": {
+        "website": "https://dayspringvilla.org/where-to-begin/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "streetAddress": "",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "hours": "",
+      "category": "Transportation & Vehicle Assistance",
+      "id": "resource-273",
+      "name": "SparkHope Automotive – Vehicle Repair Assistance",
+      "city": "Denver metro area",
+      "website": "https://sparkhopeautomotive.org/shift-application/",
+      "services": "Discounted vehicle repairs and maintenance through the SHIFT program.",
+      "eligibility": "Eligible single mothers in Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, or Jefferson County. Review the application for work and vehicle requirements.",
+      "intake": "Apply online for SHIFT. Ask about eligibility and your share of repair costs before scheduling work.",
+      "notes": "Formerly Hands of The Carpenter. SHIFT participants pay 50% of the retail labor rate.",
+      "source": {
+        "website": "https://sparkhopeautomotive.org/shift-application/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "streetAddress": "",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "hours": "",
+      "category": "Transportation & Vehicle Assistance",
+      "id": "resource-274",
+      "name": "Colorado DMV – Emissions Waivers",
+      "city": "Colorado emissions testing areas",
+      "website": "https://dmv.colorado.gov/emissions-waivers",
+      "services": "Registration help after a failed emissions test through economic hardship, repair, or diagnostic waivers.",
+      "eligibility": "Requirements vary by waiver. The economic hardship waiver is for eligible gasoline vehicles and can be issued once per vehicle.",
+      "intake": "Review the DMV requirements and use the application instructions for your waiver type. If you have a metal plate, start at myDMV under Vehicle Services.",
+      "notes": "A waiver can help with registration. It does not pay for repairs.",
+      "source": {
+        "website": "https://dmv.colorado.gov/emissions-waivers",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Colorado Coalition for the Homeless – Native American Services",
+      "category": "Housing Support",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "website": "https://www.coloradocoalition.org/nativeamericanservices",
+      "hours": "",
+      "intake": "Contact the Native American Services team using the program page for current intake.",
+      "eligibility": "Native American and Indigenous community members experiencing homelessness or housing instability. Confirm program eligibility.",
+      "services": "Housing navigation, help obtaining vital documents, and connections to care and benefits.",
+      "notes": "The team provides navigation and referrals. Emergency shelter placements and motel vouchers are handled elsewhere.",
+      "id": "resource-275",
+      "source": {
+        "website": "https://www.coloradocoalition.org/nativeamericanservices",
+        "verifiedDate": "2026-11-24"
+      },
+      "culturallySpecific": true
+    },
+    {
+      "name": "Denver Indian Family Resource Center – Resource & Referral",
+      "category": "Case Management & Support",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "720-500-1020",
+      "website": "https://difrc.org/programs/family-services/",
+      "hours": "",
+      "intake": "Call and ask for Resource & Referral.",
+      "eligibility": "People who self-identify as American Indian or Alaska Native.",
+      "services": "Connections to housing, utility assistance, clothing, and legal referrals.",
+      "notes": "",
+      "id": "resource-276",
+      "source": {
+        "website": "https://difrc.org/programs/family-services/",
+        "verifiedDate": "2026-11-24"
+      },
+      "culturallySpecific": true
+    },
+    {
+      "name": "Servicios de La Raza – Essential Community Support",
+      "category": "Food Resources",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "303-458-5851",
+      "website": "https://serviciosdelaraza.org/essentials/",
+      "hours": "",
+      "intake": "Call for the current pantry schedule and how to access food or other essentials.",
+      "eligibility": "Contact the program for any requirements for the service you need.",
+      "services": "Food assistance and other essentials through a culturally responsive community program.",
+      "notes": "",
+      "id": "resource-277",
+      "source": {
+        "website": "https://serviciosdelaraza.org/essentials/",
+        "verifiedDate": "2026-11-24"
+      },
+      "culturallySpecific": true
+    },
+    {
+      "category": "Re-entry & Felon Friendly Resources",
+      "streetAddress": "401 S. Meade St.",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80219",
+      "phone": "",
+      "hours": "",
+      "notes": "",
+      "name": "Mile High WorkShop – Second Chance Employment",
+      "website": "https://www.milehighworkshop.org/our-program",
+      "services": "Paid transitional employment, production and manufacturing skills training, coaching, and support finding the next job.",
+      "intake": "Submit the program interest form. Confirm current recruiting dates and schedule.",
+      "eligibility": "People facing barriers to employment, including people with criminal records. Ask about participation requirements.",
+      "id": "resource-278",
+      "source": {
+        "website": "https://www.milehighworkshop.org/our-program",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "category": "Re-entry & Felon Friendly Resources",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "phone": "",
+      "hours": "",
+      "notes": "Program eligibility FAQ: https://crosspurpose.org/programs/faq/",
+      "name": "CrossPurpose – Leader Career Training",
+      "website": "https://crosspurpose.org/apply/",
+      "services": "Free in-person career training and job preparation.",
+      "intake": "Apply online for the Leader program. Ask about requirements for the specific training track.",
+      "eligibility": "Previous justice involvement and current parole are allowed. Applicants with an open case must wait until it closes.",
+      "id": "resource-279",
+      "source": {
+        "website": "https://crosspurpose.org/apply/",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Anthem Denver – Laundry Love",
+      "category": "Showers, Laundry & Hygiene",
+      "website": "https://www.anthemdenver.com/connect/laundry-love",
+      "services": "Free washing and drying for clothes and bedding.",
+      "intake": "Go to Coin Laundry during the event and ask for Laundry Love volunteers.",
+      "eligibility": "People and families with low or no income.",
+      "streetAddress": "5200 W. Colfax Ave.",
+      "city": "Lakewood",
+      "state": "CO",
+      "zipCode": "80214",
+      "hours": "First Saturday, 10 a.m.–noon. Check the organizer page before going.",
+      "phone": "",
+      "notes": "",
+      "id": "resource-280",
+      "source": {
+        "website": "https://www.anthemdenver.com/connect/laundry-love",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Denver Property Removal & Storage – Recover Belongings",
+      "category": "Mail & Storage",
+      "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Housing-Stability/Resident-Resources/Property-Removal-and-Storage",
+      "services": "City instructions for reclaiming belongings collected during a Denver cleanup.",
+      "intake": "Use the city page or call 311 (720-913-1311 from outside Denver).",
+      "eligibility": "People seeking belongings collected during a city cleanup.",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "hours": "",
+      "phone": "",
+      "notes": "",
+      "id": "resource-281",
+      "source": {
+        "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Housing-Stability/Resident-Resources/Property-Removal-and-Storage",
+        "verifiedDate": "2026-11-24"
+      }
+    },
+    {
+      "name": "Denver Human Services – GIVE Center Hygiene Supplies",
+      "category": "Showers, Laundry & Hygiene",
+      "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-Human-Services/Be-Supported/Additional-Assistance/DHS-GIVE/GIVE-Center",
+      "services": "Free wellness and hygiene items, subject to availability.",
+      "intake": "Check the GIVE Center page for current access instructions and hours.",
+      "eligibility": "Denver County residents.",
+      "streetAddress": "",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "",
+      "hours": "",
+      "phone": "",
+      "notes": "",
+      "id": "resource-282",
+      "source": {
+        "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-Human-Services/Be-Supported/Additional-Assistance/DHS-GIVE/GIVE-Center",
+        "verifiedDate": "2026-11-24"
       }
     }
   ]
