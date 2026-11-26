@@ -30,14 +30,22 @@ function websiteUrl(value) {
   try { const url = new URL(/^https?:\/\//i.test(value) ? value : `https://${value}`); return ['https:', 'http:'].includes(url.protocol) && url.hostname.includes('.') ? url.href : null; } catch { return null; }
 }
 function link(label, href, provider, external = false) {
-  const warning = external ? ' (opens in new tab)' : '';
-  const a = node('a', label + warning);
+  const a = node('a', '');
   a.href = href;
-  a.setAttribute('aria-label', label + warning + ' for ' + provider);
+
   if (external) {
+    a.append(label + ' ', node('span', '· NEW TAB', 'new-tab-label'));
+    a.setAttribute('aria-label', `${label} · New tab for ${provider}`);
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
+  } else {
+    const icon = node('span', '☎', 'phone-icon');
+    icon.setAttribute('aria-hidden', 'true');
+    a.classList.add('call-provider');
+    a.append(icon, ' ' + label);
+    a.setAttribute('aria-label', `${label} for ${provider}`);
   }
+
   return a;
 }
 function card(r) {
@@ -57,9 +65,10 @@ function card(r) {
   if (r.phone) meta.append(node('p', `Phone: ${r.phone}`)); el.append(meta);
   const actions = node('div', '', 'actions');
   const digits = r.phone.replace(/\D/g, '');
-  if (/^[+\d().\s-]+$/.test(r.phone) && [10,11].includes(digits.length)) actions.append(link('Call provider', `tel:${digits}`, r.name));
+  
   const website = websiteUrl(r.website); if (website) actions.append(link('Website', website, r.name, true));
   if (r.streetAddress) actions.append(link('Map', `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`, r.name, true));
+  if (/^[+\d().\s-]+$/.test(r.phone) && [10,11].includes(digits.length)) actions.append(link('Call provider', `tel:${digits}`, r.name));
   el.append(actions);
   const details = node('details'); details.append(node('summary', 'Intake, eligibility & notes'));
 const publicNotes = (r.notes || '').replace(/\s*(?:Online sources? checked|Food audit|City routing checked) \d{4}-\d{2}-\d{2}(?::\s*https?:\/\/\S+(?:\s+and\s+https?:\/\/\S+)?|\.)/gi, '').trim();
