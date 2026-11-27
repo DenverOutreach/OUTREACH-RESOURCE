@@ -33,76 +33,62 @@
     }
 
     .hero .hero-tags,
-    .hero .family-shelter {
+    .hero .family-referral {
       max-width: 690px;
     }
 
-    .hero .family-shelter {
+    .hero .family-referral {
       position: relative;
       z-index: 1;
       display: grid;
-      grid-template-columns: auto minmax(0, 1fr) auto;
+      grid-template-columns: minmax(0, 1fr) auto;
       align-items: center;
-      gap: 10px;
+      gap: 12px 18px;
       margin-top: 14px;
-      min-height: 80px;
-      padding: 8px 16px;
-      border-radius: 14px;
-      background: #e5d8f8;
-      color: #10244a;
+      padding-top: 12px;
+      border-top: 1px solid #fff;
+      color: #fff;
     }
 
-    .family-shelter-icon {
-      width: 32px;
-      height: 32px;
-    }
-
-    .hero .family-shelter h2 {
-      margin: 0 0 4px;
-      color: inherit;
-      font-family: inherit;
-      font-size: 12px;
-      font-weight: 750;
-      letter-spacing: .35px;
-      line-height: 1.5;
-      text-transform: uppercase;
-    }
-
-    .hero .family-shelter p {
+    .hero .family-referral p {
       margin: 0;
       color: inherit;
-      font-size: 0.875rem;
+      font-size: 15px;
       line-height: 1.5;
       text-wrap: pretty;
-      text-shadow: none;
+      text-shadow: 0 1px 3px #07162e;
     }
 
     .family-shelter-call {
-      display: flex;
+      display: inline-flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
       min-height: 44px;
       padding: 8px 12px;
+      border: 1px solid #9eb4e4;
       border-radius: 9px;
       background: #092853;
       color: #fff;
+      font-size: 15px;
       font-weight: 700;
+      line-height: 1.4;
       text-align: center;
       text-decoration: none;
     }
 
     .family-shelter-call:focus-visible {
-      outline: 3px solid #10244a;
+      outline: 3px solid #fff;
       outline-offset: 3px;
     }
 
-    @media (max-width: 600px) {
-      .hero .family-shelter {
-        grid-template-columns: auto minmax(0, 1fr);
+    @media (max-width: 500px) {
+      .hero .family-referral {
+        grid-template-columns: 1fr;
       }
 
       .family-shelter-call {
-        grid-column: 1 / -1;
+        justify-self: start;
       }
     }
   </style>
@@ -116,19 +102,13 @@
       <button type="button" data-category="Shelter (Overnight)" aria-pressed="false">SHELTER (OVERNIGHT)</button>
       <button type="button" data-category="Shelter (Day Center)" aria-pressed="false">SHELTER (DAY CENTER)</button>
     </div>
-    <section class="family-shelter" aria-labelledby="family-shelter-heading">
-      <svg class="family-shelter-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-        <circle cx="12" cy="6.75" r="3"/>
-        <circle cx="4.5" cy="10" r="2"/>
-        <circle cx="19.5" cy="10" r="2"/>
-        <path d="M6.5 20v-1.5a5.5 5.5 0 0 1 11 0V20M1 20v-1a3.5 3.5 0 0 1 4.5-3.4m13 0A3.5 3.5 0 0 1 23 19v1"/>
-      </svg>
-      <div>
-        <h2 id="family-shelter-heading">Denver Family Shelter</h2>
-        <p>Have families with children call the Salvation Army Connection Center for shelter screening.</p>
-      </div>
-      <a class="family-shelter-call" href="tel:+13032953366">Call 303-295-3366</a>
-    </section>
+    <div class="family-referral">
+      <p>Direct families with children seeking Denver shelter to call The Salvation Army Connection Center for intake and eligibility screening.</p>
+      <a class="family-shelter-call" href="tel:+13032953366">
+        <span>Connection Center</span>
+        <span>303-295-3366</span>
+      </a>
+    </div>
     </section>
     <section id="directory" aria-label="Resource directory">
       <div class="controls"><div class="search-field"><label for="search">Search resources</label><input type="search" id="search" placeholder="Try food, ID, shelter, or an organization…"></div><div><label for="category">Service category</label><select id="category"><option value="">All categories</option></select></div><button class="reset" id="reset" type="button">Clear filters</button></div>
