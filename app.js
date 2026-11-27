@@ -96,16 +96,13 @@ for (const [label, value] of [['Intake', r.intake], ['Eligibility', r.eligibilit
 function render() {
   const query = ui.search.value.trim().toLowerCase();
   const matches = resources.filter(r => matchesCategory(r) && (!query || r.searchText.includes(query)));
-  document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === quickCategory)));
+  document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === 'Shelter (Families)' ? ui.category.value === button.dataset.category : button.dataset.category === quickCategory)));
   ui.resources.replaceChildren(...matches.map(card)); ui.count.textContent = `${matches.length} of ${resources.length} resource entries`; ui.empty.hidden = matches.length !== 0;
 }
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
-const familyShelterShortcut = document.getElementById('family-shelter-shortcut');
-const familyShelterId = 'resource-045';
-
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=20'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=21'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => {
       const searchFields = Object.entries(r).filter(([key]) => !['source', 'id', 'culturallySpecific', 'reentryRelated', 'denverCounty'].includes(key)).map(([, value]) => value);
@@ -120,7 +117,6 @@ async function start() {
     const categories = resources.flatMap(r => [r.displayCategory, ...(r.additionalCategories || [])]);
     if (resources.some(r => r.culturallySpecific)) categories.push(culturalCategory);
     options(ui.category, categories); render();
-    familyShelterShortcut.disabled = !resources.some(resource => resource.id === familyShelterId);
   } catch { ui.count.textContent = 'The resource guide could not load.'; ui.empty.textContent = 'Please reload the page. If opening the downloaded files, use a local web server or GitHub Pages.'; ui.empty.hidden = false; }
 }
 ui.search.addEventListener('input', render);
@@ -130,20 +126,4 @@ document.querySelectorAll('[data-category]').forEach(button => button.addEventLi
   ui.search.value = ''; quickCategory = button.dataset.category; ui.category.value = quickCategory; render();
   document.getElementById('directory').scrollIntoView({behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start'});
 }));
-familyShelterShortcut.addEventListener('click', () => {
-  const resource = resources.find(entry => entry.id === familyShelterId);
-  if (!resource) return;
-
-  ui.search.value = resource.name;
-  ui.category.value = '';
-  quickCategory = '';
-  render();
-
-  const result = ui.resources.firstElementChild;
-  result.querySelector('details').open = true;
-  const heading = result.querySelector('h3');
-  heading.tabIndex = -1;
-  heading.focus({preventScroll: true});
-  result.scrollIntoView({block: 'start'});
-});
 start();
