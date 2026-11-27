@@ -3,7 +3,6 @@ const ui = Object.fromEntries(['search', 'category', 'reset', 'count', 'resource
 let resources = [];
 const colors = [['#147b45','#e0f2e7'],['#c4501b','#fce9da'],['#7932bc','#efe2fa'],['#176abb','#e0eefb'],['#bd326b','#f9e2ec'],['#087d87','#ddf2f1'],['#997000','#fbf1d2'],['#a63c43','#f9e4e2']];
 const categoryPalette = {
-  'Shelter (Families with Children)': ['#12605b','#d9f2ec'],
   'Shelter (Overnight)': ['#176abb','#e0eefb'],
   'Shelter (Day Center)': ['#147b45','#e0f2e7'],
   'Food Resources': ['#c4501b','#fce9da'],
@@ -70,7 +69,6 @@ function card(r) {
   const hash = [...r.displayCategory].reduce((total, char) => total + char.charCodeAt(0), 0);
   const palette = categoryPalette[r.displayCategory] || colors[hash % colors.length]; el.style.setProperty('--accent', palette[0]); el.style.setProperty('--tint', palette[1]);
   if (r.category === 'Shelter (Overnight)') el.classList.add('night-card');
-  if (r.category === 'Shelter (Families with Children)') el.classList.add('family-shelter-card');
   if (r.category === 'Shelter (Day Center)') el.classList.add('day-card');
   if (r.name.trim().toLowerCase() === 'transgender center of the rockies') el.classList.add('trans-card');
   else if (r.category.includes('LGBTQ') || r.name.trim().toLowerCase() === 'youth seen') el.classList.add('rainbow-card');
@@ -104,7 +102,7 @@ function render() {
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=18'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=19'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => {
       const searchFields = Object.entries(r).filter(([key]) => !['source', 'id', 'culturallySpecific', 'reentryRelated', 'denverCounty'].includes(key)).map(([, value]) => value);
