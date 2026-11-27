@@ -965,7 +965,8 @@
         "row": 46
       },
       "additionalCategories": [
-        "Family & Children"
+        "Family & Children",
+        "Shelter (Families)"
       ]
     },
     {
@@ -3497,56 +3498,6 @@
       }
     },
     {
-      "name": "VOA Theodora Family Hotel",
-      "category": "Shelter (Overnight)",
-      "streetAddress": "4885 West Colfax Avenue",
-      "city": "Denver",
-      "state": "CO",
-      "zipCode": "80204",
-      "phone": "720-904-9821 (hotel); 303-295-3366 (family intake)",
-      "website": "https://www.voacolorado.org/locations/family-hotel/",
-      "hours": "Staffed 24/7; admission arranged by referral.",
-      "intake": "Families: call 303-295-3366 for the family shelter waitlist. Veterans: ask a community agency to submit the VOA referral packet.",
-      "eligibility": "Families with children experiencing homelessness; designated veteran beds through referral.",
-      "services": "Private-room shelter, meals, hygiene supplies, transportation assistance and housing navigation.",
-      "notes": "Online source checked 2026-11-23: https://www.voacolorado.org/locations/family-hotel/",
-      "id": "resource-174",
-      "source": {
-        "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
-        "sheet": "Resource Guide",
-        "row": 175
-      },
-      "denverCounty": true,
-      "additionalCategories": [
-        "Family & Children"
-      ]
-    },
-    {
-      "name": "Salvation Army Lambuth Family Center",
-      "category": "Shelter (Overnight)",
-      "streetAddress": "2741 North Federal Boulevard",
-      "city": "Denver",
-      "state": "CO",
-      "zipCode": "80211",
-      "phone": "303-295-3366",
-      "website": "https://lambuthfamilycenter.salvationarmy.org/lambuth_family_center/",
-      "hours": "Residential shelter; intake hours not published.",
-      "intake": "Call the Connection Center at 303-295-3366 for family shelter screening and placement.",
-      "eligibility": "Families with minor children and no other safe place to stay.",
-      "services": "Short-term family shelter, meals, case management and housing support.",
-      "notes": "Lambuth facility phone: 720-305-4678. Online source checked 2026-11-23: https://lambuthfamilycenter.salvationarmy.org/lambuth_family_center/",
-      "id": "resource-175",
-      "source": {
-        "file": "OUTREACH RESOURCE GUIDE - CURRENT.ods",
-        "sheet": "Resource Guide",
-        "row": 176
-      },
-      "denverCounty": true,
-      "additionalCategories": [
-        "Family & Children"
-      ]
-    },
-    {
       "name": "VOA Irving Street Women’s Residence",
       "category": "Housing Support",
       "streetAddress": "601 South Irving Street",
@@ -5241,7 +5192,7 @@
     {
       "id": "resource-258",
       "name": "Comitis Crisis Center – Emergency Family Shelter",
-      "category": "Shelter (Overnight)",
+      "category": "Shelter (Families)",
       "streetAddress": "2178 Victor St.",
       "city": "Aurora",
       "state": "CO",
