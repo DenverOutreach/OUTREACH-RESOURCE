@@ -3148,7 +3148,7 @@
     },
     {
       "name": "Colorado Department of Motor Vehicles (DMV)",
-      "category": "Vital Documents",
+      "category": "ID & Vital Documents",
       "streetAddress": "",
       "city": "Denver Metro",
       "state": "CO",
@@ -3169,7 +3169,7 @@
     },
     {
       "name": "Denver County Vital Records",
-      "category": "Vital Documents",
+      "category": "ID & Vital Documents",
       "streetAddress": "120 W. 5th Ave.",
       "city": "Denver",
       "state": "CO",
@@ -3191,7 +3191,7 @@
     },
     {
       "name": "Social Security Administration (SSA)",
-      "category": "Vital Documents",
+      "category": "ID & Vital Documents",
       "streetAddress": "",
       "city": "Denver",
       "state": "CO",
@@ -3905,7 +3905,7 @@
     },
     {
       "name": "Colorado ID Project - Denver Identity Documents",
-      "category": "Vital Documents",
+      "category": "ID & Vital Documents",
       "streetAddress": "1560 Broadway, Suite 1100 (Colorado Legal Services office)",
       "city": "Denver",
       "state": "CO",
@@ -4283,7 +4283,7 @@
     },
     {
       "name": "Metro Caring – ID Vouchers",
-      "category": "Vital Documents",
+      "category": "ID & Vital Documents",
       "streetAddress": "1100 E. 18th Ave.",
       "city": "Denver",
       "state": "CO",
@@ -4304,7 +4304,7 @@
     },
     {
       "name": "Denver Human Services – GIVE Center ID and Birth Certificate Help",
-      "category": "Vital Documents",
+      "category": "ID & Vital Documents",
       "streetAddress": "1200 Federal Blvd., first-floor entrance",
       "city": "Denver",
       "state": "CO",
@@ -4324,7 +4324,7 @@
     },
     {
       "name": "St. Francis Center – ID and Birth Certificate Assistance",
-      "category": "Vital Documents",
+      "category": "ID & Vital Documents",
       "streetAddress": "2323 Curtis St.",
       "city": "Denver",
       "state": "CO",
@@ -5069,7 +5069,7 @@
       "intake": "Visit the day center during clothing-room hours. Call to confirm closures or availability.",
       "eligibility": "Day center guests seeking clothing or shoes.",
       "services": "Access to clean clothing, shoes, and accessories.",
-      "notes": "For urgent clothing needs, Denver County residents can also ask the Denver Human Services GIVE Center about assistance. See the GIVE Center listing under Vital Documents.",
+      "notes": "For urgent clothing needs, Denver County residents can also ask the Denver Human Services GIVE Center about assistance. See the GIVE Center listing under ID & Vital Documents.",
       "source": {
         "website": "https://www.sfcdenver.org/programs-services/day-services/",
         "verifiedDate": "2026-11-23"
