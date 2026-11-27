@@ -31,6 +31,73 @@
       color: inherit;
       text-decoration: underline;
     }
+
+    .hero .hero-tags,
+    .hero .family-shelter {
+      max-width: 690px;
+    }
+
+    .hero .family-shelter {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 12px;
+      margin-top: 14px;
+      padding: 14px 16px;
+      border-radius: 14px;
+      background: #e5d8f8;
+      color: #10244a;
+    }
+
+    .family-shelter-icon {
+      width: 36px;
+      height: 36px;
+    }
+
+    .hero .family-shelter h2 {
+      margin: 0 0 4px;
+      color: inherit;
+      font-size: 1.25rem;
+    }
+
+    .hero .family-shelter p {
+      margin: 0;
+      color: inherit;
+      font-size: 0.9375rem;
+      line-height: 1.5;
+      text-shadow: none;
+    }
+
+    .family-shelter-call {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 8px 12px;
+      border-radius: 9px;
+      background: #092853;
+      color: #fff;
+      font-weight: 700;
+      text-align: center;
+      text-decoration: none;
+    }
+
+    .family-shelter-call:focus-visible {
+      outline: 3px solid #10244a;
+      outline-offset: 3px;
+    }
+
+    @media (max-width: 600px) {
+      .hero .family-shelter {
+        grid-template-columns: auto minmax(0, 1fr);
+      }
+
+      .family-shelter-call {
+        grid-column: 1 / -1;
+      }
+    }
   </style>
   <script src="app.js?v=32" defer></script>
 </head>
@@ -41,7 +108,21 @@
     <section class="hero"><div class="meadow-flowers" aria-hidden="true"><span>✿</span><span>✿</span><span>✿</span><span>✿</span></div><h1>Find the right resource.<br><span>Help someone connect.</span></h1><p>A practical Denver-area directory for outreach teams and case managers. Find services, check eligibility, and plan the next connection.</p><div class="hero-tags" aria-label="Quick resource filters">
       <button type="button" data-category="Shelter (Overnight)" aria-pressed="false">SHELTER (OVERNIGHT)</button>
       <button type="button" data-category="Shelter (Day Center)" aria-pressed="false">SHELTER (DAY CENTER)</button>
-    </div></section>
+    </div>
+    <section class="family-shelter" aria-labelledby="family-shelter-heading">
+      <svg class="family-shelter-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="8" r="3"/>
+        <circle cx="4.5" cy="11" r="2"/>
+        <circle cx="19.5" cy="11" r="2"/>
+        <path d="M6.5 20v-1a5.5 5.5 0 0 1 11 0v1M1 20v-1a3.5 3.5 0 0 1 4-3.5m14 0a3.5 3.5 0 0 1 4 3.5v1"/>
+      </svg>
+      <div>
+        <h2 id="family-shelter-heading">Denver family shelter</h2>
+        <p>Direct families with children seeking shelter in Denver to call The Salvation Army Connection Center for intake and eligibility screening.</p>
+      </div>
+      <a class="family-shelter-call" href="tel:+13032953366">Call 303-295-3366</a>
+    </section>
+    </section>
     <section id="directory" aria-label="Resource directory">
       <div class="controls"><div class="search-field"><label for="search">Search resources</label><input type="search" id="search" placeholder="Try food, ID, shelter, or an organization…"></div><div><label for="category">Service category</label><select id="category"><option value="">All categories</option></select></div><button class="reset" id="reset" type="button">Clear filters</button></div>
       <div class="results-heading"><h2>Explore resources</h2><p id="count" role="status" aria-live="polite">Loading your guide…</p></div>
