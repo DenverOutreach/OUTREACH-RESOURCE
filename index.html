@@ -43,7 +43,7 @@
       display: grid;
       grid-template-columns: auto minmax(0, 1fr) auto;
       align-items: center;
-      gap: 10px;
+      gap: 4px 10px;
       margin-top: 14px;
       min-height: 80px;
       padding: 8px 16px;
@@ -58,7 +58,10 @@
     }
 
     .hero .family-shelter h2 {
-      margin: 0 0 4px;
+      grid-column: 1 / -1;
+      margin: 0;
+      text-align: center;
+      transform: translateY(6px);
       color: inherit;
       font-family: inherit;
       font-size: 12px;
@@ -117,6 +120,7 @@
       <button type="button" data-category="Shelter (Day Center)" aria-pressed="false">SHELTER (DAY CENTER)</button>
     </div>
     <section class="family-shelter" aria-labelledby="family-shelter-heading">
+      <h2 id="family-shelter-heading">Denver Family Shelter</h2>
       <svg class="family-shelter-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
         <circle cx="12" cy="6.75" r="3"/>
         <circle cx="4.5" cy="10" r="2"/>
@@ -124,7 +128,6 @@
         <path d="M6.5 20v-1.5a5.5 5.5 0 0 1 11 0V20M1 20v-1a3.5 3.5 0 0 1 4.5-3.4m13 0A3.5 3.5 0 0 1 23 19v1"/>
       </svg>
       <div>
-        <h2 id="family-shelter-heading">Denver Family Shelter</h2>
         <p>Have families with children call the Salvation Army Connection Center for shelter screening.</p>
       </div>
       <a class="family-shelter-call" href="tel:+13032953366">Call 303-295-3366</a>
