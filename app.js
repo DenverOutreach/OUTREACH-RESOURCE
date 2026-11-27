@@ -113,7 +113,8 @@ async function start() {
       if (r.reentryRelated || r.category === reentryCategory) searchFields.push('re-entry assistance reentry second chance fair chance felon friendly');
       return {...r, displayCategory: r.category, searchText: searchFields.join(' ').toLowerCase()};
     });
-    resources.sort((a, b) => a.name.localeCompare(b.name, 'en', {sensitivity: 'base'}));
+    const sortName = resource => resource.name.replace(/^The\s+/i, '');
+    resources.sort((a, b) => sortName(a).localeCompare(sortName(b), 'en', {sensitivity: 'base'}));
     const categories = resources.flatMap(r => [r.displayCategory, ...(r.additionalCategories || [])]);
     if (resources.some(r => r.culturallySpecific)) categories.push(culturalCategory);
     options(ui.category, categories); render();
