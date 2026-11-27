@@ -172,3 +172,44 @@ h1,h2,.card h3,.controls label{font-family:Georgia,serif}h1{font-size:clamp(32px
 .card.trans-card .badge::before {
   background: #293d46;
 }
+
+.hero-tags,
+.card.family-shelter-card {
+  --family-shelter-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22white%22%20stroke-width%3D%221.6%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Ccircle%20cx%3D%226%22%20cy%3D%226.5%22%20r%3D%222.6%22%2F%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%226.5%22%20r%3D%222.6%22%2F%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2211%22%20r%3D%222.5%22%2F%3E%3Cpath%20d%3D%22M8%2012a4.5%204.5%200%200%200-6.5%204v3h3.8m10.7-7a4.5%204.5%200%200%201%206.5%204v3h-3.8M7.5%2021v-2a4.5%204.5%200%200%201%209%200v2z%22%2F%3E%3C%2Fsvg%3E");
+}
+
+.hero-tags {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  max-width: 900px;
+}
+
+.hero-tags button[data-category="Shelter (Families with Children)"] {
+  background: #12605b;
+  border-color: #9ad6c8;
+  color: #fff;
+  min-height: 66px;
+}
+
+.hero-tags button[data-category="Shelter (Families with Children)"]::before {
+  content: "";
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  margin-right: 8px;
+  vertical-align: middle;
+  background: var(--family-shelter-icon) center / contain no-repeat;
+}
+
+.card.family-shelter-card:not(.rainbow-card):not(.trans-card) .badge::before {
+  content: "";
+  background-image: var(--family-shelter-icon);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 22px;
+}
+
+@media (max-width: 600px) {
+  .hero-tags {
+    grid-template-columns: 1fr;
+  }
+}
