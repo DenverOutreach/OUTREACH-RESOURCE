@@ -96,6 +96,10 @@ for (const [label, value] of [['Intake', r.intake], ['Eligibility', r.eligibilit
 function render() {
   const query = ui.search.value.trim().toLowerCase();
   const matches = resources.filter(r => matchesCategory(r) && (!query || r.searchText.includes(query)));
+  if (ui.category.value === 'Shelter (Families)') {
+    const intakeIndex = matches.findIndex(resource => resource.id === 'resource-045');
+    if (intakeIndex > 0) matches.unshift(...matches.splice(intakeIndex, 1));
+  }
   document.querySelectorAll('[data-category]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.category === 'Shelter (Families)' ? ui.category.value === button.dataset.category : button.dataset.category === quickCategory)));
   ui.resources.replaceChildren(...matches.map(card)); ui.count.textContent = `${matches.length} of ${resources.length} resource entries`; ui.empty.hidden = matches.length !== 0;
 }
@@ -109,11 +113,7 @@ async function start() {
       if (r.reentryRelated || r.category === reentryCategory) searchFields.push('re-entry assistance reentry second chance fair chance felon friendly');
       return {...r, displayCategory: r.category, searchText: searchFields.join(' ').toLowerCase()};
     });
-    // Shuffle once per page load so filtering keeps a stable resource order.
-    for (let i = resources.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [resources[i], resources[j]] = [resources[j], resources[i]];
-    }
+    resources.sort((a, b) => a.name.localeCompare(b.name, 'en', {sensitivity: 'base'}));
     const categories = resources.flatMap(r => [r.displayCategory, ...(r.additionalCategories || [])]);
     if (resources.some(r => r.culturallySpecific)) categories.push(culturalCategory);
     options(ui.category, categories); render();
