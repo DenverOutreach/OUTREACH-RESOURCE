@@ -52,7 +52,7 @@ body{background:linear-gradient(140deg,#e9f0f5 0%,#edf2ef 55%,#eeebf4 100%)}
 .rainbow-card .badge{background:#ffffffd9;border-color:#8645c4;color:#39254e}
 .rainbow-card .actions a{background:#efd3ff;border-color:#8645c4;color:#39254e}
 .rainbow-card .actions a:first-child{background:#efd3ff;color:#39254e}
-.rainbow-card .actions a:nth-child(2){background:#a5ebc0;border-color:#238545;color:#173e27}.rainbow-card .actions a:nth-child(3){background:#b6d9ff;border-color:#2867ac;color:#203d60}
+.rainbow-card .actions a:nth-child(2){background:#a5ebc0;border-color:#238545;color:#173e27}.card.rainbow-card .actions a.call-provider{background:#b6d9ff;border-color:#2867ac;color:#203d60}
 footer{border-color:#c2d2dc;color:#4c636f}
 @media(max-width:1000px){.controls{grid-template-columns:2fr 1.3fr auto}.hero-tags{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.controls{grid-template-columns:1fr}.hero-tags{grid-template-columns:1fr}.hero-tags button{width:100%}.hero:before,.hero:after{height:62%}}
