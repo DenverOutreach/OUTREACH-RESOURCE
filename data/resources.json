@@ -3523,7 +3523,7 @@
     },
     {
       "name": "Salvation Army Lambuth Family Center",
-      "category": "Shelter (Families with Children)",
+      "category": "Shelter (Overnight)",
       "streetAddress": "2741 North Federal Boulevard",
       "city": "Denver",
       "state": "CO",
@@ -3533,7 +3533,7 @@
       "hours": "Residential shelter; intake hours not published.",
       "intake": "Call the Connection Center at 303-295-3366 for family shelter screening and placement.",
       "eligibility": "Families with minor children and no other safe place to stay.",
-      "services": "Short-term overnight shelter for families, with meals, case management and housing support.",
+      "services": "Short-term family shelter, meals, case management and housing support.",
       "notes": "Lambuth facility phone: 720-305-4678. Online source checked 2026-11-23: https://lambuthfamilycenter.salvationarmy.org/lambuth_family_center/",
       "id": "resource-175",
       "source": {
@@ -5241,7 +5241,7 @@
     {
       "id": "resource-258",
       "name": "Comitis Crisis Center – Emergency Family Shelter",
-      "category": "Shelter (Families with Children)",
+      "category": "Shelter (Overnight)",
       "streetAddress": "2178 Victor St.",
       "city": "Aurora",
       "state": "CO",
@@ -5251,7 +5251,7 @@
       "hours": "Call for current intake and availability.",
       "intake": "Call before traveling to confirm family shelter intake, screening, and where to go.",
       "eligibility": "Families experiencing homelessness. Confirm eligibility directly.",
-      "services": "Emergency overnight shelter and support for families with children.",
+      "services": "Emergency family shelter and support.",
       "notes": "Check current availability before traveling.",
       "source": {
         "website": "https://comitiscrisiscenter.org/",
