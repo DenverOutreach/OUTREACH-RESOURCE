@@ -34,6 +34,7 @@ function link(label, href, provider, external = false) {
   a.href = href;
 
   if (external) {
+    a.classList.add(label === 'Map' ? 'map-link' : 'website-link');
     const arrow = node('span', '↗', 'new-tab-arrow');
     arrow.setAttribute('aria-hidden', 'true');
     a.append(label + ' ', arrow);
