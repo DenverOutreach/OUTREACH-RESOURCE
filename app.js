@@ -51,6 +51,19 @@ function link(label, href, provider, external = false) {
 
   return a;
 }
+function detailText(value, provider) {
+  const paragraph = node('p', '');
+  let offset = 0;
+  for (const match of value.matchAll(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/gi)) {
+    const href = websiteUrl(match[2]);
+    if (!href) continue;
+
+    paragraph.append(value.slice(offset, match.index), link(match[1], href, provider, true));
+    offset = match.index + match[0].length;
+  }
+  paragraph.append(value.slice(offset));
+  return paragraph;
+}
 function card(r) {
   const el = node('article', '', 'card');
   const hash = [...r.displayCategory].reduce((total, char) => total + char.charCodeAt(0), 0);
@@ -75,7 +88,7 @@ function card(r) {
   el.append(actions);
   const details = node('details'); details.append(node('summary', 'Intake, eligibility & notes'));
 const publicNotes = (r.notes || '').replace(/\s*(?:Online sources? checked|Food audit|City routing checked) \d{4}-\d{2}-\d{2}(?::\s*https?:\/\/\S+(?:\s+and\s+https?:\/\/\S+)?|\.)/gi, '').trim();
-for (const [label, value] of [['Intake', r.intake], ['Eligibility', r.eligibility], ['Notes', publicNotes]]) {    if (value) { details.append(node('p', label, 'detail-label'), node('p', value)); }
+for (const [label, value] of [['Intake', r.intake], ['Eligibility', r.eligibility], ['Notes', publicNotes]]) {    if (value) { details.append(node('p', label, 'detail-label'), detailText(value, r.name)); }
   }
   if (r.website && !website) details.append(node('p', `Website reference in guide: ${r.website}`));
   el.append(details); return el;
@@ -89,7 +102,7 @@ function render() {
 function options(select, values) { [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b)).forEach(value => { const option = node('option', value); option.value = value; select.append(option); }); }
 async function start() {
   try {
-    const response = await fetch('./data/resources.json?v=16'); if (!response.ok) throw new Error('Could not load guide');
+    const response = await fetch('./data/resources.json?v=17'); if (!response.ok) throw new Error('Could not load guide');
     const data = await response.json();
     resources = data.resources.map(r => {
       const searchFields = Object.entries(r).filter(([key]) => !['source', 'id', 'culturallySpecific', 'reentryRelated', 'denverCounty'].includes(key)).map(([, value]) => value);
