@@ -5,15 +5,30 @@
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A searchable Denver outreach resource directory for outreach teams and case managers.">
   <title>Denver Resource Directory</title><link rel="stylesheet" href="styles.css?v=3"><link rel="stylesheet" href="mountains.css?v=24">
- <style>
-  .card .actions .call-provider {
-    flex: 0 0 100%;
-    box-sizing: border-box;
-    text-align: center;
-  }
+  <style>
+    .card .actions {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
 
-</style>
-  <script src="app.js?v=27" defer></script>
+    .card .actions a {
+      text-align: center;
+      overflow-wrap: anywhere;
+    }
+
+    .card .actions .website-link {
+      grid-column: 1;
+    }
+
+    .card .actions .map-link {
+      grid-column: 2;
+    }
+
+    .card .actions .call-provider {
+      grid-column: 1 / -1;
+    }
+  </style>
+  <script src="app.js?v=28" defer></script>
 </head>
 <body>
   <a class="skip" href="#directory">Skip to resources</a>
