@@ -32,67 +32,30 @@
       text-decoration: underline;
     }
 
-    .hero .hero-tags,
-    .hero .family-referral {
-      max-width: 690px;
-    }
+    .hero .hero-tags { max-width: 820px; }
 
-    .hero .family-referral {
-      position: relative;
-      z-index: 1;
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
-      align-items: center;
-      gap: 12px 18px;
-      margin-top: 14px;
-      padding-top: 12px;
-      border-top: 1px solid #fff;
-      color: #fff;
-    }
-
-    .hero .family-referral p {
-      margin: 0;
-      color: inherit;
-      font-size: 15px;
-      line-height: 1.5;
-      text-wrap: pretty;
-      text-shadow: 0 1px 3px #07162e;
-    }
-
-    .family-shelter-call {
-      display: inline-flex;
-      flex-direction: column;
+    .hero .hero-tags .family-shelter-shortcut {
+      display: flex;
       align-items: center;
       justify-content: center;
-      min-height: 44px;
-      padding: 8px 12px;
-      border: 1px solid #9eb4e4;
-      border-radius: 9px;
-      background: #092853;
-      color: #fff;
-      font-size: 15px;
-      font-weight: 700;
-      line-height: 1.4;
-      text-align: center;
-      text-decoration: none;
+      gap: 10px;
+      min-height: 66px;
+      background: #e5d8f8;
+      border-color: #c5a8ef;
+      color: #10244a;
     }
 
-    .family-shelter-call:focus-visible {
-      outline: 3px solid #fff;
-      outline-offset: 3px;
+    .family-shelter-shortcut svg { width: 27px; height: 27px; flex: none; }
+
+    @media (min-width: 761px) {
+      .hero .hero-tags { grid-template-columns: repeat(3, minmax(0, 1fr)); }
     }
 
-    @media (max-width: 500px) {
-      .hero .family-referral {
-        grid-template-columns: 1fr;
-      }
-
-      .family-shelter-call {
-        justify-self: start;
-      }
+    @media (max-width: 760px) {
+      .family-shelter-shortcut { grid-column: 1 / -1; }
     }
   </style>
-  <script src="app.js?v=32" defer></script>
+  <script src="app.js?v=33" defer></script>
 </head>
 <body>
   <a class="skip" href="#directory">Skip to resources</a>
@@ -101,13 +64,15 @@
     <section class="hero"><div class="meadow-flowers" aria-hidden="true"><span>✿</span><span>✿</span><span>✿</span><span>✿</span></div><h1>Find the right resource.<br><span>Help someone connect.</span></h1><p>A practical Denver-area directory for outreach teams and case managers. Find services, check eligibility, and plan the next connection.</p><div class="hero-tags" aria-label="Quick resource filters">
       <button type="button" data-category="Shelter (Overnight)" aria-pressed="false">SHELTER (OVERNIGHT)</button>
       <button type="button" data-category="Shelter (Day Center)" aria-pressed="false">SHELTER (DAY CENTER)</button>
-    </div>
-    <div class="family-referral">
-      <p>For families with children seeking shelter in Denver, the first step is to call The Salvation Army Connection Center for intake and eligibility screening.</p>
-      <a class="family-shelter-call" href="tel:+13032953366">
-        <span>Connection Center</span>
-        <span>303-295-3366</span>
-      </a>
+      <button type="button" id="family-shelter-shortcut" class="family-shelter-shortcut" aria-controls="resources" disabled>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+          <circle cx="12" cy="6.75" r="3"/>
+          <circle cx="4.5" cy="10" r="2"/>
+          <circle cx="19.5" cy="10" r="2"/>
+          <path d="M6.5 20v-1.5a5.5 5.5 0 0 1 11 0V20M1 20v-1a3.5 3.5 0 0 1 4.5-3.4m13 0A3.5 3.5 0 0 1 23 19v1"/>
+        </svg>
+        SHELTER (FAMILIES)
+      </button>
     </div>
     </section>
     <section id="directory" aria-label="Resource directory">
