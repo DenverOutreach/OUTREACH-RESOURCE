@@ -12,12 +12,8 @@
     text-align: center;
   }
 
-  .card .actions .new-tab-label {
-    font-size: 0.9em;
-    white-space: nowrap;
-  }
 </style>
-  <script src="app.js?v=26" defer></script>
+  <script src="app.js?v=27" defer></script>
 </head>
 <body>
   <a class="skip" href="#directory">Skip to resources</a>
@@ -30,7 +26,7 @@
     <section id="directory" aria-label="Resource directory">
       <div class="controls"><div class="search-field"><label for="search">Search resources</label><input type="search" id="search" placeholder="Try food, ID, shelter, or an organization…"></div><div><label for="category">Service category</label><select id="category"><option value="">All categories</option></select></div><button class="reset" id="reset" type="button">Clear filters</button></div>
       <div class="results-heading"><h2>Explore resources</h2><p id="count" role="status" aria-live="polite">Loading your guide…</p></div>
-      <p class="source-note">From your outreach resource guide. Hours, eligibility, and availability may change—confirm with the provider before a referral.</p>
+      <p class="source-note">Website and Map links marked ↗ open in a new tab. Hours, eligibility, and availability may change—confirm with the provider before a referral.</p>
       <div id="resources" class="grid"></div><p id="empty" class="empty" hidden>No resources match. Try a different search or clear the filters.</p>
     </section>
   </main>

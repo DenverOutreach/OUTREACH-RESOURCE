@@ -34,8 +34,10 @@ function link(label, href, provider, external = false) {
   a.href = href;
 
   if (external) {
-    a.append(label + ' ', node('span', '· NEW TAB', 'new-tab-label'));
-    a.setAttribute('aria-label', `${label} · New tab for ${provider}`);
+    const arrow = node('span', '↗', 'new-tab-arrow');
+    arrow.setAttribute('aria-hidden', 'true');
+    a.append(label + ' ', arrow);
+    a.setAttribute('aria-label', `${label} for ${provider} (opens in a new tab)`);
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
   } else {
